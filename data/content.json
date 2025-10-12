@@ -1,15 +1,69 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-12",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-12",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "The sign of intelligence is that you are constantly wondering. Idiots are always dead sure about every damn thing they are doing in their life.",
       "source": "Isha Sadhguru",
       "url": "https://isha.sadhguru.org",
       "date": "2024-01-01",
-      "tags": ["intelligence", "wisdom"],
+      "tags": [
+        "intelligence",
+        "wisdom"
+      ],
       "type": "quote"
     }
   ],
   "articles": [],
-  "videos": [],
-  "last_updated": null
+  "videos": [
+    {
+      "title": "The Big Challenge Before Humanity | Sadhguru",
+      "description": "In February 2025, entertainer and entrepreneur Khalid Al Ameri interviewed Sadhguru in Dubai where they explored the ...",
+      "url": "https://www.youtube.com/watch?v=eua1Nj9kJJU",
+      "thumbnail": "https://i.ytimg.com/vi/eua1Nj9kJJU/hqdefault.jpg",
+      "date": "2025-10-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "How Yantras Influence Your Body | Sadhguru",
+      "description": "Sadhguru on the power of the Bhairavi Yantra — and how, when approached with devotion, it empowers one to take charge of ...",
+      "url": "https://www.youtube.com/watch?v=W2zBsjWQcrU",
+      "thumbnail": "https://i.ytimg.com/vi/W2zBsjWQcrU/hqdefault.jpg",
+      "date": "2025-10-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "This Meditation Opens Up Past Life Memories | Sadhguru",
+      "description": "Sadhguru responds to a question about past lives and explains why exploring them on the level of one's memory can be ...",
+      "url": "https://www.youtube.com/watch?v=oYR21kX8a58",
+      "thumbnail": "https://i.ytimg.com/vi/oYR21kX8a58/hqdefault.jpg",
+      "date": "2025-10-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    }
+  ],
+  "last_updated": "2025-10-12T16:30:13.383029"
 }
