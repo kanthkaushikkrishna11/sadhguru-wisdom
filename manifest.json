@@ -1,0 +1,16 @@
+{
+  "name": "Sadhguru Wisdom Search",
+  "short_name": "Sadhguru",
+  "description": "Search Sadhguru's quotes, articles, and videos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "icons": [
+    {
+      "src": "https://isha.sadhguru.org/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
