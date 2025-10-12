@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🕉️ Sadhguru Wisdom Search</title>
+    <meta name="description" content="Search Sadhguru's quotes, articles, and videos from trusted sources">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#667eea">
+    <style>
+        body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+        .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        .card-hover:hover { transform: translateY(-2px); box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1); }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect } = React;
+
+        function App() {
+            const [allContent, setAllContent] = useState({ quotes: [], articles: [], videos: [] });
+            const [searchQuery, setSearchQuery] = useState('');
+            const [searchResults, setSearchResults] = useState(null);
+            const [activeTab, setActiveTab] = useState('all');
+            const [loading, setLoading] = useState(true);
+            const [lastUpdated, setLastUpdated] = useState('');
+
+            // Load content on mount
+            useEffect(() => {
+                loadContent();
+            }, []);
+
+            const loadContent = async () => {
+                try {
+                    const response = await fetch('data/content.json');
+                    const data = await response.json();
+                    setAllContent(data);
+                    setLastUpdated(data.last_updated);
+                    setLoading(false);
+                } catch (error) {
+                    console.error('Error loading content:', error);
+                    setLoading(false);
+                }
+            };
+
+            const handleSearch = (query) => {
+                if (!query.trim()) {
+                    setSearchResults(null);
+                    return;
+                }
+
+                const lowerQuery = query.toLowerCase();
+                
+                const results = {
+                    quotes: allContent.quotes.filter(item => 
+                        item.content?.toLowerCase().includes(lowerQuery) ||
+                        item.tags?.some(tag => tag.toLowerCase().includes(lowerQuery))
+                    ),
+                    videos: allContent.videos.filter(item =>
+                        item.title?.toLowerCase().includes(lowerQuery) ||
+                        item.description?.toLowerCase().includes(lowerQuery) ||
+                        item.tags?.some(tag => tag.toLowerCase().includes(lowerQuery))
+                    ),
+                    articles: allContent.articles.filter(item =>
+                        item.title?.toLowerCase().includes(lowerQuery) ||
+                        item.content?.toLowerCase().includes(lowerQuery) ||
+                        item.tags?.some(tag => tag.toLowerCase().includes(lowerQuery))
+                    )
+                };
+
+                setSearchResults(results);
+            };
+
+            const getFilteredResults = () => {
+                if (!searchResults) return null;
+                if (activeTab === 'all') return searchResults;
+                return { [activeTab]: searchResults[activeTab] };
+            };
+
+            const getTotalResults = () => {
+                if (!searchResults) return 0;
+                return searchResults.quotes.length + searchResults.videos.length + searchResults.articles.length;
+            };
+
+            const formatDate = (dateString) => {
+                if (!dateString) return '';
+                try {
+                    return new Date(dateString).toLocaleDateString('en-US', { 
+                        year: 'numeric', 
+                        month: 'short', 
+                        day: 'numeric' 
+                    });
+                } catch {
+                    return dateString;
+                }
+            };
+
+            const ContentCard = ({ item, type }) => {
+                const icons = { quote: '💬', video: '🎥', article: '📝' };
+                
+                return (
+                    <div className="bg-white rounded-xl shadow-md p-6 card-hover transition-all duration-200">
+                        <div className="flex gap-4">
+                            <span className="text-4xl flex-shrink-0">{icons[type]}</span>
+                            <div className="flex-1">
+                                <h3 className="text-xl font-semibold text-gray-800 mb-2">
+                                    {item.title || item.content?.substring(0, 100)}
+                                </h3>
+                                {item.description && (
+                                    <p className="text-gray-600 mb-3">{item.description}</p>
+                                )}
+                                {item.content && !item.title && item.content.length > 100 && (
+                                    <p className="text-gray-600 mb-3">{item.content.substring(100)}...</p>
+                                )}
+                                <div className="flex items-center justify-between flex-wrap gap-2">
+                                    <div className="flex items-center gap-3 text-sm text-gray-500">
+                                        <span>📍 {item.source}</span>
+                                        {item.date && <span>📅 {formatDate(item.date)}</span>}
+                                    </div>
+                                    <a 
+                                        href={item.url} 
+                                        target="_blank" 
+                                        rel="noopener noreferrer"
+                                        className="bg-purple-100 text-purple-700 px-4 py-2 rounded-lg hover:bg-purple-200 transition text-sm font-medium"
+                                    >
+                                        View Source →
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                );
+            };
+
+            if (loading) {
+                return (
+                    <div className="min-h-screen flex items-center justify-center">
+                        <div className="text-center">
+                            <div className="text-6xl mb-4">🕉️</div>
+                            <p className="text-xl text-gray-600">Loading wisdom...</p>
+                        </div>
+                    </div>
+                );
+            }
+
+            const filteredResults = getFilteredResults();
+
+            return (
+                <div className="min-h-screen">
+                    {/* Header */}
+                    <header className="gradient-bg text-white shadow-lg sticky top-0 z-50">
+                        <div className="max-w-6xl mx-auto px-4 py-6">
+                            <h1 className="text-3xl font-bold mb-4">🕉️ Sadhguru Wisdom Search</h1>
+                            <div className="relative">
+                                <input
+                                    type="text"
+                                    placeholder="Search quotes, articles, videos..."
+                                    className="w-full px-6 py-4 pr-24 rounded-full text-gray-800 text-lg focus:outline-none focus:ring-4 focus:ring-white focus:ring-opacity-30"
+                                    value={searchQuery}
+                                    onChange={(e) => {
+                                        setSearchQuery(e.target.value);
+                                        handleSearch(e.target.value);
+                                    }}
+                                />
+                                <button 
+                                    className="absolute right-2 top-2 bg-white text-purple-600 px-6 py-2 rounded-full font-medium hover:bg-gray-100 transition"
+                                    onClick={() => handleSearch(searchQuery)}
+                                >
+                                    🔍
+                                </button>
+                            </div>
+                            {lastUpdated && (
+                                <p className="text-sm mt-3 opacity-90">
+                                    ✨ Last updated: {formatDate(lastUpdated)}
+                                </p>
+                            )}
+                        </div>
+                    </header>
+
+                    {/* Main Content */}
+                    <main className="max-w-6xl mx-auto px-4 py-8">
+                        {/* Stats */}
+                        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+                            <div className="bg-white rounded-lg p-6 text-center">
+                                <div className="text-3xl mb-2">💬</div>
+                                <div className="text-2xl font-bold text-purple-600">{allContent.quotes.length}</div>
+                                <div className="text-gray-600">Quotes</div>
+                            </div>
+                            <div className="bg-white rounded-lg p-6 text-center">
+                                <div className="text-3xl mb-2">🎥</div>
+                                <div className="text-2xl font-bold text-purple-600">{allContent.videos.length}</div>
+                                <div className="text-gray-600">Videos</div>
+                            </div>
+                            <div className="bg-white rounded-lg p-6 text-center">
+                                <div className="text-3xl mb-2">📝</div>
+                                <div className="text-2xl font-bold text-purple-600">{allContent.articles.length}</div>
+                                <div className="text-gray-600">Articles</div>
+                            </div>
+                        </div>
+
+                        {/* Tabs */}
+                        {searchResults && getTotalResults() > 0 && (
+                            <div className="flex gap-2 mb-6 flex-wrap">
+                                {['all', 'quotes', 'videos', 'articles'].map(tab => {
+                                    const count = tab === 'all' ? getTotalResults() : searchResults[tab]?.length || 0;
+                                    return (
+                                        <button
+                                            key={tab}
+                                            onClick={() => setActiveTab(tab)}
+                                            className={`px-6 py-2 rounded-full font-medium transition ${
+                                                activeTab === tab 
+                                                    ? 'bg-purple-600 text-white' 
+                                                    : 'bg-white text-gray-700 hover:bg-gray-100'
+                                            }`}
+                                        >
+                                            {tab.charAt(0).toUpperCase() + tab.slice(1)} ({count})
+                                        </button>
+                                    );
+                                })}
+                            </div>
+                        )}
+
+                        {/* Results */}
+                        <div className="space-y-4">
+                            {!searchQuery && (
+                                <div className="text-center py-16">
+                                    <div className="text-6xl mb-4">🔍</div>
+                                    <h2 className="text-2xl font-bold text-gray-800 mb-2">
+                                        Search Sadhguru's Wisdom
+                                    </h2>
+                                    <p className="text-gray-600 mb-4">
+                                        Find quotes, videos, and articles from trusted sources
+                                    </p>
+                                    <div className="bg-white rounded-lg p-6 max-w-2xl mx-auto text-left">
+                                        <h3 className="font-bold mb-3">✅ Trusted Sources Only:</h3>
+                                        <ul className="space-y-2 text-gray-700">
+                                            <li>• ishafoundation.org</li>
+                                            <li>• isha.sadhguru.org</li>
+                                            <li>• YouTube Official</li>
+                                            <li>• Twitter/X @SadhguruJV</li>
+                                            <li>• Instagram @sadhguru</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            )}
+
+                            {filteredResults && (
+                                <>
+                                    {(activeTab === 'all' || activeTab === 'quotes') && filteredResults.quotes?.map((quote, i) => (
+                                        <ContentCard key={`quote-${i}`} item={quote} type="quote" />
+                                    ))}
+                                    {(activeTab === 'all' || activeTab === 'videos') && filteredResults.videos?.map((video, i) => (
+                                        <ContentCard key={`video-${i}`} item={video} type="video" />
+                                    ))}
+                                    {(activeTab === 'all' || activeTab === 'articles') && filteredResults.articles?.map((article, i) => (
+                                        <ContentCard key={`article-${i}`} item={article} type="article" />
+                                    ))}
+                                </>
+                            )}
+
+                            {searchQuery && filteredResults && getTotalResults() === 0 && (
+                                <div className="text-center py-16 bg-white rounded-lg">
+                                    <p className="text-gray-500 text-lg">No results found for "{searchQuery}"</p>
+                                    <p className="text-gray-400 text-sm mt-2">Try different keywords</p>
+                                </div>
+                            )}
+                        </div>
+                    </main>
+
+                    {/* Footer */}
+                    <footer className="bg-white border-t mt-16 py-6">
+                        <div className="max-w-6xl mx-auto px-4 text-center text-gray-600 text-sm">
+                            <p>🕉️ All content from verified Sadhguru and Isha Foundation sources</p>
+                            <p className="mt-2">Auto-updated daily at 6:30 AM IST</p>
+                        </div>
+                    </footer>
+                </div>
+            );
+        }
+
+        ReactDOM.render(<App />, document.getElementById('root'));
+    </script>
+</body>
+</html>
