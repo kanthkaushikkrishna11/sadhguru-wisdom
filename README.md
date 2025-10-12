@@ -10,7 +10,7 @@ Personal knowledge base for Sadhguru's teachings - automatically updated daily!
 - ✅ 100% FREE
 
 ## 📱 Access
-Visit: https://YOUR-USERNAME.github.io/sadhguru-wisdom
+Visit: https://kanthkaushikkrishna11.github.io/sadhguru-wisdom
 
 ## 🔧 Trusted Sources
 - ishafoundation.org
