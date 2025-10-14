@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -36,6 +47,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Science, Spirituality &amp; Global Impact – Glimpses from Harvard Medical School | Sadhguru",
+      "description": "A glimpse into the two-day \"Consciousness: Science, Spirituality & Global Impact\" conference organized by Sadhguru Center for a ...",
+      "url": "https://www.youtube.com/watch?v=cbe_bAAljUU",
+      "thumbnail": "https://i.ytimg.com/vi/cbe_bAAljUU/hqdefault.jpg",
+      "date": "2025-10-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "What Should You Do When AI Takes Over? | Sadhguru",
+      "description": "If we want humanity to enjoy the fruits of science and technology rather than use them to destroy ourselves and the entire planet, ...",
+      "url": "https://www.youtube.com/watch?v=5siCgrhEL6g",
+      "thumbnail": "https://i.ytimg.com/vi/5siCgrhEL6g/hqdefault.jpg",
+      "date": "2025-10-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Big Challenge Before Humanity | Sadhguru",
       "description": "In February 2025, entertainer and entrepreneur Khalid Al Ameri interviewed Sadhguru in Dubai where they explored the ...",
@@ -76,5 +113,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-13T03:34:46.167408"
+  "last_updated": "2025-10-14T03:23:45.136708"
 }
