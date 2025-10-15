@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -47,6 +58,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Competition Is Making Your Life Difficult | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=qYvH8rGKIRM",
+      "thumbnail": "https://i.ytimg.com/vi/qYvH8rGKIRM/hqdefault.jpg",
+      "date": "2025-10-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Cauvery Calling’s Impact - Read the Caption for Details",
+      "description": "The world's largest farmer-driven ecological movement – Cauvery Calling – is aimed at revitalizing Cauvery river in southern India ...",
+      "url": "https://www.youtube.com/watch?v=fbqxsIO4wlI",
+      "thumbnail": "https://i.ytimg.com/vi/fbqxsIO4wlI/hqdefault.jpg",
+      "date": "2025-10-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "MIT Hosts Sadhguru for Nanobiosym Global Summit 2025",
+      "description": "Massachusetts Institute of Technology hosted Sadhguru for the Nanobiosym Global Summit 2025, featuring a dynamic panel ...",
+      "url": "https://www.youtube.com/watch?v=p8q9Kdf9ZIM",
+      "thumbnail": "https://i.ytimg.com/vi/p8q9Kdf9ZIM/hqdefault.jpg",
+      "date": "2025-10-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Science, Spirituality &amp; Global Impact – Glimpses from Harvard Medical School | Sadhguru",
       "description": "A glimpse into the two-day \"Consciousness: Science, Spirituality & Global Impact\" conference organized by Sadhguru Center for a ...",
@@ -113,5 +163,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-14T03:23:45.136708"
+  "last_updated": "2025-10-15T03:28:02.671082"
 }
