@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -58,6 +69,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "…I am Done With the World | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=hMxL22e1JWI",
+      "thumbnail": "https://i.ytimg.com/vi/hMxL22e1JWI/hqdefault.jpg",
+      "date": "2025-10-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Commander Sunita Williams &amp; Sadhguru Explore Aliens, Space Missions &amp; Consciousness",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=qjJpg81UKqY",
+      "thumbnail": "https://i.ytimg.com/vi/qjJpg81UKqY/hqdefault_live.jpg",
+      "date": "2025-10-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Competition Is Making Your Life Difficult | Sadhguru",
       "description": "",
@@ -163,5 +200,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-15T03:28:02.671082"
+  "last_updated": "2025-10-16T03:27:46.274198"
 }
