@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-17",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-17",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-16",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -69,6 +80,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Commander Sunita Williams &amp; Sadhguru Explore Aliens, Space Missions &amp; Consciousness",
+      "description": "Do aliens exist? Is humanity poised to become a multi-planetary species? What are the possibilities and limitations of space ...",
+      "url": "https://www.youtube.com/watch?v=Gg7ZYc8iadQ",
+      "thumbnail": "https://i.ytimg.com/vi/Gg7ZYc8iadQ/hqdefault.jpg",
+      "date": "2025-10-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Do Aliens Exist? Commander Sunita Williams &amp; Sadhguru",
+      "description": "Do aliens exist? What would be the nature of possible future interactions between humans and extraterrestrial life? In an effort to ...",
+      "url": "https://www.youtube.com/watch?v=ehKRNejXs5w",
+      "thumbnail": "https://i.ytimg.com/vi/ehKRNejXs5w/hqdefault.jpg",
+      "date": "2025-10-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "…I am Done With the World | Sadhguru",
       "description": "",
@@ -200,5 +237,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-16T03:27:46.274198"
+  "last_updated": "2025-10-17T03:24:58.916721"
 }
