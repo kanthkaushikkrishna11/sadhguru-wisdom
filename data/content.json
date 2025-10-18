@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-18",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-18",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-17",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -80,6 +91,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Unable to Quit Smoking? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=sx1qE2tAmuI",
+      "thumbnail": "https://i.ytimg.com/vi/sx1qE2tAmuI/hqdefault.jpg",
+      "date": "2025-10-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Power of Semen Retention | Sadhguru",
+      "description": "In 2018, during a conversation with the students of Jawaharlal Nehru University, Sadhguru answered a question about ...",
+      "url": "https://www.youtube.com/watch?v=GtpT7_kn1vs",
+      "thumbnail": "https://i.ytimg.com/vi/GtpT7_kn1vs/hqdefault.jpg",
+      "date": "2025-10-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Commander Sunita Williams &amp; Sadhguru Explore Aliens, Space Missions &amp; Consciousness",
       "description": "Do aliens exist? Is humanity poised to become a multi-planetary species? What are the possibilities and limitations of space ...",
@@ -237,5 +274,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-17T03:24:58.916721"
+  "last_updated": "2025-10-18T02:14:29.419430"
 }
