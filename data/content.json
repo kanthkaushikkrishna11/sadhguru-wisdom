@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-19",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-19",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-18",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -91,6 +102,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Is Space Exploration Really Needed? NASA Astronaut Sunita Williams &amp; Sadhguru",
+      "description": "Is there an innate longing in human beings beyond curiosity that propels them to explore the cosmos? In a session moderated by ...",
+      "url": "https://www.youtube.com/watch?v=9yF8bcfYk_4",
+      "thumbnail": "https://i.ytimg.com/vi/9yF8bcfYk_4/hqdefault.jpg",
+      "date": "2025-10-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Dhanteras Festival is Not About Wealth | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=XUMWnzPf5ec",
+      "thumbnail": "https://i.ytimg.com/vi/XUMWnzPf5ec/hqdefault.jpg",
+      "date": "2025-10-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Unable to Quit Smoking? | Sadhguru",
       "description": "",
@@ -274,5 +311,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-18T02:14:29.419430"
+  "last_updated": "2025-10-19T02:42:11.388055"
 }
