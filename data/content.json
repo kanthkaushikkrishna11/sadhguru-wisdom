@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -102,6 +113,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "What Makes You A Family? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ffDyKbqeaTw",
+      "thumbnail": "https://i.ytimg.com/vi/ffDyKbqeaTw/hqdefault.jpg",
+      "date": "2025-10-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Don&#39;t Ban Firecrackers | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xh4qM4nCsPM",
+      "thumbnail": "https://i.ytimg.com/vi/xh4qM4nCsPM/hqdefault.jpg",
+      "date": "2025-10-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Diwali Is a Scientific Process for Health | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=uCbR_Np3xkE",
+      "thumbnail": "https://i.ytimg.com/vi/uCbR_Np3xkE/hqdefault.jpg",
+      "date": "2025-10-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Isha School Students’ Diwali Invitation for Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=omyTqXs_Q9I",
+      "thumbnail": "https://i.ytimg.com/vi/omyTqXs_Q9I/hqdefault.jpg",
+      "date": "2025-10-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Is Space Exploration Really Needed? NASA Astronaut Sunita Williams &amp; Sadhguru",
       "description": "Is there an innate longing in human beings beyond curiosity that propels them to explore the cosmos? In a session moderated by ...",
@@ -311,5 +374,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-19T02:42:11.388055"
+  "last_updated": "2025-10-20T02:29:43.551104"
 }
