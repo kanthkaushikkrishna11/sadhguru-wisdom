@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -113,6 +124,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru’s Message for a Dazzling Diwali",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_iKaWYktPAA",
+      "thumbnail": "https://i.ytimg.com/vi/_iKaWYktPAA/hqdefault.jpg",
+      "date": "2025-10-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru&#39;s Powerful Message for Volunteers on Diwali",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Q8XggoimwUw",
+      "thumbnail": "https://i.ytimg.com/vi/Q8XggoimwUw/hqdefault.jpg",
+      "date": "2025-10-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Makes You A Family? | Sadhguru",
       "description": "",
@@ -374,5 +411,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-20T02:29:43.551104"
+  "last_updated": "2025-10-21T02:23:51.547248"
 }
