@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-23",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-23",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-22",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -135,6 +146,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Equanimity, Balance &amp; Exuberance | Sadhguru",
+      "description": "Sadhguru speaks about the importance of equanimity, balance, and exuberance for making every life situation a possibility for ...",
+      "url": "https://www.youtube.com/watch?v=w4HfXwnZUJU",
+      "thumbnail": "https://i.ytimg.com/vi/w4HfXwnZUJU/hqdefault.jpg",
+      "date": "2025-10-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Is Sadhguru Against Inter Caste Marriage?",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=HILdAABdaZU",
+      "thumbnail": "https://i.ytimg.com/vi/HILdAABdaZU/hqdefault.jpg",
+      "date": "2025-10-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Creating Walking Temples | Sadhguru",
       "description": "Sadhguru looks at how Shambhavi Mahamudra - a powerful 21-minute Yogic process offered in the Inner Engineering program ...",
@@ -448,5 +485,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-22T02:26:52.176109"
+  "last_updated": "2025-10-23T02:22:06.829419"
 }
