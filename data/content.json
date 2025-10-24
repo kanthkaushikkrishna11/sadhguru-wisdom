@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -146,6 +157,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Do Not Look for Meaning of Life | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=s0zJ1wRMGb8",
+      "thumbnail": "https://i.ytimg.com/vi/s0zJ1wRMGb8/hqdefault.jpg",
+      "date": "2025-10-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru&#39;s Message on Deepfakes &amp; Cybercrime",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=d2C51D7dShM",
+      "thumbnail": "https://i.ytimg.com/vi/d2C51D7dShM/hqdefault.jpg",
+      "date": "2025-10-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Know the Ecstasy of Living | Sadhguru",
+      "description": "Sadhguru on knowing the ecstasy of living and making every moment of life a profound love affair. Dive into the world of ...",
+      "url": "https://www.youtube.com/watch?v=jI_brCZRTxk",
+      "thumbnail": "https://i.ytimg.com/vi/jI_brCZRTxk/hqdefault.jpg",
+      "date": "2025-10-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Equanimity, Balance &amp; Exuberance | Sadhguru",
       "description": "Sadhguru speaks about the importance of equanimity, balance, and exuberance for making every life situation a possibility for ...",
@@ -485,5 +535,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-23T02:22:06.829419"
+  "last_updated": "2025-10-24T02:18:18.159066"
 }
