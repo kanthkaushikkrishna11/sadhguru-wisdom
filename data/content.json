@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -157,6 +168,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "There is No Need to be Perfect |Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=v4qEPw6B44s",
+      "thumbnail": "https://i.ytimg.com/vi/v4qEPw6B44s/hqdefault.jpg",
+      "date": "2025-10-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Set Fire to Yourself! | Sadhguru",
+      "description": "Sadhguru explains how sadhana is a tool not just for health and wellbeing, but for accessing dimensions that are not yet in one's ...",
+      "url": "https://www.youtube.com/watch?v=Tgp1toi-0Nk",
+      "thumbnail": "https://i.ytimg.com/vi/Tgp1toi-0Nk/hqdefault.jpg",
+      "date": "2025-10-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Science of Mantras | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=WVsk6A4p8RM",
+      "thumbnail": "https://i.ytimg.com/vi/WVsk6A4p8RM/hqdefault.jpg",
+      "date": "2025-10-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Do Not Look for Meaning of Life | Sadhguru",
       "description": "",
@@ -535,5 +585,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-24T02:18:18.159066"
+  "last_updated": "2025-10-25T02:19:51.475127"
 }
