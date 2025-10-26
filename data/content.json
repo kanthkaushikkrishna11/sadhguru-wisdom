@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -168,6 +179,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Can You Escape Karma’s Effects? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=q6K4vXYD4-k",
+      "thumbnail": "https://i.ytimg.com/vi/q6K4vXYD4-k/hqdefault.jpg",
+      "date": "2025-10-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "5 Game-Changers for Bharat’s Future | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ffWyVQMDXZw",
+      "thumbnail": "https://i.ytimg.com/vi/ffWyVQMDXZw/hqdefault.jpg",
+      "date": "2025-10-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Kashi You Visit Is Not The Real Kashi! | 4K UHD | Sadhguru",
+      "description": "In September 2019, actress, entrepreneur, and environmentalist Juhi Chawla, in a conversation with Sadhguru, explored the ...",
+      "url": "https://www.youtube.com/watch?v=Fnh3Rq8jVMs",
+      "thumbnail": "https://i.ytimg.com/vi/Fnh3Rq8jVMs/hqdefault.jpg",
+      "date": "2025-10-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "There is No Need to be Perfect |Sadhguru",
       "description": "",
@@ -585,5 +635,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-25T02:19:51.475127"
+  "last_updated": "2025-10-26T02:27:24.282019"
 }
