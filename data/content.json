@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -179,6 +190,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Best Milk Alternative | Sadhguru",
+      "description": "Ever tried groundnut milk? Sadhguru reveals 3 tasty, 3-minute breakfast recipes perfect for busy mornings. Find out how this ...",
+      "url": "https://www.youtube.com/watch?v=zyD9-3QS-H4",
+      "thumbnail": "https://i.ytimg.com/vi/zyD9-3QS-H4/hqdefault.jpg",
+      "date": "2025-10-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Turn Depression Around | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=vO9jauOlU34",
+      "thumbnail": "https://i.ytimg.com/vi/vO9jauOlU34/hqdefault.jpg",
+      "date": "2025-10-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Can You Escape Karma’s Effects? | Sadhguru",
       "description": "",
@@ -635,5 +672,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-26T02:27:24.282019"
+  "last_updated": "2025-10-27T02:44:38.033836"
 }
