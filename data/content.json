@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-29",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-29",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-27",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -190,6 +201,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Ecstasy Beyond Pills | Sadhguru",
+      "description": "Sadhguru explains why “ecstasy” has been reduced to pills, which can bring pleasure but never true blissfulness. \"Soak in ...",
+      "url": "https://www.youtube.com/watch?v=eE7AMvYF0RI",
+      "thumbnail": "https://i.ytimg.com/vi/eE7AMvYF0RI/hqdefault.jpg",
+      "date": "2025-10-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Highway to Liberation | Sadhguru",
+      "description": "A Diwali special Sadhguru Darshan filled with grace, devotion, and celebration took place at Isha Institute of Inner-sciences on 26 ...",
+      "url": "https://www.youtube.com/watch?v=JBIWu3g8NjI",
+      "thumbnail": "https://i.ytimg.com/vi/JBIWu3g8NjI/hqdefault.jpg",
+      "date": "2025-10-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Best Milk Alternative | Sadhguru",
       "description": "Ever tried groundnut milk? Sadhguru reveals 3 tasty, 3-minute breakfast recipes perfect for busy mornings. Find out how this ...",
@@ -672,5 +709,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-27T02:44:38.033836"
+  "last_updated": "2025-10-29T02:30:22.642012"
 }
