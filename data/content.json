@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-30",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-30",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-29",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -201,6 +212,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Ramayana Lives On | Namit Malhotra with Sadhguru on Faith, Culture &amp; Creation",
+      "description": "Sadhguru and Namit Malhotra engage in a conversation on culture, consciousness, and creation, drawing from the values of ...",
+      "url": "https://www.youtube.com/watch?v=JQ_Yvg-3OhE",
+      "thumbnail": "https://i.ytimg.com/vi/JQ_Yvg-3OhE/hqdefault.jpg",
+      "date": "2025-10-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Ramayana Matters | Sadhguru",
+      "description": "In August 2025, filmmaker and CEO of DNEG, Namit Malhotra, engaged in an insightful conversation with Sadhguru about ...",
+      "url": "https://www.youtube.com/watch?v=kTEBHrDE9Zs",
+      "thumbnail": "https://i.ytimg.com/vi/kTEBHrDE9Zs/hqdefault.jpg",
+      "date": "2025-10-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Ecstasy Beyond Pills | Sadhguru",
       "description": "Sadhguru explains why “ecstasy” has been reduced to pills, which can bring pleasure but never true blissfulness. \"Soak in ...",
@@ -709,5 +746,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-29T02:30:22.642012"
+  "last_updated": "2025-10-30T02:28:04.150037"
 }
