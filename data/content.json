@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-10-31",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-10-31",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-30",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -212,6 +223,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "What Happens in Vegas...| Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=cOmSPwsB5EE",
+      "thumbnail": "https://i.ytimg.com/vi/cOmSPwsB5EE/hqdefault.jpg",
+      "date": "2025-10-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Do This To Handle Out-of Control Emotions | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=mqtGNgv0FOM",
+      "thumbnail": "https://i.ytimg.com/vi/mqtGNgv0FOM/hqdefault.jpg",
+      "date": "2025-10-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "What Causes Relationship Insecurity? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0JjFTLhqvKA",
+      "thumbnail": "https://i.ytimg.com/vi/0JjFTLhqvKA/hqdefault.jpg",
+      "date": "2025-10-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Ramayana Lives On | Namit Malhotra with Sadhguru on Faith, Culture &amp; Creation",
       "description": "Sadhguru and Namit Malhotra engage in a conversation on culture, consciousness, and creation, drawing from the values of ...",
@@ -746,5 +796,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-30T02:28:04.150037"
+  "last_updated": "2025-10-31T02:26:28.518370"
 }
