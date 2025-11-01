@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-01",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-01",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-10-31",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -223,6 +234,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Ramayana: Should Actors Live the Role? | Sadhguru",
+      "description": "On 31 August 2025, during a conversation with Sadhguru, Namit Malhotra — Founder of Prime Focus, CEO of DNEG, and ...",
+      "url": "https://www.youtube.com/watch?v=dOpxX3SUSbY",
+      "thumbnail": "https://i.ytimg.com/vi/dOpxX3SUSbY/hqdefault.jpg",
+      "date": "2025-10-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Maps a Person’s Chakras",
+      "description": "In a satsang with the Isha Hatha Yoga Teacher trainees in 2012, Sadhguru mapped a trainee's energy system and explained the ...",
+      "url": "https://www.youtube.com/watch?v=pubFdxRiGqY",
+      "thumbnail": "https://i.ytimg.com/vi/pubFdxRiGqY/hqdefault.jpg",
+      "date": "2025-10-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Happens in Vegas...| Sadhguru",
       "description": "",
@@ -796,5 +833,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-10-31T02:26:28.518370"
+  "last_updated": "2025-11-01T02:27:53.313602"
 }
