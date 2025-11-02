@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-02",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-02",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-01",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -234,6 +245,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Piyush Pandey Asks Sadhguru About Communication",
+      "description": "A memorable moment: The late Piyush Pandey, legendary \"Father of Indian Advertising,\" asks Sadhguru about the fundamental ...",
+      "url": "https://www.youtube.com/watch?v=MaDpmaRxI_0",
+      "thumbnail": "https://i.ytimg.com/vi/MaDpmaRxI_0/hqdefault.jpg",
+      "date": "2025-11-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Uncensored",
+      "description": "Explore the deepest realms of spirituality and mysticism through Sadhguru's uncensored wisdom, unreleased footage, and ...",
+      "url": "https://www.youtube.com/watch?v=Ofb4tKwMb1I",
+      "thumbnail": "https://i.ytimg.com/vi/Ofb4tKwMb1I/hqdefault.jpg",
+      "date": "2025-11-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru rides to San Francisco for the ‘Ecstasy of Enlightenment’ program tomorrow, November 2.",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=6AUvTMAnRZg",
+      "thumbnail": "https://i.ytimg.com/vi/6AUvTMAnRZg/hqdefault.jpg",
+      "date": "2025-11-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Only Human Beings Hesitate... | Sadhguru",
+      "description": "Every other creature on the planet is doing its Best. Only human beings hesitate... #SadhguruQuotes.",
+      "url": "https://www.youtube.com/watch?v=s9xzzg9rShM",
+      "thumbnail": "https://i.ytimg.com/vi/s9xzzg9rShM/hqdefault.jpg",
+      "date": "2025-11-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Ramayana: Should Actors Live the Role? | Sadhguru",
       "description": "On 31 August 2025, during a conversation with Sadhguru, Namit Malhotra — Founder of Prime Focus, CEO of DNEG, and ...",
@@ -833,5 +896,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-01T02:27:53.313602"
+  "last_updated": "2025-11-02T02:41:38.791852"
 }
