@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-03",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-03",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-02",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -245,6 +256,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Mystical Serpent | Sadhguru",
+      "description": "Accessing the mystical serpent who can guide one's exploration of mysticism. Subscribe to Sadhguru Exclusive and journey into ...",
+      "url": "https://www.youtube.com/watch?v=_qWYx4el4o0",
+      "thumbnail": "https://i.ytimg.com/vi/_qWYx4el4o0/hqdefault.jpg",
+      "date": "2025-11-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Transcending death | Sadhguru",
+      "description": "Sadhguru offers a simple device to transcend death and in turn the limitations that nature has put upon us. Watch the full video in ...",
+      "url": "https://www.youtube.com/watch?v=7wwlCBnGiNg",
+      "thumbnail": "https://i.ytimg.com/vi/7wwlCBnGiNg/hqdefault.jpg",
+      "date": "2025-11-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Piyush Pandey Asks Sadhguru About Communication",
       "description": "A memorable moment: The late Piyush Pandey, legendary \"Father of Indian Advertising,\" asks Sadhguru about the fundamental ...",
@@ -896,5 +933,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-02T02:41:38.791852"
+  "last_updated": "2025-11-03T02:42:22.527186"
 }
