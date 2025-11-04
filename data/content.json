@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -256,6 +267,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Mastery with Kriya | Sadhguru",
+      "description": "Walking the path of Kriya Yoga to explore the mechanics of life — an excerpt from the “Path of Kriya” series on Sadhguru ...",
+      "url": "https://www.youtube.com/watch?v=ONVBzR2rAAw",
+      "thumbnail": "https://i.ytimg.com/vi/ONVBzR2rAAw/hqdefault.jpg",
+      "date": "2025-11-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Chinnamasta – A Wild Goddess | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=GCFDzmzBObE",
+      "thumbnail": "https://i.ytimg.com/vi/GCFDzmzBObE/hqdefault.jpg",
+      "date": "2025-11-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Dhyanalinga – A Storehouse of Kriyas | Sadhguru",
+      "description": "Sadhguru on Dhyanalinga – a storehouse of kriyas, which is and will continue to be available to all those who are willing, ...",
+      "url": "https://www.youtube.com/watch?v=qh8lMkdH77c",
+      "thumbnail": "https://i.ytimg.com/vi/qh8lMkdH77c/hqdefault.jpg",
+      "date": "2025-11-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Mystical Serpent | Sadhguru",
       "description": "Accessing the mystical serpent who can guide one's exploration of mysticism. Subscribe to Sadhguru Exclusive and journey into ...",
@@ -933,5 +983,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-03T02:42:22.527186"
+  "last_updated": "2025-11-04T02:26:20.373854"
 }
