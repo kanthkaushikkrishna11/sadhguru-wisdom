@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-05",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-05",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-04",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -267,6 +278,71 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Spirituality Is Not About Withdrawal | Sadhguru",
+      "description": "You do not have to withdraw to a mountain cave to be Spiritual. The Spiritual Process has nothing to do with the outside – it is ...",
+      "url": "https://www.youtube.com/watch?v=ebawt0r3c0A",
+      "thumbnail": "https://i.ytimg.com/vi/ebawt0r3c0A/hqdefault.jpg",
+      "date": "2025-11-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "An Otherworldly Power | Sadhguru",
+      "description": "The power of vishuddhi chakra, and dimensions that open up when it is activated. Explore the “Secrets of Chakras” only on ...",
+      "url": "https://www.youtube.com/watch?v=yms6P1KWAA0",
+      "thumbnail": "https://i.ytimg.com/vi/yms6P1KWAA0/hqdefault.jpg",
+      "date": "2025-11-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Exploring Alien Life in Manasarovar | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Fy7FvyONq0o",
+      "thumbnail": "https://i.ytimg.com/vi/Fy7FvyONq0o/hqdefault.jpg",
+      "date": "2025-11-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Speaks About His Mother",
+      "description": "Sadhguru shares a heartrending yet tender moment with his mother on her deathbed. This video is excerpted from Sadhguru ...",
+      "url": "https://www.youtube.com/watch?v=m30ZqkTUt6U",
+      "thumbnail": "https://i.ytimg.com/vi/m30ZqkTUt6U/hqdefault.jpg",
+      "date": "2025-11-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Two-Fold Path to Liberation | Sadhguru",
+      "description": "\"Soak in Ecstasy of Enlightenment,\" an advanced full-day experiential program with Sadhguru, is not merely a program, but an ...",
+      "url": "https://www.youtube.com/watch?v=CSa4xlopPjs",
+      "thumbnail": "https://i.ytimg.com/vi/CSa4xlopPjs/hqdefault.jpg",
+      "date": "2025-11-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Mastery with Kriya | Sadhguru",
       "description": "Walking the path of Kriya Yoga to explore the mechanics of life — an excerpt from the “Path of Kriya” series on Sadhguru ...",
@@ -983,5 +1059,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-04T02:26:20.373854"
+  "last_updated": "2025-11-05T02:27:52.773090"
 }
