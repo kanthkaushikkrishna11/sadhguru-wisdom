@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-06",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-06",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-05",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -278,6 +289,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Key to Transformation | Sadhguru",
+      "description": "What you do is not the point. It is the level of Involvement Within You that Transforms you. #SadhguruQuotes.",
+      "url": "https://www.youtube.com/watch?v=6VP_163pErg",
+      "thumbnail": "https://i.ytimg.com/vi/6VP_163pErg/hqdefault.jpg",
+      "date": "2025-11-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A tender moment from Ecstasy of Enlightenment in San Francisco | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Q-mHIcD9CHA",
+      "thumbnail": "https://i.ytimg.com/vi/Q-mHIcD9CHA/hqdefault.jpg",
+      "date": "2025-11-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Power of Kundalini | Sadhguru",
+      "description": "Sadhguru speaks about Kundalini and Kundalini Yoga and the dangers of tapping into this ultimate source of energy. Watch the ...",
+      "url": "https://www.youtube.com/watch?v=vIN97C-_HVA",
+      "thumbnail": "https://i.ytimg.com/vi/vIN97C-_HVA/hqdefault.jpg",
+      "date": "2025-11-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Dismantling Karma | Sadhguru",
+      "description": "Sadhguru explores how one can handle the karmic structure and the significance of a Guru in dismantling it. Watch the full ...",
+      "url": "https://www.youtube.com/watch?v=jJdna61uPWM",
+      "thumbnail": "https://i.ytimg.com/vi/jJdna61uPWM/hqdefault.jpg",
+      "date": "2025-11-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Spirituality Is Not About Withdrawal | Sadhguru",
       "description": "You do not have to withdraw to a mountain cave to be Spiritual. The Spiritual Process has nothing to do with the outside – it is ...",
@@ -1059,5 +1122,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-05T02:27:52.773090"
+  "last_updated": "2025-11-06T02:28:54.936644"
 }
