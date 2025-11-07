@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-07",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-07",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-06",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -289,6 +300,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Forces That Hinder Your Spiritual Growth | Sadhguru",
+      "description": "What if there were obstacles on the spiritual path beyond your body, mind and energies? Sadhguru opens up on forces beyond ...",
+      "url": "https://www.youtube.com/watch?v=DTTadHQvG9c",
+      "thumbnail": "https://i.ytimg.com/vi/DTTadHQvG9c/hqdefault.jpg",
+      "date": "2025-11-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Celestial Workshop in Manasarovar ? | Sadhguru",
+      "description": "Are the extraterrestrial beings in Lake Manasarovar responsible for the making of the human race, or are they building bodies for ...",
+      "url": "https://www.youtube.com/watch?v=qTnbEJHa0r4",
+      "thumbnail": "https://i.ytimg.com/vi/qTnbEJHa0r4/hqdefault.jpg",
+      "date": "2025-11-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Power of Initiation | Sadhguru",
+      "description": "The significance of initiations in breaking karmic cycles, and the influence that collective karma can have in one's life. Subscribe to ...",
+      "url": "https://www.youtube.com/watch?v=tEgC9iCbHM4",
+      "thumbnail": "https://i.ytimg.com/vi/tEgC9iCbHM4/hqdefault.jpg",
+      "date": "2025-11-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Key to Transformation | Sadhguru",
       "description": "What you do is not the point. It is the level of Involvement Within You that Transforms you. #SadhguruQuotes.",
@@ -1122,5 +1172,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-06T02:28:54.936644"
+  "last_updated": "2025-11-07T02:26:24.864932"
 }
