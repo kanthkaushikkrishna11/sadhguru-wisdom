@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-08",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-08",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-07",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -300,6 +311,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Manikarnika Ghat | Sadhguru",
+      "description": "On Manikarnika Ghat – the great cremation ground in Kashi – and why many masters sent their disciples to observe cremation ...",
+      "url": "https://www.youtube.com/watch?v=gDhDhac6rRg",
+      "thumbnail": "https://i.ytimg.com/vi/gDhDhac6rRg/hqdefault.jpg",
+      "date": "2025-11-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru’s Encounter With Aliens",
+      "description": "Sadhguru narrates his experience of celestial beings in Lake Manasarovar who were trying to woo him but without his body!",
+      "url": "https://www.youtube.com/watch?v=i__XDjjPf_E",
+      "thumbnail": "https://i.ytimg.com/vi/i__XDjjPf_E/hqdefault.jpg",
+      "date": "2025-11-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Weave Your Life with the Divine | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xR70Izvyvsw",
+      "thumbnail": "https://i.ytimg.com/vi/xR70Izvyvsw/hqdefault.jpg",
+      "date": "2025-11-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Forces That Hinder Your Spiritual Growth | Sadhguru",
       "description": "What if there were obstacles on the spiritual path beyond your body, mind and energies? Sadhguru opens up on forces beyond ...",
@@ -1172,5 +1222,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-07T02:26:24.864932"
+  "last_updated": "2025-11-08T02:19:31.113991"
 }
