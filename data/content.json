@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-09",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-09",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-08",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -311,6 +322,71 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Aligning With The Cosmic Geometry | Sadhguru",
+      "description": "Yoga is about aligning yourself with the cosmic geometry. It is your choice to beeither a piece of creation or part of the Source of ...",
+      "url": "https://www.youtube.com/watch?v=r9lf0VZWRIY",
+      "thumbnail": "https://i.ytimg.com/vi/r9lf0VZWRIY/hqdefault.jpg",
+      "date": "2025-11-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Living Goddesses | Sadhguru",
+      "description": "Sadhguru looks at the profound culture of living goddesses and the possibility of consecrating Devis of different qualities.",
+      "url": "https://www.youtube.com/watch?v=NknHLXxOKCk",
+      "thumbnail": "https://i.ytimg.com/vi/NknHLXxOKCk/hqdefault.jpg",
+      "date": "2025-11-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Bruce Lee’s Secret Technique | Sadhguru",
+      "description": "Sadhguru reveals the secret behind Bruce Lee's seemingly superhuman capabilities and what made him a martial arts ...",
+      "url": "https://www.youtube.com/watch?v=lMGOoZsXuy0",
+      "thumbnail": "https://i.ytimg.com/vi/lMGOoZsXuy0/hqdefault.jpg",
+      "date": "2025-11-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "When Plants Begin to Speak…| Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=pgXGTrFaS7k",
+      "thumbnail": "https://i.ytimg.com/vi/pgXGTrFaS7k/hqdefault.jpg",
+      "date": "2025-11-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Consciousness &amp; the Nature of Reality | Oxford University Cosmologist Dr. Jude Currivan &amp; Sadhguru",
+      "description": "On 11 October 2025, Sadhguru Center for a Conscious Planet hosted Cosmologist and Co-founder of WholeWorld-View, Dr. Jude ...",
+      "url": "https://www.youtube.com/watch?v=6BzVXl323vc",
+      "thumbnail": "https://i.ytimg.com/vi/6BzVXl323vc/hqdefault.jpg",
+      "date": "2025-11-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Manikarnika Ghat | Sadhguru",
       "description": "On Manikarnika Ghat – the great cremation ground in Kashi – and why many masters sent their disciples to observe cremation ...",
@@ -1222,5 +1298,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-08T02:19:31.113991"
+  "last_updated": "2025-11-09T02:29:25.684066"
 }
