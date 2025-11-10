@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -322,6 +333,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Consciousness &amp; the Nature of Reality | Sadhguru",
+      "description": "On 11 October 2025, Sadhguru Center for a Conscious Planet hosted Cosmologist and Co-founder of WholeWorld-View, Dr. Jude ...",
+      "url": "https://www.youtube.com/watch?v=0PhmOOZ2Wvs",
+      "thumbnail": "https://i.ytimg.com/vi/0PhmOOZ2Wvs/hqdefault.jpg",
+      "date": "2025-11-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Death – A Fiction of the Ignorant |Sadhguru",
+      "description": "Death – a creation of the ignorant—and transcending death to know the eternal nature of life. Start your 7-day free trial: ...",
+      "url": "https://www.youtube.com/watch?v=Kdnk6DlgT24",
+      "thumbnail": "https://i.ytimg.com/vi/Kdnk6DlgT24/hqdefault.jpg",
+      "date": "2025-11-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "What Humanity Truly Needs | Sadhguru",
+      "description": "What every Human Being needs is not tolerance or compassion but Acceptance and Respect.",
+      "url": "https://www.youtube.com/watch?v=mRqA58wMVrk",
+      "thumbnail": "https://i.ytimg.com/vi/mRqA58wMVrk/hqdefault.jpg",
+      "date": "2025-11-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Aligning With The Cosmic Geometry | Sadhguru",
       "description": "Yoga is about aligning yourself with the cosmic geometry. It is your choice to beeither a piece of creation or part of the Source of ...",
@@ -1298,5 +1348,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-09T02:29:25.684066"
+  "last_updated": "2025-11-10T02:43:45.408095"
 }
