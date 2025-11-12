@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-12",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-12",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-11",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -344,6 +355,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Are You Doing What Truly Matters to You? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=DA0QbH6YWZQ",
+      "thumbnail": "https://i.ytimg.com/vi/DA0QbH6YWZQ/hqdefault.jpg",
+      "date": "2025-11-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Lesser-known Temples of Kashi – Juhi Chawla &amp; Sadhguru | 4K UHD",
+      "description": "In September 2019, actress, entrepreneur, and environmentalist Juhi Chawla, in a conversation with Sadhguru, explored the ...",
+      "url": "https://www.youtube.com/watch?v=2dG-xARgiuo",
+      "thumbnail": "https://i.ytimg.com/vi/2dG-xARgiuo/hqdefault.jpg",
+      "date": "2025-11-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Once You Taste Silence, You Cannot Be Without It | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=wgOurwThcTI",
+      "thumbnail": "https://i.ytimg.com/vi/wgOurwThcTI/hqdefault.jpg",
+      "date": "2025-11-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Can Science &amp; Spirituality Meet? Cosmologist Dr. Jude Currivan &amp; Sadhguru",
       "description": "On 11 October 2025, during a conversation between Sadhguru and Cosmologist and Co-founder of WholeWorld-View, Dr. Jude ...",
@@ -1398,5 +1448,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-11T02:28:48.780793"
+  "last_updated": "2025-11-12T02:27:22.419024"
 }
