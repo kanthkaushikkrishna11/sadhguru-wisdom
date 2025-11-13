@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-13",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-13",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-12",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -355,6 +366,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Kashi&#39;s Hidden Secrets | Sadhguru",
+      "description": "Actress, entrepreneur, and environmentalist Juhi Chawla, in a conversation with Sadhguru, explores the lesser-known aspects of ...",
+      "url": "https://www.youtube.com/watch?v=MZ67YAEvuGw",
+      "thumbnail": "https://i.ytimg.com/vi/MZ67YAEvuGw/hqdefault.jpg",
+      "date": "2025-11-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Love Marriage or Arranged Marriage, Which is Better ? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=2IIE8TPmkcg",
+      "thumbnail": "https://i.ytimg.com/vi/2IIE8TPmkcg/hqdefault.jpg",
+      "date": "2025-11-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "You Cannot Manage Time | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=tCi8sGn8jiU",
+      "thumbnail": "https://i.ytimg.com/vi/tCi8sGn8jiU/hqdefault.jpg",
+      "date": "2025-11-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Are You Doing What Truly Matters to You? | Sadhguru",
       "description": "",
@@ -1448,5 +1498,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-12T02:27:22.419024"
+  "last_updated": "2025-11-13T02:30:43.256617"
 }
