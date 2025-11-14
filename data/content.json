@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -366,6 +377,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "An Explosion of Ecstasy | Sadhguru",
+      "description": "\"Soak in Ecstasy of Enlightenment\" is an advanced full-day experiential program with Sadhguru. This is not merely a program or ...",
+      "url": "https://www.youtube.com/watch?v=LD__Vo-O9Y0",
+      "thumbnail": "https://i.ytimg.com/vi/LD__Vo-O9Y0/hqdefault.jpg",
+      "date": "2025-11-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Moving Beyond Religion to Responsibility | Sadhguru",
+      "description": "The fundamental of the spiritual process is that you stop all assumptions. “What I know, I know. What I do not know, I do not know.”",
+      "url": "https://www.youtube.com/watch?v=0ozJEdkDMlk",
+      "thumbnail": "https://i.ytimg.com/vi/0ozJEdkDMlk/hqdefault.jpg",
+      "date": "2025-11-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Kashi&#39;s Hidden Secrets | Sadhguru",
       "description": "Actress, entrepreneur, and environmentalist Juhi Chawla, in a conversation with Sadhguru, explores the lesser-known aspects of ...",
@@ -1498,5 +1535,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-13T02:30:43.256617"
+  "last_updated": "2025-11-14T02:28:00.445223"
 }
