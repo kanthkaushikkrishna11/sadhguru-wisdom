@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -377,6 +388,71 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A warm goodbye from @sza   enroute to Philly for Ecstasy of Enlightenment | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=KhT4l71q4c8",
+      "thumbnail": "https://i.ytimg.com/vi/KhT4l71q4c8/hqdefault.jpg",
+      "date": "2025-11-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Rides to Philadelphia",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=AsXHD2xc2tg",
+      "thumbnail": "https://i.ytimg.com/vi/AsXHD2xc2tg/hqdefault.jpg",
+      "date": "2025-11-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "To know the Ecstasy, you just have to give in to Life | Sadhguru",
+      "description": "Upcoming 'Ecstasy of Enlightenment' Events: Philadelphia - 15 Nov 2025 London - 22 Nov 2025 Mumbai - 14 Dec 2025 ...",
+      "url": "https://www.youtube.com/watch?v=I1oO5bXqI5M",
+      "thumbnail": "https://i.ytimg.com/vi/I1oO5bXqI5M/hqdefault.jpg",
+      "date": "2025-11-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Riding Through -14°C to Philadelphia #Sadhguru #EcstasyOfEnlightenment",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=4vILXAL6W0M",
+      "thumbnail": "https://i.ytimg.com/vi/4vILXAL6W0M/hqdefault.jpg",
+      "date": "2025-11-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Winter Chill Can&#39;t Keep the Mystic Away! #Sadhguru #EcstasyOfEnlightenment",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Z6S0zghtpSg",
+      "thumbnail": "https://i.ytimg.com/vi/Z6S0zghtpSg/hqdefault.jpg",
+      "date": "2025-11-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "An Explosion of Ecstasy | Sadhguru",
       "description": "\"Soak in Ecstasy of Enlightenment\" is an advanced full-day experiential program with Sadhguru. This is not merely a program or ...",
@@ -1535,5 +1611,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-14T02:28:00.445223"
+  "last_updated": "2025-11-15T02:23:31.351772"
 }
