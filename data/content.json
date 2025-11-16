@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -388,6 +399,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "If You&#39;re Seeking Truth... | Sadhguru",
+      "description": "If you are really looking for Truth, do not assume anything – just Seek. #SadhguruQuotes.",
+      "url": "https://www.youtube.com/watch?v=zaOxaO9YQzc",
+      "thumbnail": "https://i.ytimg.com/vi/zaOxaO9YQzc/hqdefault.jpg",
+      "date": "2025-11-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "1 Message For All Children In The World | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=AcM-hLjVrVI",
+      "thumbnail": "https://i.ytimg.com/vi/AcM-hLjVrVI/hqdefault.jpg",
+      "date": "2025-11-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Parents Shouldn’t Live Through Their Children | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=QI8StR-Sl2I",
+      "thumbnail": "https://i.ytimg.com/vi/QI8StR-Sl2I/hqdefault.jpg",
+      "date": "2025-11-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A warm goodbye from @sza   enroute to Philly for Ecstasy of Enlightenment | Sadhguru",
       "description": "",
@@ -1611,5 +1661,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-15T02:23:31.351772"
+  "last_updated": "2025-11-16T02:43:56.951329"
 }
