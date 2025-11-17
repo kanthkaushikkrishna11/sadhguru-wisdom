@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-17",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-17",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-16",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -399,6 +410,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Three I’s of Success | Sadhguru",
+      "description": "INSIGHT: The DNA of Success'' is a four-day business leadership intensive to explore the science of scaling up one's business ...",
+      "url": "https://www.youtube.com/watch?v=KsVUMLAVvoM",
+      "thumbnail": "https://i.ytimg.com/vi/KsVUMLAVvoM/hqdefault.jpg",
+      "date": "2025-11-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Ojas Can Fundamentally Transform Your Life | Sadhguru",
+      "description": "In 2002, during a satsang with meditators in Lebanon, Sadhguru spoke elaborately about ojas – a nonphysical dimension of ...",
+      "url": "https://www.youtube.com/watch?v=9WB16m1cvwk",
+      "thumbnail": "https://i.ytimg.com/vi/9WB16m1cvwk/hqdefault.jpg",
+      "date": "2025-11-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Are You Tolerating or Accepting People? | Sadhguru",
+      "description": "The greatest thing you can do to another human being is to accept them absolutely the way they are. If you tolerate them, they'll ...",
+      "url": "https://www.youtube.com/watch?v=nSNarJRE8Fw",
+      "thumbnail": "https://i.ytimg.com/vi/nSNarJRE8Fw/hqdefault.jpg",
+      "date": "2025-11-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "If You&#39;re Seeking Truth... | Sadhguru",
       "description": "If you are really looking for Truth, do not assume anything – just Seek. #SadhguruQuotes.",
@@ -1661,5 +1711,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-16T02:43:56.951329"
+  "last_updated": "2025-11-17T02:29:01.438648"
 }
