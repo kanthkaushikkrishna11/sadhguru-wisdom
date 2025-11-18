@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-18",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-18",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-17",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -410,6 +421,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How To Be In the Grace of Yoga? | Sadhguru",
+      "description": "Sadhguru speaks about the all-pervading nature of grace, and the need for an appropriate atmosphere to access it. Register now: ...",
+      "url": "https://www.youtube.com/watch?v=dDWXhKkiG1E",
+      "thumbnail": "https://i.ytimg.com/vi/dDWXhKkiG1E/hqdefault.jpg",
+      "date": "2025-11-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Way of Life | Sadhguru",
+      "description": "If your response is unbridled, you become a fresh life.",
+      "url": "https://www.youtube.com/watch?v=eTa3_CN7kng",
+      "thumbnail": "https://i.ytimg.com/vi/eTa3_CN7kng/hqdefault.jpg",
+      "date": "2025-11-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Three I’s of Success | Sadhguru",
       "description": "INSIGHT: The DNA of Success'' is a four-day business leadership intensive to explore the science of scaling up one's business ...",
@@ -1711,5 +1748,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-17T02:29:01.438648"
+  "last_updated": "2025-11-18T02:27:31.567582"
 }
