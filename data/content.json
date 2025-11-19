@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-19",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-19",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-18",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -421,6 +432,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Are You Living in Truth? Quick Check | Sadhguru",
+      "description": "Sadhguru's litmus test to know if you are in harmony and balance with life around you.",
+      "url": "https://www.youtube.com/watch?v=Xi-cKhzbmhw",
+      "thumbnail": "https://i.ytimg.com/vi/Xi-cKhzbmhw/hqdefault.jpg",
+      "date": "2025-11-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Heartwarming Moment in Philadelphia | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=GVdY_XyyYCc",
+      "thumbnail": "https://i.ytimg.com/vi/GVdY_XyyYCc/hqdefault.jpg",
+      "date": "2025-11-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "How To Be In the Grace of Yoga? | Sadhguru",
       "description": "Sadhguru speaks about the all-pervading nature of grace, and the need for an appropriate atmosphere to access it. Register now: ...",
@@ -1748,5 +1785,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-18T02:27:31.567582"
+  "last_updated": "2025-11-19T02:27:01.439839"
 }
