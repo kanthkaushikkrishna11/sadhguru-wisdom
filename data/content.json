@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -432,6 +443,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Lauds Sunita Williams – A Yogi in Space?",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=QTYng4JnPBg",
+      "thumbnail": "https://i.ytimg.com/vi/QTYng4JnPBg/hqdefault.jpg",
+      "date": "2025-11-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru goes on a casual evening stroll on the streets of New York and New Yorkers can&#39;t keep calm!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=q1ITDt8pG-A",
+      "thumbnail": "https://i.ytimg.com/vi/q1ITDt8pG-A/hqdefault.jpg",
+      "date": "2025-11-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Are You Living in Truth? Quick Check | Sadhguru",
       "description": "Sadhguru's litmus test to know if you are in harmony and balance with life around you.",
@@ -1785,5 +1822,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-19T02:27:01.439839"
+  "last_updated": "2025-11-20T02:25:40.136268"
 }
