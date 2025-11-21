@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -443,6 +454,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "If You Want Your Child to Blossom… | Sadhguru",
+      "description": "If you want your Child to truly Blossom, first transform yourself into a loving, joyful, and peaceful being. #SadhguruQuotes.",
+      "url": "https://www.youtube.com/watch?v=uEY448R9VXY",
+      "thumbnail": "https://i.ytimg.com/vi/uEY448R9VXY/hqdefault.jpg",
+      "date": "2025-11-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Simple Practice for Clarity &amp; Success | Sadhguru",
+      "description": "Shambhavi Mahamudra Kriya is a powerful process to establish clarity of perception, such that you use the faculties of your mind ...",
+      "url": "https://www.youtube.com/watch?v=69AtqSsO3D0",
+      "thumbnail": "https://i.ytimg.com/vi/69AtqSsO3D0/hqdefault.jpg",
+      "date": "2025-11-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Does Early Sexual Intimacy Affect You? | Sadhguru",
+      "description": "Sadhguru speaks about the impact of early sexual exposure on adolescents and how it affects their physical, mental and ...",
+      "url": "https://www.youtube.com/watch?v=eAQveoZlg1w",
+      "thumbnail": "https://i.ytimg.com/vi/eAQveoZlg1w/hqdefault.jpg",
+      "date": "2025-11-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Impact of Early Sexual Exposure | Sadhguru",
+      "description": "Sadhguru speaks about the impact of early sexual exposure on adolescents and how it affects their physical, mental and ...",
+      "url": "https://www.youtube.com/watch?v=bbnJ4ff7idE",
+      "thumbnail": "https://i.ytimg.com/vi/bbnJ4ff7idE/hqdefault.jpg",
+      "date": "2025-11-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Lauds Sunita Williams – A Yogi in Space?",
       "description": "",
@@ -1822,5 +1885,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-20T02:25:40.136268"
+  "last_updated": "2025-11-21T02:26:07.293416"
 }
