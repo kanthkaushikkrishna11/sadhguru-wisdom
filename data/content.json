@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -454,6 +465,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Is Sexuality Ruling Your Life? | Sadhguru",
+      "description": "Sadhguru speaks about how sexuality is ruling people's minds and why it should only be a part of one's life, not the whole of it.",
+      "url": "https://www.youtube.com/watch?v=E-_xNzt6O0c",
+      "thumbnail": "https://i.ytimg.com/vi/E-_xNzt6O0c/hqdefault.jpg",
+      "date": "2025-11-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Ignite Wellbeing Within You | Sadhguru",
+      "description": "During a satsang with Ishanga 7% participants in July 2018, Sadhguru explained how the powerful Ishanga 7% process can lead ...",
+      "url": "https://www.youtube.com/watch?v=QAqWW17a5vI",
+      "thumbnail": "https://i.ytimg.com/vi/QAqWW17a5vI/hqdefault.jpg",
+      "date": "2025-11-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "If You Want Your Child to Blossom… | Sadhguru",
       "description": "If you want your Child to truly Blossom, first transform yourself into a loving, joyful, and peaceful being. #SadhguruQuotes.",
@@ -1885,5 +1922,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-21T02:26:07.293416"
+  "last_updated": "2025-11-22T02:21:12.076354"
 }
