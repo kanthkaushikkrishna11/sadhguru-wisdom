@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-23",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-23",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-22",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -465,6 +476,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Devi Yantra Can Do Incredible Things | Sadhguru",
+      "description": "Sadhguru explains why the Linga Bhairavi Yantra has a physical form though Devi's grace is not limited to time and space.",
+      "url": "https://www.youtube.com/watch?v=pfpEEzMd2ag",
+      "thumbnail": "https://i.ytimg.com/vi/pfpEEzMd2ag/hqdefault.jpg",
+      "date": "2025-11-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Is Sexuality Ruling Your Life? | Sadhguru",
       "description": "Sadhguru speaks about how sexuality is ruling people's minds and why it should only be a part of one's life, not the whole of it.",
@@ -1922,5 +1946,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-22T02:21:12.076354"
+  "last_updated": "2025-11-23T02:52:41.163771"
 }
