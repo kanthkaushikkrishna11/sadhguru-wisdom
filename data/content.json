@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -476,6 +487,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "What Happens at 3:30 AM? | Sadhguru",
+      "description": "Sadhguru looks at the reason behind the peak secretions of the pineal gland during the last quarter of the night and how one can ...",
+      "url": "https://www.youtube.com/watch?v=OyNyqJas47g",
+      "thumbnail": "https://i.ytimg.com/vi/OyNyqJas47g/hqdefault.jpg",
+      "date": "2025-11-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Karma, Enlightenment, Devotion &amp; Sadhana – Unreleased Talk from 2008 | Sadhguru",
+      "description": "In an intimate satsang with meditators in the UK in 2008, Sadhguru shared many profound stories while answering questions on a ...",
+      "url": "https://www.youtube.com/watch?v=8bVzuYeqi7U",
+      "thumbnail": "https://i.ytimg.com/vi/8bVzuYeqi7U/hqdefault.jpg",
+      "date": "2025-11-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "3 Days Alone: Can You Handle Your Mind? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Kje-7Yv9SGc",
+      "thumbnail": "https://i.ytimg.com/vi/Kje-7Yv9SGc/hqdefault.jpg",
+      "date": "2025-11-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Devi Yantra Can Do Incredible Things | Sadhguru",
       "description": "Sadhguru explains why the Linga Bhairavi Yantra has a physical form though Devi's grace is not limited to time and space.",
@@ -1946,5 +1996,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-23T02:52:41.163771"
+  "last_updated": "2025-11-24T02:48:16.056304"
 }
