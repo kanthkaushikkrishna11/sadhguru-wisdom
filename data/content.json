@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -487,6 +498,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Watch Sadhguru&#39;s Unreleased Video from 2008 | Sadhguru on Drishti, Karma &amp; Enlightenment",
+      "description": "In an intimate satsang with meditators in the UK in 2008, Sadhguru shared many profound stories while answering questions on a ...",
+      "url": "https://www.youtube.com/watch?v=YFZ-TjLoT9s",
+      "thumbnail": "https://i.ytimg.com/vi/YFZ-TjLoT9s/hqdefault.jpg",
+      "date": "2025-11-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Body Remembers All | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CWzcXlg6gD0",
+      "thumbnail": "https://i.ytimg.com/vi/CWzcXlg6gD0/hqdefault.jpg",
+      "date": "2025-11-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Happens at 3:30 AM? | Sadhguru",
       "description": "Sadhguru looks at the reason behind the peak secretions of the pineal gland during the last quarter of the night and how one can ...",
@@ -1996,5 +2033,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-24T02:48:16.056304"
+  "last_updated": "2025-11-25T02:29:12.536790"
 }
