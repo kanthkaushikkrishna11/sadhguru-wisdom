@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -498,6 +509,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Ravana Failed Despite His Greatness | Sadhguru",
+      "description": "Sadhguru responds to filmmaker Namit Malhotra's question about Ravana and explains why he was defeated by Rama despite ...",
+      "url": "https://www.youtube.com/watch?v=iL3sHuwezV4",
+      "thumbnail": "https://i.ytimg.com/vi/iL3sHuwezV4/hqdefault.jpg",
+      "date": "2025-11-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Revitalizing India&#39;s Rivers | Sadhguru",
+      "description": "In 2017, Sadhguru launched the nationwide “Rally for Rivers” campaign in India, a major policy advocacy initiative, where he ...",
+      "url": "https://www.youtube.com/watch?v=4pv0rTQtvwM",
+      "thumbnail": "https://i.ytimg.com/vi/4pv0rTQtvwM/hqdefault.jpg",
+      "date": "2025-11-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Watch Sadhguru&#39;s Unreleased Video from 2008 | Sadhguru on Drishti, Karma &amp; Enlightenment",
       "description": "In an intimate satsang with meditators in the UK in 2008, Sadhguru shared many profound stories while answering questions on a ...",
@@ -2033,5 +2070,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-25T02:29:12.536790"
+  "last_updated": "2025-11-26T02:30:15.988920"
 }
