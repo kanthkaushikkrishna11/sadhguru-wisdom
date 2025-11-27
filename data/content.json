@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -509,6 +520,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Pieces of Skull in Sadhguru’s Pocket",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=voTNc7WD1uU",
+      "thumbnail": "https://i.ytimg.com/vi/voTNc7WD1uU/hqdefault.jpg",
+      "date": "2025-11-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Ravana Failed Despite His Greatness | Sadhguru",
       "description": "Sadhguru responds to filmmaker Namit Malhotra's question about Ravana and explains why he was defeated by Rama despite ...",
@@ -2070,5 +2094,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-26T02:30:15.988920"
+  "last_updated": "2025-11-27T02:26:38.920332"
 }
