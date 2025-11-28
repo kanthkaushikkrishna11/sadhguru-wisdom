@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-28",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-28",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-27",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -520,6 +531,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Can you make this promise to Sadhguru?",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=eforMLyJEJY",
+      "thumbnail": "https://i.ytimg.com/vi/eforMLyJEJY/hqdefault.jpg",
+      "date": "2025-11-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Foreseeing Death in 84 Days | Sadhguru",
+      "description": "Sadhguru responds to Juhi Chawla's question about Kashi's Chandreshwar temple, which is believed to be a tool for people to ...",
+      "url": "https://www.youtube.com/watch?v=ioNSBBa2uKE",
+      "thumbnail": "https://i.ytimg.com/vi/ioNSBBa2uKE/hqdefault.jpg",
+      "date": "2025-11-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Pieces of Skull in Sadhguru’s Pocket",
       "description": "",
@@ -2094,5 +2131,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-27T02:26:38.920332"
+  "last_updated": "2025-11-28T02:26:09.806746"
 }
