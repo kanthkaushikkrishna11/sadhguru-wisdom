@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-29",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-29",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-28",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -531,6 +542,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A Pleasure Bigger Than Sexuality | Sadhguru",
+      "description": "Sadhguru explains how Yogic processes are designed to activate the pineal gland, which can create a sense of ecstasy and ...",
+      "url": "https://www.youtube.com/watch?v=ENipU40QMAA",
+      "thumbnail": "https://i.ytimg.com/vi/ENipU40QMAA/hqdefault.jpg",
+      "date": "2025-11-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Healthy Eating And The Big Problem With Your Food | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=7EE4ncEPQ1Y",
+      "thumbnail": "https://i.ytimg.com/vi/7EE4ncEPQ1Y/hqdefault.jpg",
+      "date": "2025-11-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Can you make this promise to Sadhguru?",
       "description": "",
@@ -2131,5 +2168,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-28T02:26:09.806746"
+  "last_updated": "2025-11-29T02:25:53.499223"
 }
