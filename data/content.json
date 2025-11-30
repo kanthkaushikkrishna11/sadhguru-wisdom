@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-11-30",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-11-30",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-29",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -542,6 +553,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Don&#39;t Let Your Life Be Poisoned | Sadhguru",
+      "description": "Thousands of participants at the Ecstasy of Enlightenment Program in London, creating an inner chemistry of joy and blissfulness.",
+      "url": "https://www.youtube.com/watch?v=KF70TktSYqc",
+      "thumbnail": "https://i.ytimg.com/vi/KF70TktSYqc/hqdefault.jpg",
+      "date": "2025-11-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Vilva &amp; Neem Are Dearest to Shiva | Sadhguru",
+      "description": "Sadhguru responds to a question about the significance of neem and vilva leaves, explaining their unique qualities, their ability to ...",
+      "url": "https://www.youtube.com/watch?v=sKGW42iMhmc",
+      "thumbnail": "https://i.ytimg.com/vi/sKGW42iMhmc/hqdefault.jpg",
+      "date": "2025-11-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "High-Energy Leaves | Sadhguru",
+      "description": "Sadhguru speaks about the significance of neem and vilva leaves, explaining their unique qualities, their ability to store and ...",
+      "url": "https://www.youtube.com/watch?v=6pKX1mH5p40",
+      "thumbnail": "https://i.ytimg.com/vi/6pKX1mH5p40/hqdefault.jpg",
+      "date": "2025-11-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A Pleasure Bigger Than Sexuality | Sadhguru",
       "description": "Sadhguru explains how Yogic processes are designed to activate the pineal gland, which can create a sense of ecstasy and ...",
@@ -2168,5 +2218,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-29T02:25:53.499223"
+  "last_updated": "2025-11-30T02:51:55.972838"
 }
