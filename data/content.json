@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-01",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-01",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-11-30",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -553,6 +564,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Real Varanasi Is Not On The Ground | Sadhguru",
+      "description": "Legend says, “Varanasi is on Shiva's Trishul, not on the ground.” In my experience, the energy structure of Varanasi is about 33 ...",
+      "url": "https://www.youtube.com/watch?v=FUIJd1LSDHo",
+      "thumbnail": "https://i.ytimg.com/vi/FUIJd1LSDHo/hqdefault.jpg",
+      "date": "2025-11-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "India: Where Truth is the Only Authority | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=RykkooBsNT0",
+      "thumbnail": "https://i.ytimg.com/vi/RykkooBsNT0/hqdefault.jpg",
+      "date": "2025-11-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Don&#39;t Let Your Life Be Poisoned | Sadhguru",
       "description": "Thousands of participants at the Ecstasy of Enlightenment Program in London, creating an inner chemistry of joy and blissfulness.",
@@ -2218,5 +2255,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-11-30T02:51:55.972838"
+  "last_updated": "2025-12-01T03:02:51.504094"
 }
