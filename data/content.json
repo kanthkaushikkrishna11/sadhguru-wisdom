@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-02",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-02",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-01",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -564,6 +575,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A Little Girl Wants An Answer From Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=mx7izD4_AJU",
+      "thumbnail": "https://i.ytimg.com/vi/mx7izD4_AJU/hqdefault.jpg",
+      "date": "2025-12-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "How To Wear Out Your Karma Faster? | Sadhguru",
+      "description": "A spiritual process is essentially to put your life on fast-forward. Your joys and sufferings – the karmic structure that was spread ...",
+      "url": "https://www.youtube.com/watch?v=Zf2LSQ9Qe4E",
+      "thumbnail": "https://i.ytimg.com/vi/Zf2LSQ9Qe4E/hqdefault.jpg",
+      "date": "2025-12-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Real Varanasi Is Not On The Ground | Sadhguru",
       "description": "Legend says, “Varanasi is on Shiva's Trishul, not on the ground.” In my experience, the energy structure of Varanasi is about 33 ...",
@@ -2255,5 +2292,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-01T03:02:51.504094"
+  "last_updated": "2025-12-02T02:43:21.761356"
 }
