@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-03",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-03",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-02",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -575,6 +586,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Are You a Lover or a Fixer? | Sadhgury",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=OdH-SlGlsdM",
+      "thumbnail": "https://i.ytimg.com/vi/OdH-SlGlsdM/hqdefault.jpg",
+      "date": "2025-12-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "How Your Posture Affects You | Sadhguru",
+      "description": "How well aligned you are, how you sit, stand, and breathe, determines how your body functions, and for how long it will function.",
+      "url": "https://www.youtube.com/watch?v=S85TdVrmWoA",
+      "thumbnail": "https://i.ytimg.com/vi/S85TdVrmWoA/hqdefault.jpg",
+      "date": "2025-12-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A Little Girl Wants An Answer From Sadhguru",
       "description": "",
@@ -2292,5 +2329,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-02T02:43:21.761356"
+  "last_updated": "2025-12-03T02:42:32.420906"
 }
