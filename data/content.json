@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -586,6 +597,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Early Sexual Intimacy | Sadhguru",
+      "description": "Sadhguru speaks about the body's capability to remember, how physical intimacy creates deep memory imprints in the body, and ...",
+      "url": "https://www.youtube.com/watch?v=vsXfrlA0Ljc",
+      "thumbnail": "https://i.ytimg.com/vi/vsXfrlA0Ljc/hqdefault.jpg",
+      "date": "2025-12-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Are You a Lover or a Fixer? | Sadhgury",
       "description": "",
@@ -2329,5 +2353,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-03T02:42:32.420906"
+  "last_updated": "2025-12-04T02:43:43.928508"
 }
