@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-05",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-05",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-04",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -597,6 +608,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A Powerful Chant To Move from Untruth to Truth | Sadhguru",
+      "description": "Truth is not about ideals you hold in your head. Truth is that which works on all levels of life. Every day, you see “what is the best ...",
+      "url": "https://www.youtube.com/watch?v=x_wR50UD4oc",
+      "thumbnail": "https://i.ytimg.com/vi/x_wR50UD4oc/hqdefault.jpg",
+      "date": "2025-12-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "If Everyone Got Enlightened… | Sadhguru",
+      "description": "During a satsang in 2008 in the UK, Sadhguru spoke about what the world would be like if every human being got enlightened, ...",
+      "url": "https://www.youtube.com/watch?v=q0g890mZmq0",
+      "thumbnail": "https://i.ytimg.com/vi/q0g890mZmq0/hqdefault.jpg",
+      "date": "2025-12-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Early Sexual Intimacy | Sadhguru",
       "description": "Sadhguru speaks about the body's capability to remember, how physical intimacy creates deep memory imprints in the body, and ...",
@@ -2353,5 +2390,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-04T02:43:43.928508"
+  "last_updated": "2025-12-05T02:44:19.451531"
 }
