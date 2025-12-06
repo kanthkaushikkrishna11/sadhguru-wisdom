@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-06",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-06",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-05",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -608,6 +619,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A Young Girl’s Big Question to Sadhguru",
+      "description": "A young girl's query about life's fleeting nature leads to an interesting answer from Sadhguru that involves unexpectedly enough, ...",
+      "url": "https://www.youtube.com/watch?v=eLxw5Bc3M7Q",
+      "thumbnail": "https://i.ytimg.com/vi/eLxw5Bc3M7Q/hqdefault.jpg",
+      "date": "2025-12-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Take This Commitment for Soil | Sadhguru",
+      "description": "Take This Commitment for Soil #WorldSoilDay.",
+      "url": "https://www.youtube.com/watch?v=1szqvvZ4wQU",
+      "thumbnail": "https://i.ytimg.com/vi/1szqvvZ4wQU/hqdefault.jpg",
+      "date": "2025-12-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A Powerful Chant To Move from Untruth to Truth | Sadhguru",
       "description": "Truth is not about ideals you hold in your head. Truth is that which works on all levels of life. Every day, you see “what is the best ...",
@@ -2390,5 +2427,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-05T02:44:19.451531"
+  "last_updated": "2025-12-06T02:25:24.463921"
 }
