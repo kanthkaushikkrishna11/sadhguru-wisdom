@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-07",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-07",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-06",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -619,6 +630,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Gurus Are Never Satisfied? Sadhguru Answers",
+      "description": "What do Gurus truly desire? Sadhguru shares a perspective that spans lifetimes.",
+      "url": "https://www.youtube.com/watch?v=vVWTdZ6Rnuc",
+      "thumbnail": "https://i.ytimg.com/vi/vVWTdZ6Rnuc/hqdefault.jpg",
+      "date": "2025-12-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "When Does Someone Become Yours? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=5BlEZheFz74",
+      "thumbnail": "https://i.ytimg.com/vi/5BlEZheFz74/hqdefault.jpg",
+      "date": "2025-12-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Unplug from the Mental Matrix | Sadhguru",
+      "description": "In this insightful satsang at Isha Yoga Center in 2016, Sadhguru explored the mechanics of human mind to transform it into a ...",
+      "url": "https://www.youtube.com/watch?v=x5WunaqToGQ",
+      "thumbnail": "https://i.ytimg.com/vi/x5WunaqToGQ/hqdefault.jpg",
+      "date": "2025-12-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A Young Girl’s Big Question to Sadhguru",
       "description": "A young girl's query about life's fleeting nature leads to an interesting answer from Sadhguru that involves unexpectedly enough, ...",
@@ -2427,5 +2477,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-06T02:25:24.463921"
+  "last_updated": "2025-12-07T02:52:25.675682"
 }
