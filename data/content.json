@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-08",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-08",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-07",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -630,6 +641,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "What Makes Eastern Wisdom Timeless? Dr. Jude Currivan &amp; Sadhguru",
+      "description": "During a conversation at Harvard Medical School hosted by Sadhguru Center for a Conscious Planet, cosmologist Dr. Jude ...",
+      "url": "https://www.youtube.com/watch?v=bP1pMh9oGGE",
+      "thumbnail": "https://i.ytimg.com/vi/bP1pMh9oGGE/hqdefault.jpg",
+      "date": "2025-12-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Gurus Are Never Satisfied? Sadhguru Answers",
       "description": "What do Gurus truly desire? Sadhguru shares a perspective that spans lifetimes.",
@@ -2477,5 +2501,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-07T02:52:25.675682"
+  "last_updated": "2025-12-08T02:45:38.158163"
 }
