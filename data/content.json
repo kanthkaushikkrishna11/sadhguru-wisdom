@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-09",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-09",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-08",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -641,6 +652,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The World You See Isn’t Real | Sadhguru",
+      "description": "Sadhguru explains why most people, trapped in a matrix of memory and imagination, never truly experience life, and offers ...",
+      "url": "https://www.youtube.com/watch?v=DagfoSLusWA",
+      "thumbnail": "https://i.ytimg.com/vi/DagfoSLusWA/hqdefault.jpg",
+      "date": "2025-12-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Simple Gesture That Helps When Someone Is Angry At You | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=N5CsdPDEyYE",
+      "thumbnail": "https://i.ytimg.com/vi/N5CsdPDEyYE/hqdefault.jpg",
+      "date": "2025-12-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Makes Eastern Wisdom Timeless? Dr. Jude Currivan &amp; Sadhguru",
       "description": "During a conversation at Harvard Medical School hosted by Sadhguru Center for a Conscious Planet, cosmologist Dr. Jude ...",
@@ -2501,5 +2538,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-08T02:45:38.158163"
+  "last_updated": "2025-12-09T02:43:34.851714"
 }
