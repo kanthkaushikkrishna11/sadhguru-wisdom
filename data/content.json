@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -652,6 +663,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Is Your Diet Making You Dumber? | Sadhguru",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=xhOABBFqPF4",
+      "thumbnail": "https://i.ytimg.com/vi/xhOABBFqPF4/hqdefault.jpg",
+      "date": "2025-12-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "What is Hardcore Spirituality? | Sadhguru",
+      "description": "In an intimate satsang in Chicago in 2005, Sadhguru delved into what \"hardcore spirituality\" really means and the role of a Guru in ...",
+      "url": "https://www.youtube.com/watch?v=kEPzTDyO8kc",
+      "thumbnail": "https://i.ytimg.com/vi/kEPzTDyO8kc/hqdefault.jpg",
+      "date": "2025-12-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The World You See Isn’t Real | Sadhguru",
       "description": "Sadhguru explains why most people, trapped in a matrix of memory and imagination, never truly experience life, and offers ...",
@@ -2538,5 +2575,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-09T02:43:34.851714"
+  "last_updated": "2025-12-10T02:47:12.143357"
 }
