@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-11",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-11",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-10",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -663,6 +674,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Bringing Clarity &amp; Balance to the Youth | Sadhguru",
+      "description": "Envisioned by Sadhguru, Youth and Truth is a movement to empower the youth with the required clarity and perspective – so as to ...",
+      "url": "https://www.youtube.com/watch?v=wnl3dQb7xs4",
+      "thumbnail": "https://i.ytimg.com/vi/wnl3dQb7xs4/hqdefault.jpg",
+      "date": "2025-12-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Is Your Diet Making You Dumber? | Sadhguru",
       "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
@@ -2575,5 +2599,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-10T02:47:12.143357"
+  "last_updated": "2025-12-11T02:48:42.477920"
 }
