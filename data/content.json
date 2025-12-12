@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-12",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-12",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-11",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -674,6 +685,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Benefits of Honey | Sadhguru",
+      "description": "Sadhguru: Honey is a substance whose chemical composition is very close to that of human blood, and it has a different impact on ...",
+      "url": "https://www.youtube.com/watch?v=JpWbcC9iAyQ",
+      "thumbnail": "https://i.ytimg.com/vi/JpWbcC9iAyQ/hqdefault.jpg",
+      "date": "2025-12-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Power of Kundalini Yoga | Sadhguru",
+      "description": "Sadhguru speaks about an ancient tantric ritual practiced in Central Asia where they make a seed grow into a tree and bear fruit in ...",
+      "url": "https://www.youtube.com/watch?v=hCXrdYi6KO4",
+      "thumbnail": "https://i.ytimg.com/vi/hCXrdYi6KO4/hqdefault.jpg",
+      "date": "2025-12-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Bringing Clarity &amp; Balance to the Youth | Sadhguru",
       "description": "Envisioned by Sadhguru, Youth and Truth is a movement to empower the youth with the required clarity and perspective – so as to ...",
@@ -2599,5 +2636,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-11T02:48:42.477920"
+  "last_updated": "2025-12-12T02:47:56.708264"
 }
