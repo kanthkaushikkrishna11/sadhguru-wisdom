@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-13",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-13",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-12",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -685,6 +696,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Do We Go Clockwise Around Temples? | Sadhguru",
+      "description": "Sadhguru explains why pradakshina, or going clockwise around sacred spaces, isn't just about tradition, but is rooted in an ...",
+      "url": "https://www.youtube.com/watch?v=9ZUpOPbuENc",
+      "thumbnail": "https://i.ytimg.com/vi/9ZUpOPbuENc/hqdefault.jpg",
+      "date": "2025-12-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Simple Process for Inner Cleansing | Sadhguru",
+      "description": "Sadhguru looks at how Shambhavi Mahamudra Kriya is a powerful process for inner cleansing. Designed by Sadhguru, Inner ...",
+      "url": "https://www.youtube.com/watch?v=RhwLpaRuAPc",
+      "thumbnail": "https://i.ytimg.com/vi/RhwLpaRuAPc/hqdefault.jpg",
+      "date": "2025-12-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Benefits of Honey | Sadhguru",
       "description": "Sadhguru: Honey is a substance whose chemical composition is very close to that of human blood, and it has a different impact on ...",
@@ -2636,5 +2673,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-12T02:47:56.708264"
+  "last_updated": "2025-12-13T02:28:42.860866"
 }
