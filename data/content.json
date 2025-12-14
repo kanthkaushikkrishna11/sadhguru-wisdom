@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -696,6 +707,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How 7 Months At Isha Yoga Center Can Transform You | Sadhguru",
+      "description": "Sadhanapada at the Isha Yoga Center, India, is a 7-month residential program for inner transformation for those looking to ...",
+      "url": "https://www.youtube.com/watch?v=Oyx--Zerh_s",
+      "thumbnail": "https://i.ytimg.com/vi/Oyx--Zerh_s/hqdefault.jpg",
+      "date": "2025-12-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Reduce Your Sleep Quota | Sadhguru",
+      "description": "Sadhguru explains how Shambhavi Mahamudra Kriya – a 21-minute Yogic practice offered in the Inner Engineering program ...",
+      "url": "https://www.youtube.com/watch?v=y4jtnVP0G68",
+      "thumbnail": "https://i.ytimg.com/vi/y4jtnVP0G68/hqdefault.jpg",
+      "date": "2025-12-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Do We Go Clockwise Around Temples? | Sadhguru",
       "description": "Sadhguru explains why pradakshina, or going clockwise around sacred spaces, isn't just about tradition, but is rooted in an ...",
@@ -2673,5 +2710,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-13T02:28:42.860866"
+  "last_updated": "2025-12-14T02:53:35.365432"
 }
