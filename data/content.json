@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -707,6 +718,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Right Way To Do Intermittent Fasting | Sadhguru",
+      "description": "The way you eat not only decides your physical health, but the very way you think, feel, and experience life.",
+      "url": "https://www.youtube.com/watch?v=SO1r8vkC9fw",
+      "thumbnail": "https://i.ytimg.com/vi/SO1r8vkC9fw/hqdefault.jpg",
+      "date": "2025-12-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Little Girl’s Dream to Meet Sadhguru Comes True! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=nDRuAUey70s",
+      "thumbnail": "https://i.ytimg.com/vi/nDRuAUey70s/hqdefault.jpg",
+      "date": "2025-12-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "How 7 Months At Isha Yoga Center Can Transform You | Sadhguru",
       "description": "Sadhanapada at the Isha Yoga Center, India, is a 7-month residential program for inner transformation for those looking to ...",
@@ -2710,5 +2747,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-14T02:53:35.365432"
+  "last_updated": "2025-12-15T02:53:49.219632"
 }
