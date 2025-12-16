@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -718,6 +729,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Vande Mataram – Why Are We Debating? | Sadhguru",
+      "description": "In an interview with NDTV's Padmaja Joshi, Sadhguru responds to a question about whether a debate on Vande Mataram is really ...",
+      "url": "https://www.youtube.com/watch?v=AiJ8Xi6unlc",
+      "thumbnail": "https://i.ytimg.com/vi/AiJ8Xi6unlc/hqdefault.jpg",
+      "date": "2025-12-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Dark Side of Misusing Telepathy | Sadhguru",
+      "description": "On 14 October 2025, Sadhguru Center for a Conscious Planet hosted a conversation between Dr. Dean Radin, Chief Scientist at ...",
+      "url": "https://www.youtube.com/watch?v=LjCYRWCPwHs",
+      "thumbnail": "https://i.ytimg.com/vi/LjCYRWCPwHs/hqdefault.jpg",
+      "date": "2025-12-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Mumbai swept away in Ecstasy! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=DWcRfO4QwUo",
+      "thumbnail": "https://i.ytimg.com/vi/DWcRfO4QwUo/hqdefault.jpg",
+      "date": "2025-12-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Right Way To Do Intermittent Fasting | Sadhguru",
       "description": "The way you eat not only decides your physical health, but the very way you think, feel, and experience life.",
@@ -2747,5 +2797,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-15T02:53:49.219632"
+  "last_updated": "2025-12-16T02:48:28.642371"
 }
