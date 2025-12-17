@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-17",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-17",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-16",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -729,6 +740,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Life is Not Unpleasant | Sadhguru",
+      "description": "Sadhguru explores the mechanics of human mind and explains why most people, trapped in a matrix of memory and imagination, ...",
+      "url": "https://www.youtube.com/watch?v=W1AMcuhl5OA",
+      "thumbnail": "https://i.ytimg.com/vi/W1AMcuhl5OA/hqdefault.jpg",
+      "date": "2025-12-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Your Pursuit of Happiness Is Failing | Sadhguru",
+      "description": "Sadhguru looks at the fundamental reason why our pursuit of happiness is failing and explains how one can move from stress to ...",
+      "url": "https://www.youtube.com/watch?v=fcvgD4dhJX8",
+      "thumbnail": "https://i.ytimg.com/vi/fcvgD4dhJX8/hqdefault.jpg",
+      "date": "2025-12-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Vande Mataram – Why Are We Debating? | Sadhguru",
       "description": "In an interview with NDTV's Padmaja Joshi, Sadhguru responds to a question about whether a debate on Vande Mataram is really ...",
@@ -2797,5 +2834,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-16T02:48:28.642371"
+  "last_updated": "2025-12-17T02:45:06.493203"
 }
