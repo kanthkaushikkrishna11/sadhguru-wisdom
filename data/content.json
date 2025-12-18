@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-18",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-18",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-17",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -740,6 +751,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Who Is Sadhguru Really? | Sadhguru",
+      "description": "Sadhguru is the Soil upon which you can grow, thrive, blossom, and merge with. Miracle of Mind A free meditation app by ...",
+      "url": "https://www.youtube.com/watch?v=Ka85ah4Amt4",
+      "thumbnail": "https://i.ytimg.com/vi/Ka85ah4Amt4/hqdefault.jpg",
+      "date": "2025-12-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Shiva Devotees are Extreme | Sadhguru",
+      "description": "The beauty of life lies not in what you get or have, but in how you are, and with how much grace and balance you go through ...",
+      "url": "https://www.youtube.com/watch?v=qb_h9DenpHo",
+      "thumbnail": "https://i.ytimg.com/vi/qb_h9DenpHo/hqdefault.jpg",
+      "date": "2025-12-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Life is Not Unpleasant | Sadhguru",
       "description": "Sadhguru explores the mechanics of human mind and explains why most people, trapped in a matrix of memory and imagination, ...",
@@ -2834,5 +2871,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-17T02:45:06.493203"
+  "last_updated": "2025-12-18T02:45:22.136049"
 }
