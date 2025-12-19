@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-19",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-19",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-18",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -751,6 +762,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Are Most Gurus Male? | Sadhguru",
+      "description": "Being a Guru is not about being a man or a woman. Only if you can go beyond gender and see life simply as life, can you look at ...",
+      "url": "https://www.youtube.com/watch?v=yVnY2NB4vMs",
+      "thumbnail": "https://i.ytimg.com/vi/yVnY2NB4vMs/hqdefault.jpg",
+      "date": "2025-12-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Can Science Measure Consciousness? Dr. Dean Radin &amp; Sadhguru",
+      "description": "Dr. Dean Radin, Chief Scientist at the Institute of Noetic Sciences, explored consciousness, psychic phenomena, telepathy, noetic ...",
+      "url": "https://www.youtube.com/watch?v=g8EtKumyqk4",
+      "thumbnail": "https://i.ytimg.com/vi/g8EtKumyqk4/hqdefault.jpg",
+      "date": "2025-12-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Who Is Sadhguru Really? | Sadhguru",
       "description": "Sadhguru is the Soil upon which you can grow, thrive, blossom, and merge with. Miracle of Mind A free meditation app by ...",
@@ -2871,5 +2908,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-18T02:45:22.136049"
+  "last_updated": "2025-12-19T02:48:12.581491"
 }
