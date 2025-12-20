@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -762,6 +773,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Dangers of Telepathy | Sadhguru",
+      "description": "Dr. Dean Radin, Chief Scientist at the Institute of Noetic Sciences, discusses telepathy and psychic powers with Sadhguru. Miracle ...",
+      "url": "https://www.youtube.com/watch?v=6ng78aCGmD4",
+      "thumbnail": "https://i.ytimg.com/vi/6ng78aCGmD4/hqdefault.jpg",
+      "date": "2025-12-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Dangers of Kundalini Yoga | Sadhguru",
+      "description": "Sadhguru delves into Kundalini and Kundalini Yoga, and the dangers and possibilities of tapping into this ultimate source of ...",
+      "url": "https://www.youtube.com/watch?v=wHAAdXyxDk0",
+      "thumbnail": "https://i.ytimg.com/vi/wHAAdXyxDk0/hqdefault.jpg",
+      "date": "2025-12-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Are Most Gurus Male? | Sadhguru",
       "description": "Being a Guru is not about being a man or a woman. Only if you can go beyond gender and see life simply as life, can you look at ...",
@@ -2908,5 +2945,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-19T02:48:12.581491"
+  "last_updated": "2025-12-20T02:28:54.935620"
 }
