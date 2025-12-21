@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -773,6 +784,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Constipated or Ecstatic – It’s Your Choice! | Sadhguru",
+      "description": "On 14 December, over 10000 seekers soaked in “Ecstasy of Enlightenment” in Sadhguru's presence in Mumbai. Here is a ...",
+      "url": "https://www.youtube.com/watch?v=iQ-ZjnsHqDM",
+      "thumbnail": "https://i.ytimg.com/vi/iQ-ZjnsHqDM/hqdefault.jpg",
+      "date": "2025-12-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Rapid Fire – Barkha Dutt &amp; Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=DF3vqO4Mr_4",
+      "thumbnail": "https://i.ytimg.com/vi/DF3vqO4Mr_4/hqdefault.jpg",
+      "date": "2025-12-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Dangers of Telepathy | Sadhguru",
       "description": "Dr. Dean Radin, Chief Scientist at the Institute of Noetic Sciences, discusses telepathy and psychic powers with Sadhguru. Miracle ...",
@@ -2945,5 +2982,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-20T02:28:54.935620"
+  "last_updated": "2025-12-21T02:53:40.448009"
 }
