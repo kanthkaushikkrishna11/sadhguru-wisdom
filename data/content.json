@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -784,6 +795,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru’s Message on World Meditation Day",
+      "description": "Mind is an accumulation of impressions. You have no choice whether to pick up fragrance or filth, but how you hold it is in your ...",
+      "url": "https://www.youtube.com/watch?v=v5oLItozyU0",
+      "thumbnail": "https://i.ytimg.com/vi/v5oLItozyU0/hqdefault.jpg",
+      "date": "2025-12-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Will Inner Engineering Work for Me - @TheDeverakonda Asks Sadhguru",
+      "description": "Actor Vijay Deverakonda asks Sadhguru whether he is capable of Inner Engineering. Watch Sadhguru's response. Transform ...",
+      "url": "https://www.youtube.com/watch?v=8mEvPWyiWyA",
+      "thumbnail": "https://i.ytimg.com/vi/8mEvPWyiWyA/hqdefault.jpg",
+      "date": "2025-12-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Constipated or Ecstatic – It’s Your Choice! | Sadhguru",
       "description": "On 14 December, over 10000 seekers soaked in “Ecstasy of Enlightenment” in Sadhguru's presence in Mumbai. Here is a ...",
@@ -2982,5 +3019,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-21T02:53:40.448009"
+  "last_updated": "2025-12-22T02:55:49.933458"
 }
