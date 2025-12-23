@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-23",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-23",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-22",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -795,6 +806,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "If You Have Love In Your Heart... | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_b29NUib8gg",
+      "thumbnail": "https://i.ytimg.com/vi/_b29NUib8gg/hqdefault.jpg",
+      "date": "2025-12-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Your Vision Can Kill | Sadhguru",
+      "description": "Sadhguru explains the power of drishti, or vision, and narrates the tale of a sanyasi who killed with his vision. But then the sanyasi ...",
+      "url": "https://www.youtube.com/watch?v=YCzAvIjpyMU",
+      "thumbnail": "https://i.ytimg.com/vi/YCzAvIjpyMU/hqdefault.jpg",
+      "date": "2025-12-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru’s Message on World Meditation Day",
       "description": "Mind is an accumulation of impressions. You have no choice whether to pick up fragrance or filth, but how you hold it is in your ...",
@@ -3019,5 +3056,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-22T02:55:49.933458"
+  "last_updated": "2025-12-23T02:50:08.570778"
 }
