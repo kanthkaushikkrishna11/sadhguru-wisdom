@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -806,6 +817,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Stillness, Intoxication &amp; Intensity of Samyama | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=QkOpdQijjcw",
+      "thumbnail": "https://i.ytimg.com/vi/QkOpdQijjcw/hqdefault.jpg",
+      "date": "2025-12-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Satsang on 31 Dec | Live at 10:30 PM IST | New Year",
+      "description": "Sadhguru Satsang on New Year's Eve – Live from Isha Yoga Center, Coimbatore Miracle of Mind A free meditation app by ...",
+      "url": "https://www.youtube.com/watch?v=QM_Jo6lixbU",
+      "thumbnail": "https://i.ytimg.com/vi/QM_Jo6lixbU/hqdefault.jpg",
+      "date": "2025-12-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Satsang on 31 Dec | Live at 10:30 PM IST | New Year",
+      "description": "Sadhguru Satsang on New Year's Eve – Live from Isha Yoga Center, Coimbatore Miracle of Mind A free meditation app by ...",
+      "url": "https://www.youtube.com/watch?v=vVEfs3NOCkk",
+      "thumbnail": "https://i.ytimg.com/vi/vVEfs3NOCkk/hqdefault.jpg",
+      "date": "2025-12-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru on Citizenship Amendment Act (CAA)",
+      "description": "Religious terrorism is not just to our West but to our East as well. CAA must be amended and implemented so that terrorized ...",
+      "url": "https://www.youtube.com/watch?v=YZ5LDzkx8jY",
+      "thumbnail": "https://i.ytimg.com/vi/YZ5LDzkx8jY/hqdefault.jpg",
+      "date": "2025-12-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "If You Have Love In Your Heart... | Sadhguru",
       "description": "",
@@ -3056,5 +3119,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-23T02:50:08.570778"
+  "last_updated": "2025-12-24T02:47:28.735768"
 }
