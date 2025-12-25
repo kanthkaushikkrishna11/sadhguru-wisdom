@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -817,6 +828,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Ho Ho Ho - Poem by Sadhguru",
+      "description": "Ho Ho Ho The year is coming to a close And what have you done this year? One more year gone. Are you still alive? And what ...",
+      "url": "https://www.youtube.com/watch?v=dq43fCNkEjU",
+      "thumbnail": "https://i.ytimg.com/vi/dq43fCNkEjU/hqdefault.jpg",
+      "date": "2025-12-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Stillness, Intoxication &amp; Intensity of Samyama | Sadhguru",
       "description": "",
@@ -3119,5 +3143,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-24T02:47:28.735768"
+  "last_updated": "2025-12-25T02:50:50.343150"
 }
