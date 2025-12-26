@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -828,6 +839,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Wishing you all a Joyful Christmas | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=T-vasMJWyoA",
+      "thumbnail": "https://i.ytimg.com/vi/T-vasMJWyoA/hqdefault.jpg",
+      "date": "2025-12-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why We Worship Jesus | Sadhguru",
+      "description": "Jesus' life is a reminder that no matter what the world throws at you, you always have the freedom to choose how to respond.",
+      "url": "https://www.youtube.com/watch?v=83yOX2ziDiw",
+      "thumbnail": "https://i.ytimg.com/vi/83yOX2ziDiw/hqdefault.jpg",
+      "date": "2025-12-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Ho Ho Ho - Poem by Sadhguru",
       "description": "Ho Ho Ho The year is coming to a close And what have you done this year? One more year gone. Are you still alive? And what ...",
@@ -3143,5 +3180,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-25T02:50:50.343150"
+  "last_updated": "2025-12-26T02:48:46.020294"
 }
