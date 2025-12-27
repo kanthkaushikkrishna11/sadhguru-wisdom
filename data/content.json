@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -839,6 +850,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "When Sadhguru’s Motorcycle Didn&#39;t Cooperate!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Z4k7AkEJbTA",
+      "thumbnail": "https://i.ytimg.com/vi/Z4k7AkEJbTA/hqdefault.jpg",
+      "date": "2025-12-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Wishing you all a Joyful Christmas | Sadhguru",
       "description": "",
@@ -3180,5 +3204,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-26T02:48:46.020294"
+  "last_updated": "2025-12-27T02:46:03.540364"
 }
