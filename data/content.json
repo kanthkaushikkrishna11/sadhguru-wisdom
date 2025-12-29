@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-29",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-29",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-28",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -861,6 +872,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Creating a Blissful World | Sadhguru",
+      "description": "Sadhguru looks at how Inner Engineering can establish one's faculties such that they only work for you and not against you.",
+      "url": "https://www.youtube.com/watch?v=o_fouIlfj6g",
+      "thumbnail": "https://i.ytimg.com/vi/o_fouIlfj6g/hqdefault.jpg",
+      "date": "2025-12-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Partition&#39;s Unfinished Business in Bangladesh | Sadhguru",
+      "description": "Sadhguru responds to a question about the Bangladesh interim government's recent remarks on India's seven north-eastern ...",
+      "url": "https://www.youtube.com/watch?v=32qX0YDYdcI",
+      "thumbnail": "https://i.ytimg.com/vi/32qX0YDYdcI/hqdefault.jpg",
+      "date": "2025-12-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "This Crime Is Worse Than Murder | Sadhguru",
       "description": "",
@@ -3241,5 +3278,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-28T03:01:24.960614"
+  "last_updated": "2025-12-29T03:01:28.116039"
 }
