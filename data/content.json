@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-30",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-30",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-29",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -872,6 +883,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Time to Liberate Agriculture | Sadhguru",
+      "description": "The tree is the insurance for the farmer. If there are trees on the farm, their life is insured. It is time to bring back tree-based ...",
+      "url": "https://www.youtube.com/watch?v=OuMRoRLG3Yw",
+      "thumbnail": "https://i.ytimg.com/vi/OuMRoRLG3Yw/hqdefault.jpg",
+      "date": "2025-12-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru on Elon Musk’s Vision",
+      "description": "Responding to a question about Elon Musk's vision of a future of abundance—where every human being will have easy access to ...",
+      "url": "https://www.youtube.com/watch?v=R43pRQhBts4",
+      "thumbnail": "https://i.ytimg.com/vi/R43pRQhBts4/hqdefault.jpg",
+      "date": "2025-12-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Creating a Blissful World | Sadhguru",
       "description": "Sadhguru looks at how Inner Engineering can establish one's faculties such that they only work for you and not against you.",
@@ -3278,5 +3315,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-29T03:01:28.116039"
+  "last_updated": "2025-12-30T02:51:40.922595"
 }
