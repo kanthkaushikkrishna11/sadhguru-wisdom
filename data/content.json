@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2025-12-31",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2025-12-31",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2025-12-30",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -883,6 +894,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A Simple Practice That Outlasts New Year Resolutions | Sadhguru",
+      "description": "Sadhguru narrates the story of a washerman who wanted his donkey transformed into a human being, to explain why there is no ...",
+      "url": "https://www.youtube.com/watch?v=XTmJ3C0WOuk",
+      "thumbnail": "https://i.ytimg.com/vi/XTmJ3C0WOuk/hqdefault.jpg",
+      "date": "2025-12-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "What Sadhguru Did With a Kundalini Yoga Practitioner | Sadhguru",
+      "description": "Sadhguru recounts his encounter with a Kundalini Yoga practitioner in Hyderabad. Miracle of Mind A free meditation app by ...",
+      "url": "https://www.youtube.com/watch?v=ZPoPaS0Szck",
+      "thumbnail": "https://i.ytimg.com/vi/ZPoPaS0Szck/hqdefault.jpg",
+      "date": "2025-12-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Time to Liberate Agriculture | Sadhguru",
       "description": "The tree is the insurance for the farmer. If there are trees on the farm, their life is insured. It is time to bring back tree-based ...",
@@ -3315,5 +3352,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2025-12-30T02:51:40.922595"
+  "last_updated": "2025-12-31T02:50:37.314096"
 }
