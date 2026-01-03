@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-03",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-03",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-02",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -916,6 +927,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A Year Soaked in Ecstasy – Sadhguru in 2025",
+      "description": "From large-scale educational and health interventions to mega ecological projects, from offering tools for inner transformation to ...",
+      "url": "https://www.youtube.com/watch?v=xRFRdafH3ns",
+      "thumbnail": "https://i.ytimg.com/vi/xRFRdafH3ns/hqdefault.jpg",
+      "date": "2026-01-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "When Life &amp; Death Become Child’s Play | Sadhguru",
+      "description": "In August 2025, while initiating the participants of the \"Yantra Ceremony with Sadhguru\" into the powerful Bhairavi Yantra Seva, ...",
+      "url": "https://www.youtube.com/watch?v=6Bxd6-T16-s",
+      "thumbnail": "https://i.ytimg.com/vi/6Bxd6-T16-s/hqdefault.jpg",
+      "date": "2026-01-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Take a Five-Minute Break Every Hour for Yourself | Sadhguru",
       "description": "Begin 2026 with Sadhguru's Wisdom Bomb. For more such insights, download and meditate with the Miracle of Mind app.",
@@ -3634,5 +3671,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-02T02:53:46.878277"
+  "last_updated": "2026-01-03T02:45:21.358184"
 }
