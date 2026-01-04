@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -927,6 +938,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sharing Makes Life Beautiful | Sadhguru",
+      "description": "Sadhguru explains why it's wise to share what we've gathered, and how it can make life beautiful. Ishanga 7% is a profound ...",
+      "url": "https://www.youtube.com/watch?v=V22u3T7KbhI",
+      "thumbnail": "https://i.ytimg.com/vi/V22u3T7KbhI/hqdefault.jpg",
+      "date": "2026-01-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Children in Hyderabad lovingly welcome Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=qV3z_41ZdeI",
+      "thumbnail": "https://i.ytimg.com/vi/qV3z_41ZdeI/hqdefault.jpg",
+      "date": "2026-01-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A Year Soaked in Ecstasy – Sadhguru in 2025",
       "description": "From large-scale educational and health interventions to mega ecological projects, from offering tools for inner transformation to ...",
@@ -3671,5 +3708,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-03T02:45:21.358184"
+  "last_updated": "2026-01-04T03:04:20.345767"
 }
