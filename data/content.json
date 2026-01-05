@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-05",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-05",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-04",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -938,6 +949,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A New Year Resolution for a Wonderful 2026 | Sadhguru",
+      "description": "Sadhguru offers a simple step that everyone can take for a wonderful 2026. Miracle of Mind A free meditation app by Sadhguru ...",
+      "url": "https://www.youtube.com/watch?v=VDn2zKLf1K0",
+      "thumbnail": "https://i.ytimg.com/vi/VDn2zKLf1K0/hqdefault.jpg",
+      "date": "2026-01-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sharing Makes Life Beautiful | Sadhguru",
       "description": "Sadhguru explains why it's wise to share what we've gathered, and how it can make life beautiful. Ishanga 7% is a profound ...",
@@ -3708,5 +3732,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-04T03:04:20.345767"
+  "last_updated": "2026-01-05T03:06:08.022842"
 }
