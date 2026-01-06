@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-06",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-06",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-05",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -949,6 +960,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Classical Hatha Yoga – A Profound Exploration | Sadhguru",
+      "description": "Sadhguru explains how Classical Hatha Yoga empowers one to transcend the physical, making birth and death minor aspects of ...",
+      "url": "https://www.youtube.com/watch?v=EVR1yUVrcUA",
+      "thumbnail": "https://i.ytimg.com/vi/EVR1yUVrcUA/hqdefault.jpg",
+      "date": "2026-01-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Become An Absolute “Yes&quot; to Life | Sadhguru",
+      "description": "If you want to raise your life to its fullest potential, you must make your life energies absolutely intense. This intensity is only ...",
+      "url": "https://www.youtube.com/watch?v=bZJuRExZB6s",
+      "thumbnail": "https://i.ytimg.com/vi/bZJuRExZB6s/hqdefault.jpg",
+      "date": "2026-01-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A New Year Resolution for a Wonderful 2026 | Sadhguru",
       "description": "Sadhguru offers a simple step that everyone can take for a wonderful 2026. Miracle of Mind A free meditation app by Sadhguru ...",
@@ -3732,5 +3769,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-05T03:06:08.022842"
+  "last_updated": "2026-01-06T02:52:47.529709"
 }
