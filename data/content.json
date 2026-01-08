@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-08",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-08",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-07",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -971,6 +982,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru&#39;s Experiment with Death | Sadhguru",
+      "description": "Sadhguru recounts his extreme experiment with death – consuming 98 barbiturates to experience death firsthand. This video ...",
+      "url": "https://www.youtube.com/watch?v=j34fuJV4olE",
+      "thumbnail": "https://i.ytimg.com/vi/j34fuJV4olE/hqdefault.jpg",
+      "date": "2026-01-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "This Moment Is an Instant and an Eternity at Once | Sadhguru",
       "description": "",
@@ -3819,5 +3843,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-07T02:53:01.472929"
+  "last_updated": "2026-01-08T02:52:55.348654"
 }
