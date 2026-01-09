@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-09",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-09",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-08",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -982,6 +993,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "100,000+ Seekers Worldwide Soaked in Ecstasy | Sadhguru",
+      "description": "Over the last year, more than 100000 seekers worldwide have immersed themselves in meditative bliss and the transformative ...",
+      "url": "https://www.youtube.com/watch?v=aiWwM1UOsbg",
+      "thumbnail": "https://i.ytimg.com/vi/aiWwM1UOsbg/hqdefault.jpg",
+      "date": "2026-01-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Ecstasy Beyond Definitions | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=9Q8jTGIli_s",
+      "thumbnail": "https://i.ytimg.com/vi/9Q8jTGIli_s/hqdefault.jpg",
+      "date": "2026-01-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru&#39;s Experiment with Death | Sadhguru",
       "description": "Sadhguru recounts his extreme experiment with death – consuming 98 barbiturates to experience death firsthand. This video ...",
@@ -3843,5 +3880,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-08T02:52:55.348654"
+  "last_updated": "2026-01-09T02:53:35.529007"
 }
