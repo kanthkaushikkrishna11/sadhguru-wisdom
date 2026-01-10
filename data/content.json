@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -993,6 +1004,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The source of existence is packed into us. When a being truly yearns, existence responds. | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=yj_pybm6pA0",
+      "thumbnail": "https://i.ytimg.com/vi/yj_pybm6pA0/hqdefault.jpg",
+      "date": "2026-01-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Experiencing the Twilight Zone | Sadhguru",
+      "description": "Sadhguru offers a Yogic perspective on breath, and speaks of the Koorma Nadi, a gateway to a dimension beyond the physical, ...",
+      "url": "https://www.youtube.com/watch?v=mMn02b_PKvs",
+      "thumbnail": "https://i.ytimg.com/vi/mMn02b_PKvs/hqdefault.jpg",
+      "date": "2026-01-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "100,000+ Seekers Worldwide Soaked in Ecstasy | Sadhguru",
       "description": "Over the last year, more than 100000 seekers worldwide have immersed themselves in meditative bliss and the transformative ...",
@@ -3880,5 +3917,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-09T02:53:35.529007"
+  "last_updated": "2026-01-10T02:47:22.750687"
 }
