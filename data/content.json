@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-11",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-11",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-10",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1004,6 +1015,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Bharat’s First Generation Entrepreneurs Meet Sadhguru",
+      "description": "In a session with participants of the “Gen A Entrepreneurship Bootcamp” program at Sadhguru Sannidhi Bengaluru, Sadhguru ...",
+      "url": "https://www.youtube.com/watch?v=bvmaLMQmMTM",
+      "thumbnail": "https://i.ytimg.com/vi/bvmaLMQmMTM/hqdefault.jpg",
+      "date": "2026-01-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Are You Addicted to Suffering? | Sadhguru",
+      "description": "Never romanticize suffering. The moment you do, you are not interested in human wellbeing. You just like drama.",
+      "url": "https://www.youtube.com/watch?v=qI7084upByk",
+      "thumbnail": "https://i.ytimg.com/vi/qI7084upByk/hqdefault.jpg",
+      "date": "2026-01-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "ABC of Entrepreneurship &amp; Success | Sadhguru",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=CSccook8Eas",
+      "thumbnail": "https://i.ytimg.com/vi/CSccook8Eas/hqdefault.jpg",
+      "date": "2026-01-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The source of existence is packed into us. When a being truly yearns, existence responds. | Sadhguru",
       "description": "",
@@ -3917,5 +3967,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-10T02:47:22.750687"
+  "last_updated": "2026-01-11T03:03:38.410688"
 }
