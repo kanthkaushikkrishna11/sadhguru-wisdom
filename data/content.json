@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-12",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-12",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-11",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1015,6 +1026,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Significance of The Ring Finger | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=NZP2CJNRrqw",
+      "thumbnail": "https://i.ytimg.com/vi/NZP2CJNRrqw/hqdefault.jpg",
+      "date": "2026-01-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Bharat’s First Generation Entrepreneurs Meet Sadhguru",
       "description": "In a session with participants of the “Gen A Entrepreneurship Bootcamp” program at Sadhguru Sannidhi Bengaluru, Sadhguru ...",
@@ -3967,5 +3991,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-11T03:03:38.410688"
+  "last_updated": "2026-01-12T03:01:16.212221"
 }
