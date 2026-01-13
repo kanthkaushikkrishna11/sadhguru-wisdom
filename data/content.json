@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-13",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-13",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-12",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1026,6 +1037,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Most People Think Other People Die | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=o_eB1h6YBaI",
+      "thumbnail": "https://i.ytimg.com/vi/o_eB1h6YBaI/hqdefault.jpg",
+      "date": "2026-01-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Makara Sankranti Celebrations at Sadhguru Sannidhi Bengaluru",
+      "description": "Participate in Makara Sankranti celebrations in the presence of Sadhguru and Adiyogi at Sadhguru Sannidhi Bengaluru on 14 ...",
+      "url": "https://www.youtube.com/watch?v=39L3QNzBdQI",
+      "thumbnail": "https://i.ytimg.com/vi/39L3QNzBdQI/hqdefault.jpg",
+      "date": "2026-01-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "MahaShivRatri 2026 – Live with Sadhguru | 15 Feb, 6 PM IST/12:30 PM GMT",
+      "description": "Celebrate Mahashivratri 2025 with Sadhguru on 15 February 2026, starting at 6 PM IST/12:30 PM GMT. For the first time this ...",
+      "url": "https://www.youtube.com/watch?v=K88qlHZ0ccE",
+      "thumbnail": "https://i.ytimg.com/vi/K88qlHZ0ccE/hqdefault_live.jpg",
+      "date": "2026-01-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Significance of The Ring Finger | Sadhguru",
       "description": "",
@@ -3991,5 +4041,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-12T03:01:16.212221"
+  "last_updated": "2026-01-13T02:52:02.885708"
 }
