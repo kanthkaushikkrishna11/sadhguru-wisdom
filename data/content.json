@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1037,6 +1048,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Misty Morning Golf | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=pJsiCgViSVU",
+      "thumbnail": "https://i.ytimg.com/vi/pJsiCgViSVU/hqdefault.jpg",
+      "date": "2026-01-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "How Shiva Established Kedarnath | Sadhguru",
+      "description": "Sadhguru on the surprising reason Shiva and Parvati had to leave their home in Badrinath and establish Kedarnath. He also ...",
+      "url": "https://www.youtube.com/watch?v=-5RMKVMGHf4",
+      "thumbnail": "https://i.ytimg.com/vi/-5RMKVMGHf4/hqdefault.jpg",
+      "date": "2026-01-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Celebrate Mahashivratri 2026 with Sadhguru – Save the Date | 15 Feb",
+      "description": "Celebrate Mahashivratri in the presence of Sadhguru and Adiyogi. Save the date now: 15 February 2026. This year, for the very ...",
+      "url": "https://www.youtube.com/watch?v=dGoy8SXZ4Ec",
+      "thumbnail": "https://i.ytimg.com/vi/dGoy8SXZ4Ec/hqdefault.jpg",
+      "date": "2026-01-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Most People Think Other People Die | Sadhguru",
       "description": "",
@@ -4041,5 +4091,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-13T02:52:02.885708"
+  "last_updated": "2026-01-14T02:59:39.119643"
 }
