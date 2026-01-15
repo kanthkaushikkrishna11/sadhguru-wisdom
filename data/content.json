@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1048,6 +1059,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How Shiva Established Kedarnath | Sadhguru",
+      "description": "Sadhguru on the surprising reason Shiva and Parvati had to leave their home in Badrinath and establish Kedarnath. Miracle of ...",
+      "url": "https://www.youtube.com/watch?v=EX1TtppE83E",
+      "thumbnail": "https://i.ytimg.com/vi/EX1TtppE83E/hqdefault.jpg",
+      "date": "2026-01-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "It&#39;s Raining Avarekai in Karnataka! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Usb7-m4QPOI",
+      "thumbnail": "https://i.ytimg.com/vi/Usb7-m4QPOI/hqdefault.jpg",
+      "date": "2026-01-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Misty Morning Golf | Sadhguru",
       "description": "",
@@ -4091,5 +4128,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-14T02:59:39.119643"
+  "last_updated": "2026-01-15T02:53:53.460550"
 }
