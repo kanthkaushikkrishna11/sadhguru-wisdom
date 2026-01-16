@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1059,6 +1070,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Offers Yogeshwara Linga Aradhane",
+      "description": "On the auspicious day of Makara Sankranti, Sadhguru offered Yogeshwara Linga Aradhane at Sadhguru Sannidhi Bengaluru.",
+      "url": "https://www.youtube.com/watch?v=JxUNvJyrzYo",
+      "thumbnail": "https://i.ytimg.com/vi/JxUNvJyrzYo/hqdefault.jpg",
+      "date": "2026-01-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Linga Bhairavi Consecration at Sadhguru Sannidhi – Save the Date",
+      "description": "From 28 September to 2 October, Sadhguru will consecrate Linga Bhairavi, Navagraha Shrines, Suryakund and Chandrakund at ...",
+      "url": "https://www.youtube.com/watch?v=HhD3lrj5rl8",
+      "thumbnail": "https://i.ytimg.com/vi/HhD3lrj5rl8/hqdefault.jpg",
+      "date": "2026-01-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "How Shiva Established Kedarnath | Sadhguru",
       "description": "Sadhguru on the surprising reason Shiva and Parvati had to leave their home in Badrinath and establish Kedarnath. Miracle of ...",
@@ -4128,5 +4165,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-15T02:53:53.460550"
+  "last_updated": "2026-01-16T02:54:40.568753"
 }
