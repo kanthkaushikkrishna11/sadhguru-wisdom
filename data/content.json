@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-17",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-17",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-16",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1070,6 +1081,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Guru Pooja – New Series on Sadhguru Exclusive",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=2FohKHvORKU",
+      "thumbnail": "https://i.ytimg.com/vi/2FohKHvORKU/hqdefault.jpg",
+      "date": "2026-01-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Significance of Makara Sankranti | Sadhguru",
+      "description": "A glimpse into the much-awaited Makara Sankranti celebrations at Sadhguru Sannidhi Bengaluru in Sadhguru's presence, ...",
+      "url": "https://www.youtube.com/watch?v=1FYFZPr5MRY",
+      "thumbnail": "https://i.ytimg.com/vi/1FYFZPr5MRY/hqdefault.jpg",
+      "date": "2026-01-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Offers Yogeshwara Linga Aradhane",
       "description": "On the auspicious day of Makara Sankranti, Sadhguru offered Yogeshwara Linga Aradhane at Sadhguru Sannidhi Bengaluru.",
@@ -4165,5 +4202,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-16T02:54:40.568753"
+  "last_updated": "2026-01-17T02:45:54.181360"
 }
