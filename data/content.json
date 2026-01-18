@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-18",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-18",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-17",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1081,6 +1092,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru’s encounters with beings of the beyond who visit him unasked.",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_X6ccB3dchY",
+      "thumbnail": "https://i.ytimg.com/vi/_X6ccB3dchY/hqdefault.jpg",
+      "date": "2026-01-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru lands an Eagle on the Golf Course",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=eSG62RjvS6Q",
+      "thumbnail": "https://i.ytimg.com/vi/eSG62RjvS6Q/hqdefault.jpg",
+      "date": "2026-01-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Guru Pooja – New Series on Sadhguru Exclusive",
       "description": "",
@@ -4202,5 +4239,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-17T02:45:54.181360"
+  "last_updated": "2026-01-18T03:01:41.220450"
 }
