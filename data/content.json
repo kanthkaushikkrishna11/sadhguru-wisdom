@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-19",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-19",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-18",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1092,6 +1103,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Becoming Truly Successful | Sadhguru",
+      "description": "Prepare for Mahashivratri with the \"In the Grace of Yoga\" program, designed to help you make use of the natural upsurge of ...",
+      "url": "https://www.youtube.com/watch?v=cbCERlQHWIg",
+      "thumbnail": "https://i.ytimg.com/vi/cbCERlQHWIg/hqdefault.jpg",
+      "date": "2026-01-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Ride Through Life With Ease | Sadhguru",
+      "description": "Blending Bollywood with wisdom, Sadhguru explains how we can go through life with ease.",
+      "url": "https://www.youtube.com/watch?v=33B09ntasBc",
+      "thumbnail": "https://i.ytimg.com/vi/33B09ntasBc/hqdefault.jpg",
+      "date": "2026-01-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru’s encounters with beings of the beyond who visit him unasked.",
       "description": "",
@@ -4239,5 +4276,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-18T03:01:41.220450"
+  "last_updated": "2026-01-19T03:01:46.623444"
 }
