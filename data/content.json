@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1103,6 +1114,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Across | Sadhguru",
+      "description": "This boat of many holes, the reckless sailor that I am have set upon oceans vast Plugging the holes with people's lives, “I've ...",
+      "url": "https://www.youtube.com/watch?v=2h0-do-rapc",
+      "thumbnail": "https://i.ytimg.com/vi/2h0-do-rapc/hqdefault.jpg",
+      "date": "2026-01-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Fulcrum of Your Love, of Your Joy and of Your Peacefulness Must Be Within You | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ZEkGcXlPk8Y",
+      "thumbnail": "https://i.ytimg.com/vi/ZEkGcXlPk8Y/hqdefault.jpg",
+      "date": "2026-01-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Becoming Truly Successful | Sadhguru",
       "description": "Prepare for Mahashivratri with the \"In the Grace of Yoga\" program, designed to help you make use of the natural upsurge of ...",
@@ -4276,5 +4313,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-19T03:01:46.623444"
+  "last_updated": "2026-01-20T02:56:15.039627"
 }
