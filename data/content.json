@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1114,6 +1125,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Did Shiva Smoke Weed? | Sadhguru",
+      "description": "Sadhguru answers the oft-asked question: Did Shiva smoke weed? Celebrate Mahashivratri with Sadhguru on 15 February 2026, ...",
+      "url": "https://www.youtube.com/watch?v=k-nWgg_wQEo",
+      "thumbnail": "https://i.ytimg.com/vi/k-nWgg_wQEo/hqdefault.jpg",
+      "date": "2026-01-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Biggest Devotee of Kali? | Sadhguru",
+      "description": "Sadhguru narrates the story of Kalidasa, a devotee of Goddess Kali for many lifetimes, and his unexpected encounter with Kali ...",
+      "url": "https://www.youtube.com/watch?v=umclsnDmxyI",
+      "thumbnail": "https://i.ytimg.com/vi/umclsnDmxyI/hqdefault.jpg",
+      "date": "2026-01-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Greatest Devotee of Kali? | Sadhguru",
+      "description": "The story of Kalidasa, a devotee of Goddess Kali for many lifetimes, and his unexpected encounter with Kali that irreversibly ...",
+      "url": "https://www.youtube.com/watch?v=4sbDrAXMt2w",
+      "thumbnail": "https://i.ytimg.com/vi/4sbDrAXMt2w/hqdefault.jpg",
+      "date": "2026-01-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Across | Sadhguru",
       "description": "This boat of many holes, the reckless sailor that I am have set upon oceans vast Plugging the holes with people's lives, “I've ...",
@@ -4313,5 +4363,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-20T02:56:15.039627"
+  "last_updated": "2026-01-21T02:55:08.133436"
 }
