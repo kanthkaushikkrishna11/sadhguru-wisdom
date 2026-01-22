@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1125,6 +1136,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How to Overcome Food Allergies | Sadhguru",
+      "description": "Sadhguru: The fundamental mistake is that food today is made in a factory. Food should come out of the earth, because this body ...",
+      "url": "https://www.youtube.com/watch?v=RIQo72suGz0",
+      "thumbnail": "https://i.ytimg.com/vi/RIQo72suGz0/hqdefault.jpg",
+      "date": "2026-01-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Celebrate Mahashivratri with Sadhguru | 6 PM IST, 15 Feb 2026",
+      "description": "Celebrate Mahashivratri with Sadhguru in the Presence of Adiyogi. Experience guided meditations with Sadhguru, the ...",
+      "url": "https://www.youtube.com/watch?v=lmF2MFWEPRc",
+      "thumbnail": "https://i.ytimg.com/vi/lmF2MFWEPRc/hqdefault.jpg",
+      "date": "2026-01-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Celebrate Mahashivratri with Sadhguru | 6 PM IST, 15 Feb 2026",
+      "description": "Celebrate Mahashivratri with Sadhguru in the Presence of Adiyogi. Experience guided meditations with Sadhguru, the ...",
+      "url": "https://www.youtube.com/watch?v=JNobpj45Rps",
+      "thumbnail": "https://i.ytimg.com/vi/JNobpj45Rps/hqdefault.jpg",
+      "date": "2026-01-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Did Shiva Smoke Weed? | Sadhguru",
       "description": "Sadhguru answers the oft-asked question: Did Shiva smoke weed? Celebrate Mahashivratri with Sadhguru on 15 February 2026, ...",
@@ -4363,5 +4413,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-21T02:55:08.133436"
+  "last_updated": "2026-01-22T03:00:25.608255"
 }
