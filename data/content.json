@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-23",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-23",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-22",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1136,6 +1147,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Was Osho Brainwashing People? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=rZi_JFcltMI",
+      "thumbnail": "https://i.ytimg.com/vi/rZi_JFcltMI/hqdefault.jpg",
+      "date": "2026-01-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Invites You to Mahashivratri 2026 | 15 Feb, 6 PM",
+      "description": "Celebrate Mahashivratri with Sadhguru in the Presence of Adiyogi. Experience guided meditations with Sadhguru, the ...",
+      "url": "https://www.youtube.com/watch?v=U43X6Z9tTK0",
+      "thumbnail": "https://i.ytimg.com/vi/U43X6Z9tTK0/hqdefault.jpg",
+      "date": "2026-01-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Greatest Thing In Life | Sadhguru",
+      "description": "In the Grace of Yoga” is offered as a 5‑day online program leading up to Mahashivratri, helping one become more receptive to the ...",
+      "url": "https://www.youtube.com/watch?v=r3WQT09HZ4w",
+      "thumbnail": "https://i.ytimg.com/vi/r3WQT09HZ4w/hqdefault.jpg",
+      "date": "2026-01-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "How to Overcome Food Allergies | Sadhguru",
       "description": "Sadhguru: The fundamental mistake is that food today is made in a factory. Food should come out of the earth, because this body ...",
@@ -4413,5 +4463,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-22T03:00:25.608255"
+  "last_updated": "2026-01-23T02:55:41.323136"
 }
