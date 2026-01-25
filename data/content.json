@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1158,6 +1169,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Kedarnath – The Sound of Shiva | Sadhguru",
+      "description": "Sadhguru speaks about Kedarnath as the place closest to the reverberation of the sound \"Shiva,\" and of Kantisarovar as the lake ...",
+      "url": "https://www.youtube.com/watch?v=NgEsdiLg_lE",
+      "thumbnail": "https://i.ytimg.com/vi/NgEsdiLg_lE/hqdefault.jpg",
+      "date": "2026-01-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "His Devotion Made Shiva Appear | Sadhguru",
+      "description": "The story of Kannappa Nayanar, who, in his childlike devotion, offered his own eyes to Shiva. Celebrate Mahashivratri with ...",
+      "url": "https://www.youtube.com/watch?v=3RtWLimvri4",
+      "thumbnail": "https://i.ytimg.com/vi/3RtWLimvri4/hqdefault.jpg",
+      "date": "2026-01-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "What Shiva As Somnath Can Do For You | Sadhguru",
+      "description": "During a visit to the Somnath Temple on Makara Sankranti 2019, Sadhguru spoke to members of the Somnath Temple trust about ...",
+      "url": "https://www.youtube.com/watch?v=nJQwsTW0vnM",
+      "thumbnail": "https://i.ytimg.com/vi/nJQwsTW0vnM/hqdefault.jpg",
+      "date": "2026-01-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "An Experience of Explosive Stillness. Samyama at Isha Yoga Center | Sadhguru",
       "description": "",
@@ -4513,5 +4563,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-24T02:50:16.386741"
+  "last_updated": "2026-01-25T03:06:45.043653"
 }
