@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1169,6 +1180,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Are You Toxic Without Knowing It? | Sadhguru",
+      "description": "Every night before you sleep, write one page on your experience today – not in terms of activity but whether you were a little more ...",
+      "url": "https://www.youtube.com/watch?v=_enS94kE8r8",
+      "thumbnail": "https://i.ytimg.com/vi/_enS94kE8r8/hqdefault.jpg",
+      "date": "2026-01-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "If You Are Present, I Am Always Present",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=hvZ2fTRZmEQ",
+      "thumbnail": "https://i.ytimg.com/vi/hvZ2fTRZmEQ/hqdefault.jpg",
+      "date": "2026-01-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Little Girl’s Heartwarming Moment with Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=9lYWvcyzIzg",
+      "thumbnail": "https://i.ytimg.com/vi/9lYWvcyzIzg/hqdefault.jpg",
+      "date": "2026-01-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Kedarnath – The Sound of Shiva | Sadhguru",
       "description": "Sadhguru speaks about Kedarnath as the place closest to the reverberation of the sound \"Shiva,\" and of Kantisarovar as the lake ...",
@@ -4563,5 +4613,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-25T03:06:45.043653"
+  "last_updated": "2026-01-26T03:08:17.667903"
 }
