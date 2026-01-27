@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1180,6 +1191,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "It&#39;s Time to Transform Bharat | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=8ArRoxXfrSE",
+      "thumbnail": "https://i.ytimg.com/vi/8ArRoxXfrSE/hqdefault.jpg",
+      "date": "2026-01-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Isha Yoga Center Celebrates India&#39;s 77th Republic Day | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=smn2yBRKOuY",
+      "thumbnail": "https://i.ytimg.com/vi/smn2yBRKOuY/hqdefault.jpg",
+      "date": "2026-01-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Are You Toxic Without Knowing It? | Sadhguru",
       "description": "Every night before you sleep, write one page on your experience today – not in terms of activity but whether you were a little more ...",
@@ -4613,5 +4650,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-26T03:08:17.667903"
+  "last_updated": "2026-01-27T03:00:54.929509"
 }
