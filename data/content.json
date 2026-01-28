@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-28",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-28",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-27",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1191,6 +1202,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru’s Message on 77th Republic Day",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=tOURkLzImqw",
+      "thumbnail": "https://i.ytimg.com/vi/tOURkLzImqw/hqdefault.jpg",
+      "date": "2026-01-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Preparing the Abode of Kalabhairava | Sadhguru",
+      "description": "Sadhguru interacts with volunteers as they prepare the sacred abode of Kalabhairava at Isha Yoga Center for a powerful ...",
+      "url": "https://www.youtube.com/watch?v=e9iW2_7X-qs",
+      "thumbnail": "https://i.ytimg.com/vi/e9iW2_7X-qs/hqdefault.jpg",
+      "date": "2026-01-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Tribute to the First Yogi | Sadhguru",
+      "description": "The Hon'ble Prime Minister of India, Shri Narendra Modi, unveiled the 112-ft iconic face of Adiyogi at Isha Yoga Center ...",
+      "url": "https://www.youtube.com/watch?v=pSpUCWoMEW4",
+      "thumbnail": "https://i.ytimg.com/vi/pSpUCWoMEW4/hqdefault.jpg",
+      "date": "2026-01-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "It&#39;s Time to Transform Bharat | Sadhguru",
       "description": "",
@@ -4650,5 +4700,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-27T03:00:54.929509"
+  "last_updated": "2026-01-28T02:58:13.495173"
 }
