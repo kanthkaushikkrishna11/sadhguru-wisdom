@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-29",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-29",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-28",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1202,6 +1213,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A Linga for Health &amp; Success | Sadhguru",
+      "description": "Sadhguru speaks about the nature of Yogeshwara Linga, what makes it perpetual and how it brings health, wellbeing and ...",
+      "url": "https://www.youtube.com/watch?v=IJt7JvC-Bqc",
+      "thumbnail": "https://i.ytimg.com/vi/IJt7JvC-Bqc/hqdefault.jpg",
+      "date": "2026-01-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Biggest Celebration of the Year – Mahashivratri 2026 | 15 Feb, 6 PM IST, 12:30 PM GMT | Sadhguru",
+      "description": "Celebrate Mahashivratri with Sadhguru in the Presence of Adiyogi. Experience guided meditations with Sadhguru, the ...",
+      "url": "https://www.youtube.com/watch?v=8ZulLCP-6K0",
+      "thumbnail": "https://i.ytimg.com/vi/8ZulLCP-6K0/hqdefault.jpg",
+      "date": "2026-01-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Biggest Celebration of the Year – Mahashivratri 2026 | 15 Feb, 6 PM IST, 12:30 PM GMT | Sadhguru",
+      "description": "Celebrate Mahashivratri with Sadhguru in the Presence of Adiyogi. Experience guided meditations with Sadhguru, the ...",
+      "url": "https://www.youtube.com/watch?v=YVz8O1CxwF0",
+      "thumbnail": "https://i.ytimg.com/vi/YVz8O1CxwF0/hqdefault.jpg",
+      "date": "2026-01-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Some afternoons at Isha Yoga Center | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=oSX6m-7r-78",
+      "thumbnail": "https://i.ytimg.com/vi/oSX6m-7r-78/hqdefault.jpg",
+      "date": "2026-01-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru’s Message on 77th Republic Day",
       "description": "",
@@ -4700,5 +4763,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-28T02:58:13.495173"
+  "last_updated": "2026-01-29T03:22:07.578004"
 }
