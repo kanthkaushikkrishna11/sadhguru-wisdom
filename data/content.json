@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-30",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-30",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-29",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1213,6 +1224,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Isha Home School Students Run into Sadhguru on Their Farewell Day!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=mf9w8So2d_U",
+      "thumbnail": "https://i.ytimg.com/vi/mf9w8So2d_U/hqdefault.jpg",
+      "date": "2026-01-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "31 Years of Mahashivratri at Isha – Then &amp; Now | Sadhguru",
+      "description": "What has changed about Isha Mahashivratri in the last 31 years? The scale and reach of the celebrations have increased ...",
+      "url": "https://www.youtube.com/watch?v=9a6ag1J7UG8",
+      "thumbnail": "https://i.ytimg.com/vi/9a6ag1J7UG8/hqdefault.jpg",
+      "date": "2026-01-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Is It Time to End Reservations in India? | Sadhguru",
+      "description": "Sadhguru answers a question about the need for caste-based reservations in India, exploring how caste discrimination worsened ...",
+      "url": "https://www.youtube.com/watch?v=0cK1DgHzOCw",
+      "thumbnail": "https://i.ytimg.com/vi/0cK1DgHzOCw/hqdefault.jpg",
+      "date": "2026-01-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Invites You to Mahashivratri 2026 | 15 Feb, 6 PM",
+      "description": "Celebrate Mahashivratri with Sadhguru in the Presence of Adiyogi. Experience guided meditations with Sadhguru, the ...",
+      "url": "https://www.youtube.com/watch?v=BDkSud1d9EA",
+      "thumbnail": "https://i.ytimg.com/vi/BDkSud1d9EA/hqdefault.jpg",
+      "date": "2026-01-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A Linga for Health &amp; Success | Sadhguru",
       "description": "Sadhguru speaks about the nature of Yogeshwara Linga, what makes it perpetual and how it brings health, wellbeing and ...",
@@ -4763,5 +4826,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-29T03:22:07.578004"
+  "last_updated": "2026-01-30T03:22:49.635977"
 }
