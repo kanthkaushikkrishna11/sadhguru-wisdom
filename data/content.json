@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-01-31",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-01-31",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-30",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1224,6 +1235,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Can Yoga Make You Available to Grace? | Sadhguru",
+      "description": "The \"In the Grace of Yoga Online\" program offers a unique opportunity to prepare for Mahashivratri, the most potent night of the ...",
+      "url": "https://www.youtube.com/watch?v=BHqqVGNJ6bo",
+      "thumbnail": "https://i.ytimg.com/vi/BHqqVGNJ6bo/hqdefault.jpg",
+      "date": "2026-01-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Mahasamadhi – The Glorious Exit | Sadhguru",
+      "description": "On 23 January 1997, Vijji Maa attained Mahasamadhi. Watch the full documentary on YouTube, with detailed accounts from those ...",
+      "url": "https://www.youtube.com/watch?v=aK0remaCDWE",
+      "thumbnail": "https://i.ytimg.com/vi/aK0remaCDWE/hqdefault.jpg",
+      "date": "2026-01-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A 15,000-Year-Old Legend | Sadhguru",
+      "description": "Over 15000 years ago, predating all religion, Adiyogi transmitted the profound science of Yoga to his seven disciples, the ...",
+      "url": "https://www.youtube.com/watch?v=c1fEkjdd-qc",
+      "thumbnail": "https://i.ytimg.com/vi/c1fEkjdd-qc/hqdefault.jpg",
+      "date": "2026-01-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Every Day Can Be A New Adventure | Sadhguru",
+      "description": "If you maintain Exuberance of energy, freshness of mind, and a loving heart, every day is a new adventure. #SadhguruQuotes.",
+      "url": "https://www.youtube.com/watch?v=MsrHEEvkQEY",
+      "thumbnail": "https://i.ytimg.com/vi/MsrHEEvkQEY/hqdefault.jpg",
+      "date": "2026-01-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Isha Home School Students Run into Sadhguru on Their Farewell Day!",
       "description": "",
@@ -4826,5 +4889,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-30T03:22:49.635977"
+  "last_updated": "2026-01-31T03:13:52.427229"
 }
