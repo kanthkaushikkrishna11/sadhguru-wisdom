@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-01",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-01",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-01-31",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1235,6 +1246,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A Movement of Conscious Leadership | 2025 | Sadhguru",
+      "description": "A glimpse of Sadhguru's efforts in 2025 to craft conscious leadership across the world, and in turn, a Conscious Planet.",
+      "url": "https://www.youtube.com/watch?v=HFl2_P7t9XY",
+      "thumbnail": "https://i.ytimg.com/vi/HFl2_P7t9XY/hqdefault.jpg",
+      "date": "2026-01-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Seed of Mahasamadhi | Sadhguru",
+      "description": "Having met Swami Nirmalananda before his Mahasamadhi, Vijji Maa set forth a plan for her own exit.",
+      "url": "https://www.youtube.com/watch?v=Kw0tT68GLNA",
+      "thumbnail": "https://i.ytimg.com/vi/Kw0tT68GLNA/hqdefault.jpg",
+      "date": "2026-01-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Can Yoga Make You Available to Grace? | Sadhguru",
       "description": "The \"In the Grace of Yoga Online\" program offers a unique opportunity to prepare for Mahashivratri, the most potent night of the ...",
@@ -4889,5 +4926,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-01-31T03:13:52.427229"
+  "last_updated": "2026-02-01T03:43:59.470649"
 }
