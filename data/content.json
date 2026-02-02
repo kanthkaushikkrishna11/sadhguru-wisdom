@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-02",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-02",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-01",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1246,6 +1257,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Vijji – A Poem by Sadhguru",
+      "description": "A poignant poem, penned by Sadhguru, after is wife Vijji's mahasamadhi. Watch the full documentary, Vijji: Victory's Daughter, ...",
+      "url": "https://www.youtube.com/watch?v=cOCRiaBtSyQ",
+      "thumbnail": "https://i.ytimg.com/vi/cOCRiaBtSyQ/hqdefault.jpg",
+      "date": "2026-02-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru at Vijji Maa’s Samadhi. 29 years ago, on Thaipusam day, Vijji Maa attained Mahasamadhi.",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Unj_8RbqlQE",
+      "thumbnail": "https://i.ytimg.com/vi/Unj_8RbqlQE/hqdefault.jpg",
+      "date": "2026-02-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Vijji: Victory&#39;s Daughter | Complete Film on Sadhguru&#39;s Wife &amp; Her Mahasamadhi",
+      "description": "This documentary traces the tender and transformative journey of Vijji Maa and Sadhguru — from their first meeting and early ...",
+      "url": "https://www.youtube.com/watch?v=ZcCYuxtGUpg",
+      "thumbnail": "https://i.ytimg.com/vi/ZcCYuxtGUpg/hqdefault.jpg",
+      "date": "2026-02-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A Movement of Conscious Leadership | 2025 | Sadhguru",
       "description": "A glimpse of Sadhguru's efforts in 2025 to craft conscious leadership across the world, and in turn, a Conscious Planet.",
@@ -4926,5 +4976,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-01T03:43:59.470649"
+  "last_updated": "2026-02-02T03:35:19.154256"
 }
