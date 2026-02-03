@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-03",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-03",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-02",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1257,6 +1268,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Are Serpents Dear to Shiva? | Sadhguru",
+      "description": "Responding to a question from Bibek Debroy, Sadhguru explains why Shiva has a cobra around his neck and the significance of ...",
+      "url": "https://www.youtube.com/watch?v=yu0WxGh71P4",
+      "thumbnail": "https://i.ytimg.com/vi/yu0WxGh71P4/hqdefault.jpg",
+      "date": "2026-02-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Vijji – A Poem by Sadhguru",
       "description": "A poignant poem, penned by Sadhguru, after is wife Vijji's mahasamadhi. Watch the full documentary, Vijji: Victory's Daughter, ...",
@@ -4976,5 +5000,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-02T03:35:19.154256"
+  "last_updated": "2026-02-03T03:29:25.576769"
 }
