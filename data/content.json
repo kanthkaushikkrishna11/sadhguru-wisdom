@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1268,6 +1279,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Parenting Tip To Reduce Your Child&#39;s Screen Time | Sadhguru",
+      "description": "Children grow by observation and involvement, not by teachings and philosophies. Become a living example of the person you ...",
+      "url": "https://www.youtube.com/watch?v=0tA4vFseT1s",
+      "thumbnail": "https://i.ytimg.com/vi/0tA4vFseT1s/hqdefault.jpg",
+      "date": "2026-02-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Shiva Wore the Moon | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=JGnurfwsHCU",
+      "thumbnail": "https://i.ytimg.com/vi/JGnurfwsHCU/hqdefault.jpg",
+      "date": "2026-02-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Ramathamma, A Devotee at Isha Yoga Center, Greets Sadhguru",
+      "description": "Sadhguru is greeted by Ramathamma, an out-and-out devotee who has been an integral part of the Isha journey for the last 26 ...",
+      "url": "https://www.youtube.com/watch?v=fAVXhLWkpNY",
+      "thumbnail": "https://i.ytimg.com/vi/fAVXhLWkpNY/hqdefault.jpg",
+      "date": "2026-02-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Are Serpents Dear to Shiva? | Sadhguru",
       "description": "Responding to a question from Bibek Debroy, Sadhguru explains why Shiva has a cobra around his neck and the significance of ...",
@@ -5000,5 +5050,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-03T03:29:25.576769"
+  "last_updated": "2026-02-04T03:26:56.813395"
 }
