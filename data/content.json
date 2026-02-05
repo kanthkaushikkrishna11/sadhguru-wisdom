@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-05",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-05",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-04",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1279,6 +1290,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Yogeshwara Linga Maha Abhishekam By Sadhguru",
+      "description": "For the first time this Mahashivratri, Sadhguru will perform a Yogeshwara Linga Maha Abhishekam — in your name. Taking place ...",
+      "url": "https://www.youtube.com/watch?v=KMZ6V-NArMs",
+      "thumbnail": "https://i.ytimg.com/vi/KMZ6V-NArMs/hqdefault.jpg",
+      "date": "2026-02-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Participates in Shayan Aarti at Kashi #Throwback",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_Q2X0K-zslU",
+      "thumbnail": "https://i.ytimg.com/vi/_Q2X0K-zslU/hqdefault.jpg",
+      "date": "2026-02-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Business Lessons from Top Entrepreneurs &amp; Sadhguru",
+      "description": "In a panel discussion hosted by Sadhguru Center for a Conscious Planet and moderated by Ranjay Gulati (Professor, Harvard ...",
+      "url": "https://www.youtube.com/watch?v=Afh67gpEHbA",
+      "thumbnail": "https://i.ytimg.com/vi/Afh67gpEHbA/hqdefault.jpg",
+      "date": "2026-02-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Parenting Tip To Reduce Your Child&#39;s Screen Time | Sadhguru",
       "description": "Children grow by observation and involvement, not by teachings and philosophies. Become a living example of the person you ...",
@@ -5050,5 +5100,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-04T03:26:56.813395"
+  "last_updated": "2026-02-05T03:27:42.147550"
 }
