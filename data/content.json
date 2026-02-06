@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-06",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-06",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-05",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1290,6 +1301,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The 3 Qualities of Adiyogi | Sadhguru",
+      "description": "The three fundamental qualities of Adiyogi and how we can manifest them in our lives. Celebrate Mahashivratri in the grace of ...",
+      "url": "https://www.youtube.com/watch?v=QGutw44aHU0",
+      "thumbnail": "https://i.ytimg.com/vi/QGutw44aHU0/hqdefault.jpg",
+      "date": "2026-02-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Process for Ultimate Wellbeing | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=rIgcgqYDNB4",
+      "thumbnail": "https://i.ytimg.com/vi/rIgcgqYDNB4/hqdefault.jpg",
+      "date": "2026-02-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Yogeshwara Linga Maha Abhishekam By Sadhguru",
       "description": "For the first time this Mahashivratri, Sadhguru will perform a Yogeshwara Linga Maha Abhishekam — in your name. Taking place ...",
@@ -5100,5 +5137,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-05T03:27:42.147550"
+  "last_updated": "2026-02-06T03:27:01.351502"
 }
