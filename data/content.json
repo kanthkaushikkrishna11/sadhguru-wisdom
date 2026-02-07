@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-07",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-07",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-06",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1301,6 +1312,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A Night Immersed in Intensity, Stillness &amp; Devotion | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=zunnALwdifk",
+      "thumbnail": "https://i.ytimg.com/vi/zunnALwdifk/hqdefault.jpg",
+      "date": "2026-02-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Kailash Like You’ve Never Seen Before | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=-aTwdxgNfhE",
+      "thumbnail": "https://i.ytimg.com/vi/-aTwdxgNfhE/hqdefault.jpg",
+      "date": "2026-02-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A young boy in Kashi chants for Sadhguru #Throwback",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=5fEh1ml5Pps",
+      "thumbnail": "https://i.ytimg.com/vi/5fEh1ml5Pps/hqdefault.jpg",
+      "date": "2026-02-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The 3 Qualities of Adiyogi | Sadhguru",
       "description": "The three fundamental qualities of Adiyogi and how we can manifest them in our lives. Celebrate Mahashivratri in the grace of ...",
@@ -5137,5 +5187,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-06T03:27:01.351502"
+  "last_updated": "2026-02-07T03:18:56.817062"
 }
