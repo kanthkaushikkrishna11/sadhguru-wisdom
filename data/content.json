@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-08",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-08",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-07",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1312,6 +1323,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Kailash Like You’ve Never Seen Before | Sadhguru",
+      "description": "Watch Sadhguru ride on two wheels through some of the world's most treacherous terrains, high passes, winding mountain trails, ...",
+      "url": "https://www.youtube.com/watch?v=VyWL4jb7hLM",
+      "thumbnail": "https://i.ytimg.com/vi/VyWL4jb7hLM/hqdefault.jpg",
+      "date": "2026-02-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Getting Hip with Paradox #Throwback",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=dXap2wCq0kQ",
+      "thumbnail": "https://i.ytimg.com/vi/dXap2wCq0kQ/hqdefault.jpg",
+      "date": "2026-02-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Shiva Never Spilled His Sperm | Sadhguru",
+      "description": "Sadhguru shares the story of how Shiva created Veerabhadra and harnessed his energy into a potent power. Celebrate ...",
+      "url": "https://www.youtube.com/watch?v=zhGr9dFefxI",
+      "thumbnail": "https://i.ytimg.com/vi/zhGr9dFefxI/hqdefault.jpg",
+      "date": "2026-02-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A Night Immersed in Intensity, Stillness &amp; Devotion | Sadhguru",
       "description": "",
@@ -5187,5 +5237,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-07T03:18:56.817062"
+  "last_updated": "2026-02-08T03:49:56.264299"
 }
