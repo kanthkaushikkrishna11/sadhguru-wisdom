@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-09",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-09",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-08",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1323,6 +1334,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Adiyogi’s Unparalleled Contribution | Sadhguru",
+      "description": "Sadhguru on Adiyogi's unparalleled contribution to humanity, the science of Yoga, and why his work must live in the hearts and ...",
+      "url": "https://www.youtube.com/watch?v=D2RhbYggCM0",
+      "thumbnail": "https://i.ytimg.com/vi/D2RhbYggCM0/hqdefault.jpg",
+      "date": "2026-02-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Echoes of Mahashivratri at Isha Through the Years | Sadhguru",
+      "description": "Mahashivratri at Isha unfolds with devotion, intensity, and grace, a timeless reminder of the possibilities that open up on the great ...",
+      "url": "https://www.youtube.com/watch?v=LOo7xAPZCRU",
+      "thumbnail": "https://i.ytimg.com/vi/LOo7xAPZCRU/hqdefault.jpg",
+      "date": "2026-02-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Kailash Like You’ve Never Seen Before | Sadhguru",
       "description": "Watch Sadhguru ride on two wheels through some of the world's most treacherous terrains, high passes, winding mountain trails, ...",
@@ -5237,5 +5274,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-08T03:49:56.264299"
+  "last_updated": "2026-02-09T03:37:44.140511"
 }
