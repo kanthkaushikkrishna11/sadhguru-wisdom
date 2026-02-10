@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1334,6 +1345,71 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Realizing the Full Potential of Life is more important than how long you live | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=l8u5dPBT9l8",
+      "thumbnail": "https://i.ytimg.com/vi/l8u5dPBT9l8/hqdefault.jpg",
+      "date": "2026-02-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Was Parvati Puzzled By Shiva’s Actions? | Sadhguru",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=34ldrewpHxg",
+      "thumbnail": "https://i.ytimg.com/vi/34ldrewpHxg/hqdefault.jpg",
+      "date": "2026-02-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Gurukulam Samskriti is preparing for a vibrant Mahashivratri!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=J7E2QdCtZfE",
+      "thumbnail": "https://i.ytimg.com/vi/J7E2QdCtZfE/hqdefault.jpg",
+      "date": "2026-02-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Shri Amit Shah at Mahashivratri Celebrations | Sadhguru  #throwback",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=8ppGcFl92BY",
+      "thumbnail": "https://i.ytimg.com/vi/8ppGcFl92BY/hqdefault.jpg",
+      "date": "2026-02-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Initiates Devotees Into The Mahamantra On Mahashivratri: Aum Namah Shivaya   #throwback",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=jSdBGi6rKlc",
+      "thumbnail": "https://i.ytimg.com/vi/jSdBGi6rKlc/hqdefault.jpg",
+      "date": "2026-02-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Adiyogi’s Unparalleled Contribution | Sadhguru",
       "description": "Sadhguru on Adiyogi's unparalleled contribution to humanity, the science of Yoga, and why his work must live in the hearts and ...",
@@ -5274,5 +5350,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-09T03:37:44.140511"
+  "last_updated": "2026-02-10T03:46:07.016268"
 }
