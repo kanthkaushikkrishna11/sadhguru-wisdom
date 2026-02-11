@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-11",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-11",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-10",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1345,6 +1356,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Ardhanari: A Form of Shiva That Transcends Duality | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Hth2xmOc8eo",
+      "thumbnail": "https://i.ytimg.com/vi/Hth2xmOc8eo/hqdefault.jpg",
+      "date": "2026-02-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "First Mahashivratri in Adiyogi&#39;s Presence | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Ys7B-HT9WKk",
+      "thumbnail": "https://i.ytimg.com/vi/Ys7B-HT9WKk/hqdefault.jpg",
+      "date": "2026-02-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru &amp; Gurdas Maan Dance Together | Sadhguru #throwback",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=MwZCoRw7pIg",
+      "thumbnail": "https://i.ytimg.com/vi/MwZCoRw7pIg/hqdefault.jpg",
+      "date": "2026-02-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Jain Sadhvis Meet Sadhguru at Isha Yoga Center",
+      "description": "Disciples of Acharya Shri Mahashraman from the Jain Shwetambar Terapanth met with Sadhguru at Isha Yoga Center ...",
+      "url": "https://www.youtube.com/watch?v=zNPz2K26keI",
+      "thumbnail": "https://i.ytimg.com/vi/zNPz2K26keI/hqdefault.jpg",
+      "date": "2026-02-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Realizing the Full Potential of Life is more important than how long you live | Sadhguru",
       "description": "",
@@ -5350,5 +5413,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-10T03:46:07.016268"
+  "last_updated": "2026-02-11T03:42:44.224431"
 }
