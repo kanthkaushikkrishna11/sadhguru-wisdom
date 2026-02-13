@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-13",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-13",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-12",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1367,6 +1378,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Participants Receive Mahakumbh Teertham from Sadhguru #throwback",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Co07uIIJ5LY",
+      "thumbnail": "https://i.ytimg.com/vi/Co07uIIJ5LY/hqdefault.jpg",
+      "date": "2026-02-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Magic &amp; Madness of Kailash",
+      "description": "Watch Sadhguru ride on two wheels through some of the world's most treacherous terrains, high passes, winding mountain trails, ...",
+      "url": "https://www.youtube.com/watch?v=S2bBYWtd3KM",
+      "thumbnail": "https://i.ytimg.com/vi/S2bBYWtd3KM/hqdefault.jpg",
+      "date": "2026-02-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "“I am not a devotee of Shiva. He is my fifty-fifty partner. He sleeps; I work.” — Sadhguru",
+      "description": "IshaMahashivratri2026 #Mahashivratri2026.",
+      "url": "https://www.youtube.com/watch?v=z6LiCSvnefA",
+      "thumbnail": "https://i.ytimg.com/vi/z6LiCSvnefA/hqdefault.jpg",
+      "date": "2026-02-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Yogeshwara Linga Maha Abhishekam on Mahashivratri | Sadhguru",
       "description": "Sadhguru speaks about the significance of Yogeshwara Linga and the limitless possibilities it can open up for seekers. For the ...",
@@ -5463,5 +5513,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-12T03:37:15.858452"
+  "last_updated": "2026-02-13T03:36:30.188951"
 }
