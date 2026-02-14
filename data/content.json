@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1378,6 +1389,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Kailash Like You’ve Never Seen Before | Sadhguru",
+      "description": "Watch Sadhguru ride on two wheels through some of the world's most treacherous terrains, high passes, winding mountain trails, ...",
+      "url": "https://www.youtube.com/watch?v=0X4oRnpDUCQ",
+      "thumbnail": "https://i.ytimg.com/vi/0X4oRnpDUCQ/hqdefault.jpg",
+      "date": "2026-02-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Students of Sadhguru Gurukulam Samskriti meet Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=8JSgvO-aKjk",
+      "thumbnail": "https://i.ytimg.com/vi/8JSgvO-aKjk/hqdefault.jpg",
+      "date": "2026-02-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Born of Ash: The Story of Gorakhnath | Sadhguru",
+      "description": "Sadhguru narrates the lesser-known story of Gorakhnath's miraculous birth from ash and his life as an intense seeker. He also ...",
+      "url": "https://www.youtube.com/watch?v=4JzY9M00Z70",
+      "thumbnail": "https://i.ytimg.com/vi/4JzY9M00Z70/hqdefault.jpg",
+      "date": "2026-02-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Madness of Mahashivratri! | Sadhguru #throwback",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=jnYlY2qPbOE",
+      "thumbnail": "https://i.ytimg.com/vi/jnYlY2qPbOE/hqdefault.jpg",
+      "date": "2026-02-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Participants Receive Mahakumbh Teertham from Sadhguru #throwback",
       "description": "",
@@ -5513,5 +5576,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-13T03:36:30.188951"
+  "last_updated": "2026-02-14T03:23:30.143127"
 }
