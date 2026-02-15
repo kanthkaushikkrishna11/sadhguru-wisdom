@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1389,6 +1400,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Magic &amp; Madness of Kailash | Kailash Yatra with Sadhguru 2025",
+      "description": "Watch Sadhguru ride on two wheels through some of the world's most treacherous terrains, high passes, winding mountain trails, ...",
+      "url": "https://www.youtube.com/watch?v=rt6e2RdU5JY",
+      "thumbnail": "https://i.ytimg.com/vi/rt6e2RdU5JY/hqdefault.jpg",
+      "date": "2026-02-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Kailash Like You’ve Never Seen Before | Sadhguru",
+      "description": "Watch Sadhguru ride on two wheels through some of the world's most treacherous terrains, high passes, winding mountain trails, ...",
+      "url": "https://www.youtube.com/watch?v=ii5Raxw-mok",
+      "thumbnail": "https://i.ytimg.com/vi/ii5Raxw-mok/hqdefault.jpg",
+      "date": "2026-02-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Pancha Bhuta Kriya with Sadhguru",
+      "description": "In preparation to receive the grace of Adiyogi on the sacred night of Mahashivratri, participants of “In the Grace of Yoga” ...",
+      "url": "https://www.youtube.com/watch?v=deIErkDMJ4M",
+      "thumbnail": "https://i.ytimg.com/vi/deIErkDMJ4M/hqdefault.jpg",
+      "date": "2026-02-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Ask Sadhguru This Mahashivratri",
+      "description": "Did you know that Shiva devotees from around the world have asked their deepest questions to Sadhguru on Mahashivratri night?",
+      "url": "https://www.youtube.com/watch?v=CrHtV2Bs5BQ",
+      "thumbnail": "https://i.ytimg.com/vi/CrHtV2Bs5BQ/hqdefault.jpg",
+      "date": "2026-02-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Kailash Like You’ve Never Seen Before | Sadhguru",
       "description": "Watch Sadhguru ride on two wheels through some of the world's most treacherous terrains, high passes, winding mountain trails, ...",
@@ -5576,5 +5639,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-14T03:23:30.143127"
+  "last_updated": "2026-02-15T03:37:13.765260"
 }
