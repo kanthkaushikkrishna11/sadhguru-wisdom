@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-17",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-17",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-16",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1411,6 +1422,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Music, Meditation &amp; Mahadev’s Magic – Glimpses of Mahashivratri 2026  | Sadhguru",
+      "description": "A glimpse into the magical and electrifying moments from the 32nd Mahashivratri celebrations at the Isha Yoga Center in the ...",
+      "url": "https://www.youtube.com/watch?v=RNxMmk9bJ_g",
+      "thumbnail": "https://i.ytimg.com/vi/RNxMmk9bJ_g/hqdefault.jpg",
+      "date": "2026-02-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A night soaked in devotion, tears &amp; bliss #Mahashivrtri",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ujHikDHwUtk",
+      "thumbnail": "https://i.ytimg.com/vi/ujHikDHwUtk/hqdefault.jpg",
+      "date": "2026-02-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru’s Gift for You on #Mahashivratri",
+      "description": "Start your Inner Engineering for FREE on the auspicious day of Mahashivratri! Sign up now, complete the program within 60 days ...",
+      "url": "https://www.youtube.com/watch?v=rI495sCPQDk",
+      "thumbnail": "https://i.ytimg.com/vi/rI495sCPQDk/hqdefault.jpg",
+      "date": "2026-02-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Hon&#39;ble Defence Minister, Shri Rajnath Singh at #IshaMahashivratri",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=tvrOktQQOig",
+      "thumbnail": "https://i.ytimg.com/vi/tvrOktQQOig/hqdefault.jpg",
+      "date": "2026-02-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru’s Mahashivratri Invitation in Hindi",
       "description": "Sadhguru speaks about two of Adiyogi's qualities which one can imbibe on the auspicious night of Mahashivratri. Celebrate ...",
@@ -5871,5 +5934,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-16T03:35:39.941375"
+  "last_updated": "2026-02-17T03:30:40.423827"
 }
