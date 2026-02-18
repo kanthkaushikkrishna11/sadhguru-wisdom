@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-18",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-18",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-17",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1422,6 +1433,110 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Inner Engineering is FREE till 18 Feb | Sadhguru",
+      "description": "Inner Engineering is being offered FREE till 18 Feb. This is an opportunity to receive the simple yet powerful Shambhavi ...",
+      "url": "https://www.youtube.com/watch?v=AYANaGaz8GM",
+      "thumbnail": "https://i.ytimg.com/vi/AYANaGaz8GM/hqdefault.jpg",
+      "date": "2026-02-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Sings “Shiva Shiva Shivaya”",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=BweSWxi0lVg",
+      "thumbnail": "https://i.ytimg.com/vi/BweSWxi0lVg/hqdefault.jpg",
+      "date": "2026-02-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru expresses gratitude to the Hon’ble Defence Minister and the brave soldiers of Bharat",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=acMi792N04k",
+      "thumbnail": "https://i.ytimg.com/vi/acMi792N04k/hqdefault.jpg",
+      "date": "2026-02-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Mahashivratri – a night of awareness and intoxication | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=AHkj77x5X5o",
+      "thumbnail": "https://i.ytimg.com/vi/AHkj77x5X5o/hqdefault.jpg",
+      "date": "2026-02-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru’s Gift for You on #Mahashivratri",
+      "description": "Start your Inner Engineering for FREE on the auspicious day of Mahashivratri! Sign up now, complete the program within 60 days ...",
+      "url": "https://www.youtube.com/watch?v=i_hkOG4-rtk",
+      "thumbnail": "https://i.ytimg.com/vi/i_hkOG4-rtk/hqdefault.jpg",
+      "date": "2026-02-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Magic &amp; Madness of #Mahashivratri |  Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=gqCjAjztVec",
+      "thumbnail": "https://i.ytimg.com/vi/gqCjAjztVec/hqdefault.jpg",
+      "date": "2026-02-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A night of abandon &amp; ecstasy | Sadhguru",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=XOz23GEMVSY",
+      "thumbnail": "https://i.ytimg.com/vi/XOz23GEMVSY/hqdefault.jpg",
+      "date": "2026-02-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "&quot;Brahma Muhurtam Meditation with Sadhguru&quot;",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=Lp9lqdFlLks",
+      "thumbnail": "https://i.ytimg.com/vi/Lp9lqdFlLks/hqdefault.jpg",
+      "date": "2026-02-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Music, Meditation &amp; Mahadev’s Magic – Glimpses of Mahashivratri 2026  | Sadhguru",
       "description": "A glimpse into the magical and electrifying moments from the 32nd Mahashivratri celebrations at the Isha Yoga Center in the ...",
@@ -5934,5 +6049,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-17T03:30:40.423827"
+  "last_updated": "2026-02-18T03:33:12.561472"
 }
