@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1444,6 +1455,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Joe Rogan &amp; Sadhguru’s Meme Chat",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=mj7biPMZ_cg",
+      "thumbnail": "https://i.ytimg.com/vi/mj7biPMZ_cg/hqdefault.jpg",
+      "date": "2026-02-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru sets the beat on #Mahashivratri night",
       "description": "",
@@ -6112,5 +6136,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-19T03:31:58.053456"
+  "last_updated": "2026-02-20T03:27:36.207967"
 }
