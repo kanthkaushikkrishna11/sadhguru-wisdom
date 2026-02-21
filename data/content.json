@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1455,6 +1466,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "When you act with absolute involvement, life becomes spectacular | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=PUS6J-BQKMo",
+      "thumbnail": "https://i.ytimg.com/vi/PUS6J-BQKMo/hqdefault.jpg",
+      "date": "2026-02-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Aditya Gadhvi with Sadhguru on Mahashivratri 2026",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=zKsB3nxjdmU",
+      "thumbnail": "https://i.ytimg.com/vi/zKsB3nxjdmU/hqdefault.jpg",
+      "date": "2026-02-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "An offering of fire to Adiyogi – an integral part of Mahashivratri at Isha",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Lul9ivPlUG4",
+      "thumbnail": "https://i.ytimg.com/vi/Lul9ivPlUG4/hqdefault.jpg",
+      "date": "2026-02-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Joe Rogan &amp; Sadhguru’s Meme Chat",
       "description": "",
@@ -6136,5 +6186,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-20T03:27:36.207967"
+  "last_updated": "2026-02-21T03:15:39.128826"
 }
