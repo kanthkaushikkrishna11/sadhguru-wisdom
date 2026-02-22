@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1466,6 +1477,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Mahashivratri celebrations come to a close on a high note!#Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=NRHJLpcNWw8",
+      "thumbnail": "https://i.ytimg.com/vi/NRHJLpcNWw8/hqdefault.jpg",
+      "date": "2026-02-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Mystic on 2 Wheels – Kailash Vlog with Sadhguru",
+      "description": "Watch Sadhguru ride on two wheels through some of the world's most treacherous terrains, high passes, winding mountain trails, ...",
+      "url": "https://www.youtube.com/watch?v=ralbqK2BWb4",
+      "thumbnail": "https://i.ytimg.com/vi/ralbqK2BWb4/hqdefault.jpg",
+      "date": "2026-02-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "100 Years Can Feel Like Minutes | Sadhguru",
+      "description": "At a Darshan in 2015, Sadhguru offered a Yogic perspective on time-space, and explained why one cannot manage time but one ...",
+      "url": "https://www.youtube.com/watch?v=N2LdjfAgkUM",
+      "thumbnail": "https://i.ytimg.com/vi/N2LdjfAgkUM/hqdefault.jpg",
+      "date": "2026-02-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Decision-Making Secrets from Top CEOs | Sadhguru",
+      "description": "In a panel discussion hosted by Sadhguru Center for a Conscious Planet and moderated by Ranjay Gulati (Professor, Harvard ...",
+      "url": "https://www.youtube.com/watch?v=lO9d2cbOD4w",
+      "thumbnail": "https://i.ytimg.com/vi/lO9d2cbOD4w/hqdefault.jpg",
+      "date": "2026-02-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "When you act with absolute involvement, life becomes spectacular | Sadhguru",
       "description": "",
@@ -6186,5 +6249,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-21T03:15:39.128826"
+  "last_updated": "2026-02-22T03:31:43.909647"
 }
