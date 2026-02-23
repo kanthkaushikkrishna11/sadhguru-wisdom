@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-23",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-23",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-22",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1477,6 +1488,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Samskriti Students Sing for Sadhguru",
+      "description": "A child is a life that has not gone too far away from the Creator. Know a child to know life.” — Sadhguru.",
+      "url": "https://www.youtube.com/watch?v=mdZdFFnWcU4",
+      "thumbnail": "https://i.ytimg.com/vi/mdZdFFnWcU4/hqdefault.jpg",
+      "date": "2026-02-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Mahashivratri celebrations come to a close on a high note!#Sadhguru",
       "description": "",
@@ -6249,5 +6273,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-22T03:31:43.909647"
+  "last_updated": "2026-02-23T03:35:19.730990"
 }
