@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1488,6 +1499,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru’s Dinner Guest List",
+      "description": "If Sadhguru could host three people from any era and any genre for dinner, who would they be?",
+      "url": "https://www.youtube.com/watch?v=a8l9LsGDKks",
+      "thumbnail": "https://i.ytimg.com/vi/a8l9LsGDKks/hqdefault.jpg",
+      "date": "2026-02-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Do Women Face Domestic Violence? | Sadhguru",
+      "description": "The root of domestic violence is not man vs woman. It is that some people will exploit anything that is weaker than them: woman, ...",
+      "url": "https://www.youtube.com/watch?v=qLRHF1hWzEo",
+      "thumbnail": "https://i.ytimg.com/vi/qLRHF1hWzEo/hqdefault.jpg",
+      "date": "2026-02-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Children from Tribal Families Meet Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=zj1Oi62p3Gs",
+      "thumbnail": "https://i.ytimg.com/vi/zj1Oi62p3Gs/hqdefault.jpg",
+      "date": "2026-02-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Samskriti Students Sing for Sadhguru",
       "description": "A child is a life that has not gone too far away from the Creator. Know a child to know life.” — Sadhguru.",
@@ -6273,5 +6323,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-23T03:35:19.730990"
+  "last_updated": "2026-02-24T03:31:10.154903"
 }
