@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1499,6 +1510,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Love is Easy, When _______ | Sadhguru",
+      "description": "It is easy to love when there is distance because you don't have to meet or share anything with that person. But when you are ...",
+      "url": "https://www.youtube.com/watch?v=Lrm_72OY70M",
+      "thumbnail": "https://i.ytimg.com/vi/Lrm_72OY70M/hqdefault.jpg",
+      "date": "2026-02-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "How to be intense | Sadhguru",
+      "description": "Life is intensity. If you do your life willingly, you will always be intense. If you do your life unwillingly, sometimes you feel it is hard, ...",
+      "url": "https://www.youtube.com/watch?v=jgFNHD3h8vo",
+      "thumbnail": "https://i.ytimg.com/vi/jgFNHD3h8vo/hqdefault.jpg",
+      "date": "2026-02-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru’s Dinner Guest List",
       "description": "If Sadhguru could host three people from any era and any genre for dinner, who would they be?",
@@ -6323,5 +6360,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-24T03:31:10.154903"
+  "last_updated": "2026-02-25T03:31:21.858649"
 }
