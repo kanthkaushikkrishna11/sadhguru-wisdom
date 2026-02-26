@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1510,6 +1521,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Older &amp; Younger Generations Clash At Home | Sadhguru",
+      "description": "Sadhguru looks at why intergenerational conflict happens, and how this can be resolved within a family.",
+      "url": "https://www.youtube.com/watch?v=8FtjJOR0NFs",
+      "thumbnail": "https://i.ytimg.com/vi/8FtjJOR0NFs/hqdefault.jpg",
+      "date": "2026-02-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Truth About Death | Sadhguru",
+      "description": "Death is a fiction of the unaware. There is only life, life, and life alone, moving from one dimension to another. -Sg.",
+      "url": "https://www.youtube.com/watch?v=CJHkBWNsn7Y",
+      "thumbnail": "https://i.ytimg.com/vi/CJHkBWNsn7Y/hqdefault.jpg",
+      "date": "2026-02-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Kalabhairava Sthapana with Sadhguru – 3 March 2026 | Sadhguru",
+      "description": "On 3 March, Phalguna Purnima, Sadhguru will conduct Kalabhairava Sthapana, one stage of the larger Kalabhairava ...",
+      "url": "https://www.youtube.com/watch?v=wJ5SW0rJV8Q",
+      "thumbnail": "https://i.ytimg.com/vi/wJ5SW0rJV8Q/hqdefault.jpg",
+      "date": "2026-02-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Love is Easy, When _______ | Sadhguru",
       "description": "It is easy to love when there is distance because you don't have to meet or share anything with that person. But when you are ...",
@@ -6360,5 +6410,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-25T03:31:21.858649"
+  "last_updated": "2026-02-26T03:28:07.150187"
 }
