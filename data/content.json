@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1521,6 +1532,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Kailash Like You’ve Never Seen Before | Sadhguru",
+      "description": "Watch Sadhguru ride on two wheels through some of the world's most treacherous terrains, high passes, winding mountain trails, ...",
+      "url": "https://www.youtube.com/watch?v=SJzwx9QNqrA",
+      "thumbnail": "https://i.ytimg.com/vi/SJzwx9QNqrA/hqdefault.jpg",
+      "date": "2026-02-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Should We Fear AI? | Sadhguru",
+      "description": "In a freewheeling conversation with Professor Kartik Hosanagar of the Wharton School, University of Pennsylvania, Sadhguru ...",
+      "url": "https://www.youtube.com/watch?v=B6eOJ8bYipY",
+      "thumbnail": "https://i.ytimg.com/vi/B6eOJ8bYipY/hqdefault.jpg",
+      "date": "2026-02-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Older &amp; Younger Generations Clash At Home | Sadhguru",
       "description": "Sadhguru looks at why intergenerational conflict happens, and how this can be resolved within a family.",
@@ -6410,5 +6447,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-26T03:28:07.150187"
+  "last_updated": "2026-02-27T03:24:56.915385"
 }
