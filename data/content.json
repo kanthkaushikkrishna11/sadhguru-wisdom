@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-02-28",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-02-28",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-27",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1532,6 +1543,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Secret Schools Existed in Europe &amp; Middle-East | Sadhguru",
+      "description": "Bharat is a land of seekers, not believers. Belief means whatever you do not know, you simply believe you know. This has led to a ...",
+      "url": "https://www.youtube.com/watch?v=WhN0-LN_0fQ",
+      "thumbnail": "https://i.ytimg.com/vi/WhN0-LN_0fQ/hqdefault.jpg",
+      "date": "2026-02-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru on Osho: One of the Sharpest Minds of 20th Century",
+      "description": "Responding to a question about Osho, Sadhguru describes him as “one of the sharpest minds of the 20th century,” and someone ...",
+      "url": "https://www.youtube.com/watch?v=bojhuxbdidg",
+      "thumbnail": "https://i.ytimg.com/vi/bojhuxbdidg/hqdefault.jpg",
+      "date": "2026-02-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Kailash Like You’ve Never Seen Before | Sadhguru",
       "description": "Watch Sadhguru ride on two wheels through some of the world's most treacherous terrains, high passes, winding mountain trails, ...",
@@ -6447,5 +6484,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-27T03:24:56.915385"
+  "last_updated": "2026-02-28T03:05:03.973181"
 }
