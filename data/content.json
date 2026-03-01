@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-01",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-01",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-02-28",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1543,6 +1554,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "What Pranayama Does To You | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=8ZR-qEW6SpM",
+      "thumbnail": "https://i.ytimg.com/vi/8ZR-qEW6SpM/hqdefault.jpg",
+      "date": "2026-02-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Kalabhairava Sthapana with Sadhguru is happening on 3 March 2026 from 10:30 PM onwards.",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=tKkNsSqrJL4",
+      "thumbnail": "https://i.ytimg.com/vi/tKkNsSqrJL4/hqdefault.jpg",
+      "date": "2026-02-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Secret Schools Existed in Europe &amp; Middle-East | Sadhguru",
       "description": "Bharat is a land of seekers, not believers. Belief means whatever you do not know, you simply believe you know. This has led to a ...",
@@ -6484,5 +6521,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-02-28T03:05:03.973181"
+  "last_updated": "2026-03-01T03:36:37.003808"
 }
