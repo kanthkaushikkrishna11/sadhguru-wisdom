@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-02",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-02",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-01",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1554,6 +1565,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Little Girl Asks About Parents&#39; Stress",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=QAsXXBVXgyo",
+      "thumbnail": "https://i.ytimg.com/vi/QAsXXBVXgyo/hqdefault.jpg",
+      "date": "2026-03-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Do This to Know Life in its Fullness | Sadhguru",
+      "description": "If you want to know life in its fullness, it's important that you are constantly stepping into new terrain.",
+      "url": "https://www.youtube.com/watch?v=H_b6_kvcujQ",
+      "thumbnail": "https://i.ytimg.com/vi/H_b6_kvcujQ/hqdefault.jpg",
+      "date": "2026-03-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru&#39;s Hindi Message to Lucknow!",
+      "description": "Sadhguru speaks in Hindi at the \"Inner Engineering - Wave of Bliss\" Satsang in Lucknow, reflecting the warmth and politeness of ...",
+      "url": "https://www.youtube.com/watch?v=dZQ-UpRrRfk",
+      "thumbnail": "https://i.ytimg.com/vi/dZQ-UpRrRfk/hqdefault.jpg",
+      "date": "2026-03-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Pranayama Does To You | Sadhguru",
       "description": "",
@@ -6521,5 +6571,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-01T03:36:37.003808"
+  "last_updated": "2026-03-02T03:26:09.823795"
 }
