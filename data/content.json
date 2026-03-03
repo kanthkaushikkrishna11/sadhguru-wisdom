@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-03",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-03",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-02",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1565,6 +1576,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Born of Ash: The Story of Gorakhnath | Sadhguru",
+      "description": "Sadhguru narrates the lesser-known story of Gorakhnath's miraculous birth from ash and his life as an intense seeker.",
+      "url": "https://www.youtube.com/watch?v=4y8XApmJE_c",
+      "thumbnail": "https://i.ytimg.com/vi/4y8XApmJE_c/hqdefault.jpg",
+      "date": "2026-03-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Little Girl Asks About Parents&#39; Stress",
       "description": "",
@@ -6571,5 +6595,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-02T03:26:09.823795"
+  "last_updated": "2026-03-03T03:29:02.426229"
 }
