@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1576,6 +1587,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The source of life within you is the source of everything in the universe | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=7L5shkjPLCE",
+      "thumbnail": "https://i.ytimg.com/vi/7L5shkjPLCE/hqdefault.jpg",
+      "date": "2026-03-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Essence of Kalabhairava | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=hGv6HelfoiY",
+      "thumbnail": "https://i.ytimg.com/vi/hGv6HelfoiY/hqdefault.jpg",
+      "date": "2026-03-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Devotion makes you fit for life | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=XySYH027kfU",
+      "thumbnail": "https://i.ytimg.com/vi/XySYH027kfU/hqdefault.jpg",
+      "date": "2026-03-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Born of Ash: The Story of Gorakhnath | Sadhguru",
       "description": "Sadhguru narrates the lesser-known story of Gorakhnath's miraculous birth from ash and his life as an intense seeker.",
@@ -6595,5 +6645,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-03T03:29:02.426229"
+  "last_updated": "2026-03-04T03:21:21.708700"
 }
