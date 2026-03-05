@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-05",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-05",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-04",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1587,6 +1598,84 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "67% of Men Chose Electric Shocks Over Being Alone | Sadhguru",
+      "description": "Sadhguru speaks about an experiment in which a significant number of people chose electric shock over being alone, illustrating ...",
+      "url": "https://www.youtube.com/watch?v=peOdQS5oRwY",
+      "thumbnail": "https://i.ytimg.com/vi/peOdQS5oRwY/hqdefault.jpg",
+      "date": "2026-03-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Rare Mystical Night at Isha Yoga Center in the presence of Kalabhairava | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SCe-vLGv3ys",
+      "thumbnail": "https://i.ytimg.com/vi/SCe-vLGv3ys/hqdefault.jpg",
+      "date": "2026-03-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Glimpses of Kalabhairava Sthapana by Sadhguru at Isha Yoga Center.",
+      "description": "Kalabhairava is a fierce and destructive form of Shiva, not one that destroys this or that, but one that destroys time itself and ...",
+      "url": "https://www.youtube.com/watch?v=0RgC2zcEATM",
+      "thumbnail": "https://i.ytimg.com/vi/0RgC2zcEATM/hqdefault.jpg",
+      "date": "2026-03-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Kalabhairava Sthapana by Sadhguru on Phalguna Purnima",
+      "description": "On the auspicious night of Phalguna Purnima (3 March), Sadhguru conducted Kalabhairava Sthapana, part of the Kalabhairava ...",
+      "url": "https://www.youtube.com/watch?v=V8yrCZh1ksk",
+      "thumbnail": "https://i.ytimg.com/vi/V8yrCZh1ksk/hqdefault.jpg",
+      "date": "2026-03-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru opens the gateway to Kalabhairava as the powerful Kaala Bhairava chant resounds.",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=hTnrslOYZyk",
+      "thumbnail": "https://i.ytimg.com/vi/hTnrslOYZyk/hqdefault.jpg",
+      "date": "2026-03-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Revealed: Kalabhairava at Isha Yoga Center",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=XlCJ7R0fJ30",
+      "thumbnail": "https://i.ytimg.com/vi/XlCJ7R0fJ30/hqdefault.jpg",
+      "date": "2026-03-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The source of life within you is the source of everything in the universe | Sadhguru",
       "description": "",
@@ -6645,5 +6734,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-04T03:21:21.708700"
+  "last_updated": "2026-03-05T03:24:15.974623"
 }
