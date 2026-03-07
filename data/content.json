@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-07",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-07",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-06",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1609,6 +1620,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru speaks Hindi and makes little Nepali kids laugh!#Throwback",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=to5Lz7ujLxc",
+      "thumbnail": "https://i.ytimg.com/vi/to5Lz7ujLxc/hqdefault.jpg",
+      "date": "2026-03-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Dangerous to Worship Shivalinga at Home? | Sadhguru",
+      "description": "Can worshipping a Shivalinga at home and chanting the mahamantra Aum Namah Shivaya be inauspicious or even cause harm?",
+      "url": "https://www.youtube.com/watch?v=QVIbJkJ7skE",
+      "thumbnail": "https://i.ytimg.com/vi/QVIbJkJ7skE/hqdefault.jpg",
+      "date": "2026-03-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Explore the Magic of Life | Sadhguru",
       "description": "Sadhguru speaks about Shambhavi Mahamudra – a powerful 21-minute Yogic process offered in the Inner Engineering program ...",
@@ -6771,5 +6808,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-06T03:22:53.780359"
+  "last_updated": "2026-03-07T03:10:02.539791"
 }
