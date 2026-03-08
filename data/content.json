@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-08",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-08",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-07",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1620,6 +1631,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The right way to drink a coconut! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=1h68xS8E960",
+      "thumbnail": "https://i.ytimg.com/vi/1h68xS8E960/hqdefault.jpg",
+      "date": "2026-03-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Gen Z, AI, and the Coming Mental Health Crisis– Sadhguru, Swami Sarvapriyananda | Harvard Panel",
+      "description": "In a panel discussion hosted by the Sadhguru Center for a Conscious Planet and moderated by Matcheri Keshavan (Professor, ...",
+      "url": "https://www.youtube.com/watch?v=AMZdOg0IBzU",
+      "thumbnail": "https://i.ytimg.com/vi/AMZdOg0IBzU/hqdefault.jpg",
+      "date": "2026-03-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "No Such Thing As Time Management | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=89a13qPvun8",
+      "thumbnail": "https://i.ytimg.com/vi/89a13qPvun8/hqdefault.jpg",
+      "date": "2026-03-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "When a Man Is Born of a Woman, How Can She Be Inferior? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=jbZUQZQLY9s",
+      "thumbnail": "https://i.ytimg.com/vi/jbZUQZQLY9s/hqdefault.jpg",
+      "date": "2026-03-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru speaks Hindi and makes little Nepali kids laugh!#Throwback",
       "description": "",
@@ -6808,5 +6871,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-07T03:10:02.539791"
+  "last_updated": "2026-03-08T03:26:11.757713"
 }
