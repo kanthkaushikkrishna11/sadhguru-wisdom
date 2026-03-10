@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1642,6 +1653,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Next Time You’re Angry, Remember This | Sadhguru",
+      "description": "When you are angry, you are literally generating poison in your system. Anger is not an intelligent expression of human life. So the ...",
+      "url": "https://www.youtube.com/watch?v=ELMJ3W6gxns",
+      "thumbnail": "https://i.ytimg.com/vi/ELMJ3W6gxns/hqdefault.jpg",
+      "date": "2026-03-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru visits the Statue of Unity and pays homage to Sardar Vallabhbhai Patel",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=FVY8xCeDh10",
+      "thumbnail": "https://i.ytimg.com/vi/FVY8xCeDh10/hqdefault.jpg",
+      "date": "2026-03-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The right way to drink a coconut! | Sadhguru",
       "description": "",
@@ -6882,5 +6919,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-09T03:29:33.302856"
+  "last_updated": "2026-03-10T03:21:45.277284"
 }
