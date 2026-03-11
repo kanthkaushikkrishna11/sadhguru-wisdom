@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-11",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-11",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-10",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1653,6 +1664,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "1 Quality of Great Leaders | Sadhguru",
+      "description": "In a panel discussion hosted by Sadhguru Center for a Conscious Planet and moderated by Ranjay Gulati (Professor, Harvard ...",
+      "url": "https://www.youtube.com/watch?v=3RBMtTR0HlQ",
+      "thumbnail": "https://i.ytimg.com/vi/3RBMtTR0HlQ/hqdefault.jpg",
+      "date": "2026-03-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Real Reason Invaders Attacked Somnath | Sadhguru",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=wq39dKdlxGs",
+      "thumbnail": "https://i.ytimg.com/vi/wq39dKdlxGs/hqdefault.jpg",
+      "date": "2026-03-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Next Time You’re Angry, Remember This | Sadhguru",
       "description": "When you are angry, you are literally generating poison in your system. Anger is not an intelligent expression of human life. So the ...",
@@ -6919,5 +6956,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-10T03:21:45.277284"
+  "last_updated": "2026-03-11T03:21:26.754720"
 }
