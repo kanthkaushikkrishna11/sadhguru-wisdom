@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-12",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-12",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-11",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1664,6 +1675,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "You Can’t Manage Time | Sadhguru",
+      "description": "Sadhguru offers a Yogic perspective on time-space, and explains why one cannot manage time but one can manage one's ...",
+      "url": "https://www.youtube.com/watch?v=6gGLeFZ6gNM",
+      "thumbnail": "https://i.ytimg.com/vi/6gGLeFZ6gNM/hqdefault.jpg",
+      "date": "2026-03-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Most Serious Crime | Sadhguru",
+      "description": "Sadhguru on why the New Year is a reminder to strive to go beyond the mirror of the mind and experience life in its full depth and ...",
+      "url": "https://www.youtube.com/watch?v=xdepR-xZ-6w",
+      "thumbnail": "https://i.ytimg.com/vi/xdepR-xZ-6w/hqdefault.jpg",
+      "date": "2026-03-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "1 Quality of Great Leaders | Sadhguru",
       "description": "In a panel discussion hosted by Sadhguru Center for a Conscious Planet and moderated by Ranjay Gulati (Professor, Harvard ...",
@@ -6956,5 +6993,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-11T03:21:26.754720"
+  "last_updated": "2026-03-12T03:27:49.672638"
 }
