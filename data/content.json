@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-13",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-13",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-12",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1675,6 +1686,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Your Education Will Soon Be Useless | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=kQUO1igzUPo",
+      "thumbnail": "https://i.ytimg.com/vi/kQUO1igzUPo/hqdefault.jpg",
+      "date": "2026-03-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "You Can’t Manage Time | Sadhguru",
       "description": "Sadhguru offers a Yogic perspective on time-space, and explains why one cannot manage time but one can manage one's ...",
@@ -6993,5 +7017,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-12T03:27:49.672638"
+  "last_updated": "2026-03-13T03:24:02.163524"
 }
