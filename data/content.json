@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1686,6 +1697,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Arrives in Khajuraho for Mystic Musings",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xdtt-2WU0TU",
+      "thumbnail": "https://i.ytimg.com/vi/xdtt-2WU0TU/hqdefault.jpg",
+      "date": "2026-03-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Khajuraho welcomes a surprise visitor! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=4SdjYszPHKA",
+      "thumbnail": "https://i.ytimg.com/vi/4SdjYszPHKA/hqdefault.jpg",
+      "date": "2026-03-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru at Khajuraho’s Matangeshvara Temple",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=OyVoev8OqO8",
+      "thumbnail": "https://i.ytimg.com/vi/OyVoev8OqO8/hqdefault.jpg",
+      "date": "2026-03-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Your Education Will Soon Be Useless | Sadhguru",
       "description": "",
@@ -7017,5 +7067,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-13T03:24:02.163524"
+  "last_updated": "2026-03-14T03:21:55.931595"
 }
