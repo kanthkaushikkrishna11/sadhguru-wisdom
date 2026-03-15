@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1697,6 +1708,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "3 Contexts That Can Determine The Quality of Your Life — Which Will You Choose? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_zKFVpPVdKk",
+      "thumbnail": "https://i.ytimg.com/vi/_zKFVpPVdKk/hqdefault.jpg",
+      "date": "2026-03-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Bageshwar Dham Hosts Sadhguru | Sadhguru",
+      "description": "Bageshwar Dham in Chhatarpur, Madhya Pradesh welcomes Sadhguru and the participants of the Mystic Musings program.",
+      "url": "https://www.youtube.com/watch?v=boPDVsDVOWo",
+      "thumbnail": "https://i.ytimg.com/vi/boPDVsDVOWo/hqdefault.jpg",
+      "date": "2026-03-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Arrives in Khajuraho for Mystic Musings",
       "description": "",
@@ -7067,5 +7104,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-14T03:21:55.931595"
+  "last_updated": "2026-03-15T03:46:09.471268"
 }
