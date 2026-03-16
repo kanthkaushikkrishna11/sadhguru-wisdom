@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1708,6 +1719,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A Very Unique Temple in Khajuraho | Sadhguru",
+      "description": "On the inaugural day of the Mystic Musings program, Sadhguru spoke about Matangeshwar, a powerfully consecrated temple in ...",
+      "url": "https://www.youtube.com/watch?v=jEkGoBQyp58",
+      "thumbnail": "https://i.ytimg.com/vi/jEkGoBQyp58/hqdefault.jpg",
+      "date": "2026-03-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Holi Celebrations With Sadhguru in Khajuraho #MysticMusings",
+      "description": "Amid laughter, colors, and celebration, participants of the Mystic Musings program play Holi with Sadhguru in Khajuraho.",
+      "url": "https://www.youtube.com/watch?v=Nu2J_PYexqU",
+      "thumbnail": "https://i.ytimg.com/vi/Nu2J_PYexqU/hqdefault.jpg",
+      "date": "2026-03-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "3 Contexts That Can Determine The Quality of Your Life — Which Will You Choose? | Sadhguru",
       "description": "",
@@ -7104,5 +7141,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-15T03:46:09.471268"
+  "last_updated": "2026-03-16T03:49:50.138370"
 }
