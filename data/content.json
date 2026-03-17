@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-17",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-17",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-16",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1719,6 +1730,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Should You Eat With Your Hands? | Sadhguru",
+      "description": "Is there any significance to eating with one's hands rather than using a spoon or fork? Yes! Sadhguru explains.",
+      "url": "https://www.youtube.com/watch?v=XToPoLq4K0c",
+      "thumbnail": "https://i.ytimg.com/vi/XToPoLq4K0c/hqdefault.jpg",
+      "date": "2026-03-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Flight with an Unexpected Guest | Sadhguru",
+      "description": "An unexpected passenger boards the flight carrying the Mystic Musings participants.",
+      "url": "https://www.youtube.com/watch?v=SQJZqoLRZ4k",
+      "thumbnail": "https://i.ytimg.com/vi/SQJZqoLRZ4k/hqdefault.jpg",
+      "date": "2026-03-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Was the US-Israel-Iran War Inevitable? | Sadhguru",
+      "description": "During a satsang at the Mystic Musings program, Sadhguru spoke about solar flares which potentially provide extra energy for ...",
+      "url": "https://www.youtube.com/watch?v=0aWR1Ie0GMY",
+      "thumbnail": "https://i.ytimg.com/vi/0aWR1Ie0GMY/hqdefault.jpg",
+      "date": "2026-03-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A Very Unique Temple in Khajuraho | Sadhguru",
       "description": "On the inaugural day of the Mystic Musings program, Sadhguru spoke about Matangeshwar, a powerfully consecrated temple in ...",
@@ -7141,5 +7191,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-16T03:49:50.138370"
+  "last_updated": "2026-03-17T03:28:37.360557"
 }
