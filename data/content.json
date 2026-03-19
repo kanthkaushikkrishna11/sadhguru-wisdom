@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-19",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-19",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-18",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1741,6 +1752,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Kailashnath Temple at Ellora: Makes You Proud of Being Human | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=LKl-cn1M7Gk",
+      "thumbnail": "https://i.ytimg.com/vi/LKl-cn1M7Gk/hqdefault.jpg",
+      "date": "2026-03-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Take This Simple Step for a Great 2026 | Sadhguru",
+      "description": "Sadhguru narrates the story of a washerman who wanted his donkey transformed into a human being, to explain why there is no ...",
+      "url": "https://www.youtube.com/watch?v=i2l3-kOpU18",
+      "thumbnail": "https://i.ytimg.com/vi/i2l3-kOpU18/hqdefault.jpg",
+      "date": "2026-03-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Temple Carved from a Mountain – Sadhguru at the Kailasa Temple in Ellora",
+      "description": "At Ellora's magnificent Kailasa Temple, Sadhguru joined the participants of the “Mystic Musings” program to explore the vision, ...",
+      "url": "https://www.youtube.com/watch?v=Vy62Rd2fP-c",
+      "thumbnail": "https://i.ytimg.com/vi/Vy62Rd2fP-c/hqdefault.jpg",
+      "date": "2026-03-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Dr. Lakshyaraj Singh Mewar warmly welcomes Sadhguru to Udaipur",
+      "description": "Sadhguru was warmly welcomed in Udaipur with a traditional ceremonial welcome, by Dr. Lakshyaraj Singh Mewar, the 77th ...",
+      "url": "https://www.youtube.com/watch?v=7PrrsENGrFg",
+      "thumbnail": "https://i.ytimg.com/vi/7PrrsENGrFg/hqdefault.jpg",
+      "date": "2026-03-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Is Khajuraho Pornography? | Sadhguru",
       "description": "At a satsang with the participants of the Mystic Musings program, Sadhguru speaks about the temples at Khajuraho, and dispels ...",
@@ -7215,5 +7278,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-18T03:35:27.155938"
+  "last_updated": "2026-03-19T03:35:38.358969"
 }
