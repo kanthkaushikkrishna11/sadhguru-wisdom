@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1752,6 +1763,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Can a Donkey Become a Man?  | Sadhguru",
+      "description": "Sadhguru narrates the story of a washerman who wanted his donkey transformed into a human being, to explain why there is no ...",
+      "url": "https://www.youtube.com/watch?v=NaAmb5EKrf4",
+      "thumbnail": "https://i.ytimg.com/vi/NaAmb5EKrf4/hqdefault.jpg",
+      "date": "2026-03-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru’s Ugadi Message",
+      "description": "Ugadi Subakankshalu to everyone. Ugadi is a transition from Spring to Summer. To navigate any transition in life successfully, you ...",
+      "url": "https://www.youtube.com/watch?v=kejm47rfiEk",
+      "thumbnail": "https://i.ytimg.com/vi/kejm47rfiEk/hqdefault.jpg",
+      "date": "2026-03-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "To live is to play, and to play is to live. -Sg",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=zDdCQ--9NpE",
+      "thumbnail": "https://i.ytimg.com/vi/zDdCQ--9NpE/hqdefault.jpg",
+      "date": "2026-03-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Kailashnath Temple at Ellora: Makes You Proud of Being Human | Sadhguru",
       "description": "",
@@ -7278,5 +7328,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-19T03:35:38.358969"
+  "last_updated": "2026-03-20T03:25:38.828343"
 }
