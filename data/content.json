@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1774,6 +1785,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Departs Udaipur After “Mystic Musings”",
+      "description": "Tears of joy and devotion as volunteers meet Sadhguru, before he departs Udaipur after the second edition of the \"Mystic ...",
+      "url": "https://www.youtube.com/watch?v=8vYkCDw96NU",
+      "thumbnail": "https://i.ytimg.com/vi/8vYkCDw96NU/hqdefault.jpg",
+      "date": "2026-03-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Undaunted by Pouring Rain, Sadhguru Rides On to #SaveSoil #Throwback",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ML_JORmjWVQ",
+      "thumbnail": "https://i.ytimg.com/vi/ML_JORmjWVQ/hqdefault.jpg",
+      "date": "2026-03-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Only Goal In Life | Sadhguru",
       "description": "Indian culture has always held Ultimate Liberation or Mukti as the highest goal. Everything in your life – your business, marriage, ...",
@@ -7352,5 +7389,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-21T03:14:10.111602"
+  "last_updated": "2026-03-22T03:34:39.620792"
 }
