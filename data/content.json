@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-23",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-23",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-22",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1785,6 +1796,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Dhurandhar Within | Sadhguru",
+      "description": "Shambhavi Mahamudra brings an inner stability so that outside situations do not determine the nature of your experience.",
+      "url": "https://www.youtube.com/watch?v=N19kpXm-U34",
+      "thumbnail": "https://i.ytimg.com/vi/N19kpXm-U34/hqdefault.jpg",
+      "date": "2026-03-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "What Is The Right Age To Start A Relationship? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=jGpfxzBbfx4",
+      "thumbnail": "https://i.ytimg.com/vi/jGpfxzBbfx4/hqdefault.jpg",
+      "date": "2026-03-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Departs Udaipur After “Mystic Musings”",
       "description": "Tears of joy and devotion as volunteers meet Sadhguru, before he departs Udaipur after the second edition of the \"Mystic ...",
@@ -7389,5 +7426,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-22T03:34:39.620792"
+  "last_updated": "2026-03-23T03:38:57.681884"
 }
