@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1807,6 +1818,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Friendships Rot Over Time | Sadhguru",
+      "description": "Sadhguru responds to a question about friendship and explains why most friendships rot over time, if not nurtured.",
+      "url": "https://www.youtube.com/watch?v=8co5u6U_WyU",
+      "thumbnail": "https://i.ytimg.com/vi/8co5u6U_WyU/hqdefault.jpg",
+      "date": "2026-03-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Be Truthful to Yourself | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=4u5EjX0Epeo",
+      "thumbnail": "https://i.ytimg.com/vi/4u5EjX0Epeo/hqdefault.jpg",
+      "date": "2026-03-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Dhurandhar Within | Sadhguru",
       "description": "Shambhavi Mahamudra brings an inner stability so that outside situations do not determine the nature of your experience.",
@@ -7437,5 +7474,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-24T03:29:47.189387"
+  "last_updated": "2026-03-25T03:33:10.794157"
 }
