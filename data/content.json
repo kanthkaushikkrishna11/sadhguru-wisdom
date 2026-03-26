@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1818,6 +1829,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Can Women Visit Temples or Pray During Their Menstrual Cycles? | Sadhguru",
+      "description": "Sadhguru explores how the traditional belief that women need not worship during their menstrual cycles came about, and whether ...",
+      "url": "https://www.youtube.com/watch?v=LFIlc3sw0Qc",
+      "thumbnail": "https://i.ytimg.com/vi/LFIlc3sw0Qc/hqdefault.jpg",
+      "date": "2026-03-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "What Rama’s Life Teaches Us | Sadhguru",
+      "description": "The life of Rama shows the immense Possibility of being Human – the capability to rise above All Challenges.",
+      "url": "https://www.youtube.com/watch?v=4Vo9CehQh64",
+      "thumbnail": "https://i.ytimg.com/vi/4Vo9CehQh64/hqdefault.jpg",
+      "date": "2026-03-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Friendships Rot Over Time | Sadhguru",
       "description": "Sadhguru responds to a question about friendship and explains why most friendships rot over time, if not nurtured.",
@@ -7474,5 +7511,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-25T03:33:10.794157"
+  "last_updated": "2026-03-26T03:43:16.215668"
 }
