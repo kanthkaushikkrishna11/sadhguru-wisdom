@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1829,6 +1840,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru at Ram Mandir, Ayodhya 12.02.2024 #throwback",
+      "description": "Maryada Purushotam is not just an object of worship but an inspiration to rise beyond one's limitations for generations to come.",
+      "url": "https://www.youtube.com/watch?v=HpWygBaqWls",
+      "thumbnail": "https://i.ytimg.com/vi/HpWygBaqWls/hqdefault.jpg",
+      "date": "2026-03-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Can Women Visit Temples or Pray During Their Menstrual Cycles? | Sadhguru",
       "description": "Sadhguru explores how the traditional belief that women need not worship during their menstrual cycles came about, and whether ...",
@@ -7511,5 +7535,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-26T03:43:16.215668"
+  "last_updated": "2026-03-27T03:45:06.152087"
 }
