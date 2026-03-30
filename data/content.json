@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-30",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-30",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-29",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1862,6 +1873,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Should You Choose Live-in Or Marriage? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=nLT_kK9ZFj4",
+      "thumbnail": "https://i.ytimg.com/vi/nLT_kK9ZFj4/hqdefault.jpg",
+      "date": "2026-03-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The First Thing You Should Do In The Morning | Sadhguru",
       "description": "Sadhguru shares a simple morning practice: rubbing your palms together and placing them on your eyes – and explains how this ...",
@@ -7583,5 +7607,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-29T03:50:38.823287"
+  "last_updated": "2026-03-30T03:54:41.923940"
 }
