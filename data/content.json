@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-03-31",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-03-31",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-30",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1873,6 +1884,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The roar of engines and the thrill of two wheels! 🏁Sadhguru hits the track at @motogp in Austin",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=A_YyzJMXQ9c",
+      "thumbnail": "https://i.ytimg.com/vi/A_YyzJMXQ9c/hqdefault.jpg",
+      "date": "2026-03-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Should You Choose Live-in Or Marriage? | Sadhguru",
       "description": "",
@@ -7607,5 +7631,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-30T03:54:41.923940"
+  "last_updated": "2026-03-31T03:46:00.716820"
 }
