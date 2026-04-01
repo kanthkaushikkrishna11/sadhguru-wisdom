@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-01",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-01",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-03-31",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1884,6 +1895,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How blissed out you are is the measure of your success | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=NPx34ZLkw0M",
+      "thumbnail": "https://i.ytimg.com/vi/NPx34ZLkw0M/hqdefault.jpg",
+      "date": "2026-03-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Truck Driver&#39;s Unexpected Encounter with Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=XyYsn9z1WDU",
+      "thumbnail": "https://i.ytimg.com/vi/XyYsn9z1WDU/hqdefault.jpg",
+      "date": "2026-03-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The roar of engines and the thrill of two wheels! 🏁Sadhguru hits the track at @motogp in Austin",
       "description": "",
@@ -7631,5 +7668,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-03-31T03:46:00.716820"
+  "last_updated": "2026-04-01T03:57:15.977804"
 }
