@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-02",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-02",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-01",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1895,6 +1906,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Money and Sex: Don’t Let Them Rule You | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=V2Fkkkl7VtI",
+      "thumbnail": "https://i.ytimg.com/vi/V2Fkkkl7VtI/hqdefault.jpg",
+      "date": "2026-04-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Hidden Consequences of a Meat Diet | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=vFcZZSA7iWU",
+      "thumbnail": "https://i.ytimg.com/vi/vFcZZSA7iWU/hqdefault.jpg",
+      "date": "2026-04-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "How blissed out you are is the measure of your success | Sadhguru",
       "description": "",
@@ -7668,5 +7705,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-01T03:57:15.977804"
+  "last_updated": "2026-04-02T03:38:47.222508"
 }
