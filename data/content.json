@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-03",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-03",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-02",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1906,6 +1917,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Source of Hanuman&#39;s Strength | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=BB3xlJH19WQ",
+      "thumbnail": "https://i.ytimg.com/vi/BB3xlJH19WQ/hqdefault.jpg",
+      "date": "2026-04-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Students of Isha Home School had an unexpected encounter with Sadhguru!",
+      "description": "Captured during the @esquirefr launch edition photoshoot at Isha Yoga Center.",
+      "url": "https://www.youtube.com/watch?v=nr3XnViemIY",
+      "thumbnail": "https://i.ytimg.com/vi/nr3XnViemIY/hqdefault.jpg",
+      "date": "2026-04-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Money and Sex: Don’t Let Them Rule You | Sadhguru",
       "description": "",
@@ -7705,5 +7742,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-02T03:38:47.222508"
+  "last_updated": "2026-04-03T03:41:00.039691"
 }
