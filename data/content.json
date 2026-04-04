@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1917,6 +1928,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Power of Hatha Yoga | Sadhguru",
+      "description": "The science of Classical Hatha Yoga, when transmitted in its utmost purity, is a mechanism to enhance the human body so that it ...",
+      "url": "https://www.youtube.com/watch?v=q7iFAp9QN-E",
+      "thumbnail": "https://i.ytimg.com/vi/q7iFAp9QN-E/hqdefault.jpg",
+      "date": "2026-04-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Spiritual Growth Feels Hard | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=pld-w4Tt7lI",
+      "thumbnail": "https://i.ytimg.com/vi/pld-w4Tt7lI/hqdefault.jpg",
+      "date": "2026-04-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Source of Hanuman&#39;s Strength | Sadhguru",
       "description": "",
@@ -7742,5 +7779,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-03T03:41:00.039691"
+  "last_updated": "2026-04-04T03:28:22.932477"
 }
