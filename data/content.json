@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-07",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-07",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-06",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1950,6 +1961,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "There Are No Good Or Bad Habits | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=24_cYGAaXs8",
+      "thumbnail": "https://i.ytimg.com/vi/24_cYGAaXs8/hqdefault.jpg",
+      "date": "2026-04-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "In the Presence of the Master | Unreleased Talk from Chicago in 2004",
+      "description": "In 2004, during a satsang with meditators in Chicago, Sadhguru spoke about meditation, the role of a Guru in a seeker's life, his ...",
+      "url": "https://www.youtube.com/watch?v=hgilH16oSpA",
+      "thumbnail": "https://i.ytimg.com/vi/hgilH16oSpA/hqdefault.jpg",
+      "date": "2026-04-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "This is What Actually Makes You Blissful | Sadhguru",
+      "description": "If your life energies become blissful by their own nature, you are blissful. Inner Engineering is a tool to make your life energies ...",
+      "url": "https://www.youtube.com/watch?v=7xsuc_cdLqQ",
+      "thumbnail": "https://i.ytimg.com/vi/7xsuc_cdLqQ/hqdefault.jpg",
+      "date": "2026-04-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Don’t Let Your Past Hurt You | Sadhguru",
       "description": "",
@@ -7827,5 +7877,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-06T03:53:32.723990"
+  "last_updated": "2026-04-07T03:44:40.076703"
 }
