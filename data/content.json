@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-08",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-08",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-07",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1961,6 +1972,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "In the Presence of the Master | Sadhguru",
+      "description": "In 2004, during a satsang with meditators in Chicago, Sadhguru spoke about meditation, the role of a Guru in a seeker's life, his ...",
+      "url": "https://www.youtube.com/watch?v=yL6TxgGgEP8",
+      "thumbnail": "https://i.ytimg.com/vi/yL6TxgGgEP8/hqdefault.jpg",
+      "date": "2026-04-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Creating a sweet atmosphere is necessary for your growth | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=NCFmbwmBgsE",
+      "thumbnail": "https://i.ytimg.com/vi/NCFmbwmBgsE/hqdefault.jpg",
+      "date": "2026-04-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "There Are No Good Or Bad Habits | Sadhguru",
       "description": "",
@@ -7877,5 +7914,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-07T03:44:40.076703"
+  "last_updated": "2026-04-08T03:46:56.681161"
 }
