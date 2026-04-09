@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-09",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-09",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-08",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1972,6 +1983,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Overcome the Fear of Others&#39; Opinions | Sadhguru",
+      "description": "Transformation means your way of being is not determined by people's opinions or presence. -Sg #Sadhguru #Transformation ...",
+      "url": "https://www.youtube.com/watch?v=2X6oKkfiRD0",
+      "thumbnail": "https://i.ytimg.com/vi/2X6oKkfiRD0/hqdefault.jpg",
+      "date": "2026-04-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "In the Presence of the Master | Sadhguru",
       "description": "In 2004, during a satsang with meditators in Chicago, Sadhguru spoke about meditation, the role of a Guru in a seeker's life, his ...",
@@ -7914,5 +7938,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-08T03:46:56.681161"
+  "last_updated": "2026-04-09T03:42:30.788231"
 }
