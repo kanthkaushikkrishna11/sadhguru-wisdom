@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1983,6 +1994,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "If Your Child Is Always Hooked To The Phone... | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=PBYR2kkGpEA",
+      "thumbnail": "https://i.ytimg.com/vi/PBYR2kkGpEA/hqdefault.jpg",
+      "date": "2026-04-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Overcome the Fear of Others&#39; Opinions | Sadhguru",
       "description": "Transformation means your way of being is not determined by people's opinions or presence. -Sg #Sadhguru #Transformation ...",
@@ -7938,5 +7962,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-09T03:42:30.788231"
+  "last_updated": "2026-04-10T03:55:26.164933"
 }
