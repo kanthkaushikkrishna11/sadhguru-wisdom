@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-11",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-11",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-10",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -1994,6 +2005,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "OOPS! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=s0mVpbw7qm4",
+      "thumbnail": "https://i.ytimg.com/vi/s0mVpbw7qm4/hqdefault.jpg",
+      "date": "2026-04-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "If Your Child Is Always Hooked To The Phone... | Sadhguru",
       "description": "",
@@ -7962,5 +7986,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-10T03:55:26.164933"
+  "last_updated": "2026-04-11T03:32:08.935172"
 }
