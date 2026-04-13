@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-13",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-13",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-12",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2016,6 +2027,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Rice or Chapati? What the people of Bharat should learn from one another | Sadhguru",
+      "description": "What the people of Bharat should learn from one another.",
+      "url": "https://www.youtube.com/watch?v=BXEbQb4EVSg",
+      "thumbnail": "https://i.ytimg.com/vi/BXEbQb4EVSg/hqdefault.jpg",
+      "date": "2026-04-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Madness of Mysticism | Sadhguru",
+      "description": "Mysticism is a way of exploring that which cannot be perceived by the five senses. What is the use of it? There is no use.",
+      "url": "https://www.youtube.com/watch?v=_uEMUnVh6uI",
+      "thumbnail": "https://i.ytimg.com/vi/_uEMUnVh6uI/hqdefault.jpg",
+      "date": "2026-04-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Alia Bhatt Asks Sadhguru About Parenting &amp; Fear of Failure | 4K UHD",
       "description": "In a candid and freewheeling conversation, Alia Bhatt speaks with Sadhguru about motherhood, fear of failure, the pressure ...",
@@ -8023,5 +8060,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-12T03:58:11.902725"
+  "last_updated": "2026-04-13T04:15:42.181982"
 }
