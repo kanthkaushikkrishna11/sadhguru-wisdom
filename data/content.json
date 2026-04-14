@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2027,6 +2038,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru&#39;s Parenting Wisdom for Alia Bhatt | Sadhguru",
+      "description": "Alia Bhatt asks Sadhguru for advice for parents who worry about their children. Watch Sadhguru's insightful response. Miracle of ...",
+      "url": "https://www.youtube.com/watch?v=Coe8vOQCfMQ",
+      "thumbnail": "https://i.ytimg.com/vi/Coe8vOQCfMQ/hqdefault.jpg",
+      "date": "2026-04-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Rice or Chapati? What the people of Bharat should learn from one another | Sadhguru",
       "description": "What the people of Bharat should learn from one another.",
@@ -8060,5 +8084,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-13T04:15:42.181982"
+  "last_updated": "2026-04-14T03:56:51.983266"
 }
