@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2049,6 +2060,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Truth About People Who Hurt You | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=g4rSlpSHvEE",
+      "thumbnail": "https://i.ytimg.com/vi/g4rSlpSHvEE/hqdefault.jpg",
+      "date": "2026-04-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Alia Bhatt &amp; Sadhguru – Candid Moments",
+      "description": "Watch the full conversation between Alia Bhatt and Sadhguru on YouTube.",
+      "url": "https://www.youtube.com/watch?v=l1nj-hJKUYs",
+      "thumbnail": "https://i.ytimg.com/vi/l1nj-hJKUYs/hqdefault.jpg",
+      "date": "2026-04-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru&#39;s Parenting Wisdom for Alia Bhatt | Sadhguru",
       "description": "Alia Bhatt asks Sadhguru for advice for parents who worry about their children. Watch Sadhguru's insightful response. Miracle of ...",
@@ -8095,5 +8132,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-15T03:55:39.754650"
+  "last_updated": "2026-04-16T04:10:30.888870"
 }
