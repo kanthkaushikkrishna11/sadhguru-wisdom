@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-17",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-17",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-16",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2060,6 +2071,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Meera Bai’s Bhakti Was Sweet and Crazy | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=8xN5NjPsHrw",
+      "thumbnail": "https://i.ytimg.com/vi/8xN5NjPsHrw/hqdefault.jpg",
+      "date": "2026-04-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Truth About People Who Hurt You | Sadhguru",
       "description": "",
@@ -8132,5 +8156,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-16T04:10:30.888870"
+  "last_updated": "2026-04-17T03:59:03.522686"
 }
