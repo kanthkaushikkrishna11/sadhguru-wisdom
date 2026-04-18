@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-18",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-18",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-17",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2071,6 +2082,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "There Are No Good and Bad People | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VMmy50RUVDY",
+      "thumbnail": "https://i.ytimg.com/vi/VMmy50RUVDY/hqdefault.jpg",
+      "date": "2026-04-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Meets Delaware Leaders",
+      "description": "During his visit to Delaware, Sadhguru was welcomed by the Governor, addressed the Senate, and spent time engaging with ...",
+      "url": "https://www.youtube.com/watch?v=EinRPBxMexM",
+      "thumbnail": "https://i.ytimg.com/vi/EinRPBxMexM/hqdefault.jpg",
+      "date": "2026-04-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Meera Bai’s Bhakti Was Sweet and Crazy | Sadhguru",
       "description": "",
@@ -8156,5 +8193,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-17T03:59:03.522686"
+  "last_updated": "2026-04-18T03:43:53.231519"
 }
