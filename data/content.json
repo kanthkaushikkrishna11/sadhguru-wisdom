@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2093,6 +2104,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Drinking Enough Water? Here’s How to Check | Sadhguru",
+      "description": "Are you drinking enough water? Sadhguru shares a simple way to check, and also explains the crucial link between water intake ...",
+      "url": "https://www.youtube.com/watch?v=xEmfzs9dhCE",
+      "thumbnail": "https://i.ytimg.com/vi/xEmfzs9dhCE/hqdefault.jpg",
+      "date": "2026-04-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Center for Strategic &amp; International Studies Hosts Sadhguru",
+      "description": "On 16 April, the Center for Strategic & International Studies hosted Sadhguru in Washington, D.C., for a discussion on the Save ...",
+      "url": "https://www.youtube.com/watch?v=4zPJ0fAF-xw",
+      "thumbnail": "https://i.ytimg.com/vi/4zPJ0fAF-xw/hqdefault.jpg",
+      "date": "2026-04-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "There Are No Good and Bad People | Sadhguru",
       "description": "",
@@ -8204,5 +8241,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-19T04:10:38.224267"
+  "last_updated": "2026-04-20T04:15:20.847382"
 }
