@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2104,6 +2115,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru’s Powerful Message at the Delaware Senate, USA",
+      "description": "On 15 April, the Delaware State Senate hosted Sadhguru for a special session, where he highlighted the growing challenges of ...",
+      "url": "https://www.youtube.com/watch?v=-9K_vgAQjGQ",
+      "thumbnail": "https://i.ytimg.com/vi/-9K_vgAQjGQ/hqdefault.jpg",
+      "date": "2026-04-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Alia Bhatt Asks Sadhguru – How Many Hours Do You Sleep? | Sadhguru",
+      "description": "Alia Bhatt asks Sadhguru how many hours he sleeps. Hear Sadhguru's response. The event was hosted by JITO Chennai Plus ...",
+      "url": "https://www.youtube.com/watch?v=-8Bd62Mrphw",
+      "thumbnail": "https://i.ytimg.com/vi/-8Bd62Mrphw/hqdefault.jpg",
+      "date": "2026-04-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Drinking Enough Water? Here’s How to Check | Sadhguru",
       "description": "Are you drinking enough water? Sadhguru shares a simple way to check, and also explains the crucial link between water intake ...",
@@ -8241,5 +8278,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-20T04:15:20.847382"
+  "last_updated": "2026-04-21T03:59:23.559226"
 }
