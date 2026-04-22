@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2115,6 +2126,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How to Become Silent? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Yl6kdfdAgWI",
+      "thumbnail": "https://i.ytimg.com/vi/Yl6kdfdAgWI/hqdefault.jpg",
+      "date": "2026-04-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru’s Powerful Message at the Delaware Senate, USA",
       "description": "On 15 April, the Delaware State Senate hosted Sadhguru for a special session, where he highlighted the growing challenges of ...",
@@ -8278,5 +8302,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-21T03:59:23.559226"
+  "last_updated": "2026-04-22T03:55:10.020479"
 }
