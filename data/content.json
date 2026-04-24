@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2137,6 +2148,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Food ≠ Commodity, Food = Life",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_Kr1dGkJ1J8",
+      "thumbnail": "https://i.ytimg.com/vi/_Kr1dGkJ1J8/hqdefault.jpg",
+      "date": "2026-04-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Religion, Wars &amp; Future of Humanity | Prasoon Joshi &amp; Sadhguru",
+      "description": "In this insightful conversation with Sadhguru, poet, songwriter, screenwriter and advertising professional Prasoon Joshi explores ...",
+      "url": "https://www.youtube.com/watch?v=pU7ASTDlmqU",
+      "thumbnail": "https://i.ytimg.com/vi/pU7ASTDlmqU/hqdefault.jpg",
+      "date": "2026-04-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Are You a Bad Driver of Your Mind? | Sadhguru",
+      "description": "Alia Bhatt asks Sadhguru about the last thought on his mind before sleep. Miracle of Mind A free meditation app by Sadhguru Own ...",
+      "url": "https://www.youtube.com/watch?v=3vYEi-3uSws",
+      "thumbnail": "https://i.ytimg.com/vi/3vYEi-3uSws/hqdefault.jpg",
+      "date": "2026-04-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Conscious Music Circle Jam Session In LA | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=XGzNYr_Q07k",
+      "thumbnail": "https://i.ytimg.com/vi/XGzNYr_Q07k/hqdefault.jpg",
+      "date": "2026-04-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru at Kedarnath Temple #Throwback | Sadhguru",
       "description": "Sadhguru: Kedarnath is a tremendous space. The utterance of the sound “Shiva” attains a completely new dimension and ...",
@@ -8339,5 +8402,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-23T04:08:59.349554"
+  "last_updated": "2026-04-24T04:13:12.440950"
 }
