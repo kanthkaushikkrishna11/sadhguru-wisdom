@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2148,6 +2159,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Wars, God-Makers &amp; Quantum Entanglement | Prasoon Joshi &amp; Sadhguru",
+      "description": "In this insightful conversation with Sadhguru, poet, songwriter, screenwriter and advertising professional Prasoon Joshi explores ...",
+      "url": "https://www.youtube.com/watch?v=OHq96ivtFRQ",
+      "thumbnail": "https://i.ytimg.com/vi/OHq96ivtFRQ/hqdefault.jpg",
+      "date": "2026-04-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Food ≠ Commodity, Food = Life",
       "description": "",
@@ -8402,5 +8426,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-24T04:13:12.440950"
+  "last_updated": "2026-04-25T03:47:42.312278"
 }
