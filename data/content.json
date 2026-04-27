@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2170,6 +2181,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How To Reduce Excess Body Heat | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=yk5txSh9bFw",
+      "thumbnail": "https://i.ytimg.com/vi/yk5txSh9bFw/hqdefault.jpg",
+      "date": "2026-04-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Does Sadhguru Have Only One Child? | Sadhguru",
       "description": "On Patrick Bet-David's podcast, Sadhguru spoke about why he never wanted children and why children of spirit are more ...",
@@ -8450,5 +8474,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-26T04:18:39.433995"
+  "last_updated": "2026-04-27T04:25:33.916921"
 }
