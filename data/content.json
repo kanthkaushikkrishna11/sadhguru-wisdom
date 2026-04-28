@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-28",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-28",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-27",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2181,6 +2192,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Disability Isn’t An Obstacle | Sadhguru",
+      "description": "How can we make spiritual possibility available to people with physical or mental disabilities? Sadhguru answers.",
+      "url": "https://www.youtube.com/watch?v=Tkqj5M_bnFE",
+      "thumbnail": "https://i.ytimg.com/vi/Tkqj5M_bnFE/hqdefault.jpg",
+      "date": "2026-04-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru 360 – Coming Soon!",
+      "description": "Sadhguru 360 is a fresh way to experience Sadhguru. What do you think it's about? Take a guess in the comments. Miracle of ...",
+      "url": "https://www.youtube.com/watch?v=XnH-BWI5y5M",
+      "thumbnail": "https://i.ytimg.com/vi/XnH-BWI5y5M/hqdefault.jpg",
+      "date": "2026-04-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Earth Day 2026: US Cities Rally for Save Soil | Sadhguru",
+      "description": "This Earth Day, 30+ cities across America came together to raise their voices for soil. If we don't act now, the very foundation of our ...",
+      "url": "https://www.youtube.com/watch?v=ROg17f1zlPE",
+      "thumbnail": "https://i.ytimg.com/vi/ROg17f1zlPE/hqdefault.jpg",
+      "date": "2026-04-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "How To Reduce Excess Body Heat | Sadhguru",
       "description": "",
@@ -8474,5 +8524,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-27T04:25:33.916921"
+  "last_updated": "2026-04-28T04:29:11.849646"
 }
