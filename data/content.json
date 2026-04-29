@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-29",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-29",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-28",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2192,6 +2203,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru 360 is launching on 1 May – get ready",
+      "description": "Behind the scenes before the big reveal. Sadhguru 360 is launching on 1 May – get ready. In the inaugural episode of Sadhguru ...",
+      "url": "https://www.youtube.com/watch?v=DAG-MrF8pY0",
+      "thumbnail": "https://i.ytimg.com/vi/DAG-MrF8pY0/hqdefault.jpg",
+      "date": "2026-04-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Disability Isn’t An Obstacle | Sadhguru",
       "description": "How can we make spiritual possibility available to people with physical or mental disabilities? Sadhguru answers.",
@@ -8524,5 +8548,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-28T04:29:11.849646"
+  "last_updated": "2026-04-29T04:24:29.497028"
 }
