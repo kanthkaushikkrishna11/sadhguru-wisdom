@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-04-30",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-04-30",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-29",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2203,6 +2214,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Along the Pacific Coast: Montecito to San Francisco | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=h4jkBYByd0Q",
+      "thumbnail": "https://i.ytimg.com/vi/h4jkBYByd0Q/hqdefault.jpg",
+      "date": "2026-04-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru 360 is launching on 1 May – get ready",
       "description": "Behind the scenes before the big reveal. Sadhguru 360 is launching on 1 May – get ready. In the inaugural episode of Sadhguru ...",
@@ -8548,5 +8572,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-29T04:24:29.497028"
+  "last_updated": "2026-04-30T04:27:15.941010"
 }
