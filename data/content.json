@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-01",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-01",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-04-30",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2214,6 +2225,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Stop Poisoning Yourself With Guilt | Sadhguru",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=6zFxH-oCpWc",
+      "thumbnail": "https://i.ytimg.com/vi/6zFxH-oCpWc/hqdefault.jpg",
+      "date": "2026-04-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Temple vs Toilet: Which Is More Important? | Sadhguru",
+      "description": "Sadhguru: Activity should never be about yourself. How you are is about you. Activity should be about the situations in which you ...",
+      "url": "https://www.youtube.com/watch?v=Mcg8VoWU364",
+      "thumbnail": "https://i.ytimg.com/vi/Mcg8VoWU364/hqdefault.jpg",
+      "date": "2026-04-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "How the Hindu Calendar Aligns You with the Cosmos | Sadhguru 360",
+      "description": "In the inaugural episode of the Sadhguru 360 series, Sadhguru explores the profound nature of time through the lens of the ...",
+      "url": "https://www.youtube.com/watch?v=vkow6IyuaVo",
+      "thumbnail": "https://i.ytimg.com/vi/vkow6IyuaVo/hqdefault_live.jpg",
+      "date": "2026-05-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Along the Pacific Coast: Montecito to San Francisco | Sadhguru",
       "description": "",
@@ -8572,5 +8622,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-04-30T04:27:15.941010"
+  "last_updated": "2026-05-01T04:43:01.463133"
 }
