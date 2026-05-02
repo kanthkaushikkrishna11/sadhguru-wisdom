@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-02",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-02",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-01",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2225,6 +2236,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "What Gautama Buddha Discovered On This Day | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=2bVhhly9YKY",
+      "thumbnail": "https://i.ytimg.com/vi/2bVhhly9YKY/hqdefault.jpg",
+      "date": "2026-05-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru 360: Launches Today at 5 PM",
+      "description": "Sadhguru 360 launches today at 5 PM. Sadhguru 360 is a new monthly offering where Sadhguru explores life's most pressing ...",
+      "url": "https://www.youtube.com/watch?v=fuUwzQ_uXZg",
+      "thumbnail": "https://i.ytimg.com/vi/fuUwzQ_uXZg/hqdefault.jpg",
+      "date": "2026-05-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Power of Hindu Calendar | Sadhguru 360",
+      "description": "In the inaugural episode of Sadhguru 360, a new monthly offering, Sadhguru explores the nature of time through the ancient ...",
+      "url": "https://www.youtube.com/watch?v=u_82_Fy1XzU",
+      "thumbnail": "https://i.ytimg.com/vi/u_82_Fy1XzU/hqdefault.jpg",
+      "date": "2026-05-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Stop Poisoning Yourself With Guilt | Sadhguru",
       "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
@@ -8622,5 +8672,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-01T04:43:01.463133"
+  "last_updated": "2026-05-02T04:14:26.724685"
 }
