@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-03",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-03",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-02",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2236,6 +2247,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Stop Blaming the Planets | Sadhguru",
+      "description": "Sadhguru explains why the moon and planets influence, but do not determine, the nature and course of human life. Excerpted ...",
+      "url": "https://www.youtube.com/watch?v=DoEncHeUq7k",
+      "thumbnail": "https://i.ytimg.com/vi/DoEncHeUq7k/hqdefault.jpg",
+      "date": "2026-05-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "How Yogis Access Cosmic Secrets | Sadhguru 360",
+      "description": "With an example, Sadhguru elucidates how the cosmos – especially the solar system – influences the human system, and ...",
+      "url": "https://www.youtube.com/watch?v=KrqVbHRZLE4",
+      "thumbnail": "https://i.ytimg.com/vi/KrqVbHRZLE4/hqdefault.jpg",
+      "date": "2026-05-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Gautama Buddha Discovered On This Day | Sadhguru",
       "description": "",
@@ -8672,5 +8709,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-02T04:14:26.724685"
+  "last_updated": "2026-05-03T04:35:40.233204"
 }
