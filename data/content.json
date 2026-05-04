@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2247,6 +2258,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Ancient Hindu Calendar Secrets | Sadhguru 360",
+      "description": "Sadhguru looks at the nature of the Gregorian calendar, the ancient Hindu calendars, and the fundamental difference between the ...",
+      "url": "https://www.youtube.com/watch?v=EhuI6K7H5ow",
+      "thumbnail": "https://i.ytimg.com/vi/EhuI6K7H5ow/hqdefault.jpg",
+      "date": "2026-05-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Stop Blaming the Planets | Sadhguru",
       "description": "Sadhguru explains why the moon and planets influence, but do not determine, the nature and course of human life. Excerpted ...",
@@ -8709,5 +8733,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-03T04:35:40.233204"
+  "last_updated": "2026-05-04T04:35:31.020110"
 }
