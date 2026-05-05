@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-05",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-05",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-04",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2258,6 +2269,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru&#39;s Early Days of Golf",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=1gWj5i9gYhk",
+      "thumbnail": "https://i.ytimg.com/vi/1gWj5i9gYhk/hqdefault.jpg",
+      "date": "2026-05-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Ancient Hindu Calendar Secrets | Sadhguru 360",
       "description": "Sadhguru looks at the nature of the Gregorian calendar, the ancient Hindu calendars, and the fundamental difference between the ...",
@@ -8733,5 +8757,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-04T04:35:31.020110"
+  "last_updated": "2026-05-05T04:11:39.819721"
 }
