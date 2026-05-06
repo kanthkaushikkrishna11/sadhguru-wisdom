@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-06",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-06",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-05",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2269,6 +2280,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru&#39;s Very Own Podcast: Sadhguru 360!",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=cP4n3OmNif4",
+      "thumbnail": "https://i.ytimg.com/vi/cP4n3OmNif4/hqdefault.jpg",
+      "date": "2026-05-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Madness of Spirituality – Unreleased Talk From 2003 | Sadhguru",
+      "description": "During a satsang with meditators in Chicago, Sadhguru unraveled the essence of the spiritual process, why seekers struggle to ...",
+      "url": "https://www.youtube.com/watch?v=Gvriyp2P140",
+      "thumbnail": "https://i.ytimg.com/vi/Gvriyp2P140/hqdefault.jpg",
+      "date": "2026-05-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Watch This If You Pray To God | Sadhguru",
+      "description": "Prayer means you are trying to tell God what to do. Meditation means you understand what a ridiculous idea it is to tell the basis of ...",
+      "url": "https://www.youtube.com/watch?v=MN5URnmBsr4",
+      "thumbnail": "https://i.ytimg.com/vi/MN5URnmBsr4/hqdefault.jpg",
+      "date": "2026-05-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru&#39;s Early Days of Golf",
       "description": "",
@@ -8757,5 +8807,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-05T04:11:39.819721"
+  "last_updated": "2026-05-06T04:29:07.814534"
 }
