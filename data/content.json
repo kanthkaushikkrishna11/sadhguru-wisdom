@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-07",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-07",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-06",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2280,6 +2291,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "What’s Holding You Back from Enlightenment | Sadhguru",
+      "description": "During a satsang with meditators in Chicago, Sadhguru unraveled the essence of the spiritual process, why seekers struggle to ...",
+      "url": "https://www.youtube.com/watch?v=OyOILaclsZg",
+      "thumbnail": "https://i.ytimg.com/vi/OyOILaclsZg/hqdefault.jpg",
+      "date": "2026-05-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru on the 2026 Assembly Election Results | NDTV Interview",
+      "description": "With the results of India's 2026 state elections in, NDTV's Padmaja Joshi sits down with Sadhguru to discuss the key wins and ...",
+      "url": "https://www.youtube.com/watch?v=Arw8-1YR2Ys",
+      "thumbnail": "https://i.ytimg.com/vi/Arw8-1YR2Ys/hqdefault.jpg",
+      "date": "2026-05-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru&#39;s Very Own Podcast: Sadhguru 360!",
       "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
@@ -8807,5 +8844,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-06T04:29:07.814534"
+  "last_updated": "2026-05-07T04:29:32.753170"
 }
