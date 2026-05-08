@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-08",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-08",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-07",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2291,6 +2302,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "What Bengal Lost to Violence | Sadhguru",
+      "description": "From the time of the Mahabharata, Bengal was known for its art, music, and literature. Much of that has been lost because of the ...",
+      "url": "https://www.youtube.com/watch?v=hLID--sMYHk",
+      "thumbnail": "https://i.ytimg.com/vi/hLID--sMYHk/hqdefault.jpg",
+      "date": "2026-05-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Busy or Preoccupied? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=hOC41r7bZrM",
+      "thumbnail": "https://i.ytimg.com/vi/hOC41r7bZrM/hqdefault.jpg",
+      "date": "2026-05-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What’s Holding You Back from Enlightenment | Sadhguru",
       "description": "During a satsang with meditators in Chicago, Sadhguru unraveled the essence of the spiritual process, why seekers struggle to ...",
@@ -8844,5 +8881,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-07T04:29:32.753170"
+  "last_updated": "2026-05-08T04:11:56.607539"
 }
