@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-09",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-09",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-08",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2302,6 +2313,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Assam Is In Good Hands | Sadhguru",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=uN0kFHz9jaE",
+      "thumbnail": "https://i.ytimg.com/vi/uN0kFHz9jaE/hqdefault.jpg",
+      "date": "2026-05-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Pornography Can Ruin Your Life | Sadhguru",
+      "description": "On Patrick Bet-David's podcast, Sadhguru spoke about the limitations of sexuality and how pornography can ruin one's life.",
+      "url": "https://www.youtube.com/watch?v=rzOewLt4v5A",
+      "thumbnail": "https://i.ytimg.com/vi/rzOewLt4v5A/hqdefault.jpg",
+      "date": "2026-05-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Bengal Lost to Violence | Sadhguru",
       "description": "From the time of the Mahabharata, Bengal was known for its art, music, and literature. Much of that has been lost because of the ...",
@@ -8881,5 +8918,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-08T04:11:56.607539"
+  "last_updated": "2026-05-09T04:18:16.420564"
 }
