@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2313,6 +2324,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Does Sanatan Need Political Protection? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=oMLCPEyqVNo",
+      "thumbnail": "https://i.ytimg.com/vi/oMLCPEyqVNo/hqdefault.jpg",
+      "date": "2026-05-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Natural Way to Stay Cool in Summer | Sadhguru",
+      "description": "Sadhguru looks at how farmers in southern India beat the summer heat the natural way. Excerpted from the first episode of ...",
+      "url": "https://www.youtube.com/watch?v=WEfVCuJoqdg",
+      "thumbnail": "https://i.ytimg.com/vi/WEfVCuJoqdg/hqdefault.jpg",
+      "date": "2026-05-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Assam Is In Good Hands | Sadhguru",
       "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
@@ -8918,5 +8955,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-09T04:18:16.420564"
+  "last_updated": "2026-05-10T04:38:45.224508"
 }
