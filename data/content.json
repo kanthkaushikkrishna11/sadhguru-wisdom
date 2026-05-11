@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-11",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-11",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-10",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2324,6 +2335,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "What Tamil Nadu&#39;s Vijay Should Do As CM | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=6z2b96NIrGk",
+      "thumbnail": "https://i.ytimg.com/vi/6z2b96NIrGk/hqdefault.jpg",
+      "date": "2026-05-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "How Parents Come In Their Children&#39;s Way | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=8uLzLYRwtSw",
+      "thumbnail": "https://i.ytimg.com/vi/8uLzLYRwtSw/hqdefault.jpg",
+      "date": "2026-05-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Choosing the Spiritual Path: Clarity &amp; Family Resistance | Sadhguru",
+      "description": "Is your spiritual path hurting your family? In a satsang with meditators in 2007, Sadhguru explored the delicate balance between ...",
+      "url": "https://www.youtube.com/watch?v=QTJw_qp42OA",
+      "thumbnail": "https://i.ytimg.com/vi/QTJw_qp42OA/hqdefault.jpg",
+      "date": "2026-05-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Motherhood &amp; Career – Can They Go Together? | Sadhguru",
+      "description": "A woman's value should not be determined by how much or whether she earns. If she works because there is an economic need ...",
+      "url": "https://www.youtube.com/watch?v=7CQPZczBa54",
+      "thumbnail": "https://i.ytimg.com/vi/7CQPZczBa54/hqdefault.jpg",
+      "date": "2026-05-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Does Sanatan Need Political Protection? | Sadhguru",
       "description": "",
@@ -8955,5 +9018,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-10T04:38:45.224508"
+  "last_updated": "2026-05-11T04:53:48.338490"
 }
