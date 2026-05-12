@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-12",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-12",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-11",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2335,6 +2346,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Mystery of Kalabhairava | Sadhguru 360 | Episode 2",
+      "description": "In Episode 2 of Sadhguru 360, Sadhguru delves into the mystery of Kalabhairava, the fierce form of Shiva that destroys time.",
+      "url": "https://www.youtube.com/watch?v=zqb1Teav58U",
+      "thumbnail": "https://i.ytimg.com/vi/zqb1Teav58U/hqdefault.jpg",
+      "date": "2026-05-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Ice Water Is Not Good For You | Sadhguru",
+      "description": "Do you add ice cubes to your water? You might want to reconsider! Sadhguru shares surprising insights on how to drink water for ...",
+      "url": "https://www.youtube.com/watch?v=cyEHGJVV02c",
+      "thumbnail": "https://i.ytimg.com/vi/cyEHGJVV02c/hqdefault.jpg",
+      "date": "2026-05-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Planets Shouldn&#39;t Dictate Your Life | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=iQOprgF7yKc",
+      "thumbnail": "https://i.ytimg.com/vi/iQOprgF7yKc/hqdefault.jpg",
+      "date": "2026-05-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Tamil Nadu&#39;s Vijay Should Do As CM | Sadhguru",
       "description": "",
@@ -9018,5 +9068,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-11T04:53:48.338490"
+  "last_updated": "2026-05-12T04:31:08.218527"
 }
