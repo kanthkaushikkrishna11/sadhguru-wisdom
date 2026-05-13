@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-13",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-13",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-12",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2346,6 +2357,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "When Sadhguru’s Sister Became a Monk | Sadhguru",
+      "description": "Is your spiritual path hurting your family? In a satsang with meditators in 2007, Sadhguru explored the delicate balance between ...",
+      "url": "https://www.youtube.com/watch?v=HXB3ilFO4_8",
+      "thumbnail": "https://i.ytimg.com/vi/HXB3ilFO4_8/hqdefault.jpg",
+      "date": "2026-05-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Mystery of Kalabhairava | Sadhguru 360 | Episode 2",
       "description": "In Episode 2 of Sadhguru 360, Sadhguru delves into the mystery of Kalabhairava, the fierce form of Shiva that destroys time.",
@@ -9068,5 +9092,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-12T04:31:08.218527"
+  "last_updated": "2026-05-13T04:37:27.386014"
 }
