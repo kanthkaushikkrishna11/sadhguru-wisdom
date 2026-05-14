@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2357,6 +2368,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Don’t Ever Work Hard | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=AGfOrV0jCBg",
+      "thumbnail": "https://i.ytimg.com/vi/AGfOrV0jCBg/hqdefault.jpg",
+      "date": "2026-05-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Your Life Is Ruined If You Do This | Sadhguru",
+      "description": "Are you constantly chasing goals and comparing yourself to others' success? Sadhguru challenges you to look beyond material ...",
+      "url": "https://www.youtube.com/watch?v=J2yLVKZWEMM",
+      "thumbnail": "https://i.ytimg.com/vi/J2yLVKZWEMM/hqdefault.jpg",
+      "date": "2026-05-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "When Sadhguru’s Sister Became a Monk | Sadhguru",
       "description": "Is your spiritual path hurting your family? In a satsang with meditators in 2007, Sadhguru explored the delicate balance between ...",
@@ -9092,5 +9129,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-13T04:37:27.386014"
+  "last_updated": "2026-05-14T04:36:23.911108"
 }
