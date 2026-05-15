@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2368,6 +2379,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Food Secrets of Kohli, Messi &amp; Djokovic | Sadhguru",
+      "description": "Plant-based food is often dismissed as “not enough protein.” But if that were true, how do some of the greatest athletes in the ...",
+      "url": "https://www.youtube.com/watch?v=6j--dEkcgPE",
+      "thumbnail": "https://i.ytimg.com/vi/6j--dEkcgPE/hqdefault.jpg",
+      "date": "2026-05-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Kalabhairava Sthapana by Sadhguru on Phalguna Purnima",
+      "description": "On the auspicious night of Phalguna Purnima (3 March), Sadhguru conducted Kalabhairava Sthapana, part of the Kalabhairava ...",
+      "url": "https://www.youtube.com/watch?v=Gjf8fidg3pQ",
+      "thumbnail": "https://i.ytimg.com/vi/Gjf8fidg3pQ/hqdefault.jpg",
+      "date": "2026-05-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Ash – A Poem by Sadhguru",
+      "description": "Ash Before my Body and My Bones Turn into nascent Ash let the Power and Beauty of My Being touch this World. Let my Breath ...",
+      "url": "https://www.youtube.com/watch?v=wqHzZ129eNQ",
+      "thumbnail": "https://i.ytimg.com/vi/wqHzZ129eNQ/hqdefault.jpg",
+      "date": "2026-05-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Don’t Ever Work Hard | Sadhguru",
       "description": "",
@@ -9129,5 +9179,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-14T04:36:23.911108"
+  "last_updated": "2026-05-15T04:42:35.655062"
 }
