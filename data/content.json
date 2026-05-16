@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2379,6 +2390,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "This Will Remove Your Fear Of Death | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=6Yvrks3oBtM",
+      "thumbnail": "https://i.ytimg.com/vi/6Yvrks3oBtM/hqdefault.jpg",
+      "date": "2026-05-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Food Secrets of Kohli, Messi &amp; Djokovic | Sadhguru",
       "description": "Plant-based food is often dismissed as “not enough protein.” But if that were true, how do some of the greatest athletes in the ...",
@@ -9179,5 +9203,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-15T04:42:35.655062"
+  "last_updated": "2026-05-16T04:23:34.504478"
 }
