@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-17",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-17",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-16",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2390,6 +2401,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A joyful world is a natural breeding ground for peace, love and compassion | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=mnnZsMBl25g",
+      "thumbnail": "https://i.ytimg.com/vi/mnnZsMBl25g/hqdefault.jpg",
+      "date": "2026-05-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Relationships Fail | Sadhguru",
+      "description": "Sadhguru looks at the main reason why relationships turn bitter over time.",
+      "url": "https://www.youtube.com/watch?v=RC9G0cq3YiI",
+      "thumbnail": "https://i.ytimg.com/vi/RC9G0cq3YiI/hqdefault.jpg",
+      "date": "2026-05-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "This Will Remove Your Fear Of Death | Sadhguru",
       "description": "",
@@ -9203,5 +9240,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-16T04:23:34.504478"
+  "last_updated": "2026-05-17T04:46:47.626491"
 }
