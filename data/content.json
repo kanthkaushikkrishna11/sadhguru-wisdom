@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-19",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-19",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-18",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2412,6 +2423,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Rise and Shine | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=kMZwVyoGsic",
+      "thumbnail": "https://i.ytimg.com/vi/kMZwVyoGsic/hqdefault.jpg",
+      "date": "2026-05-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The True Purpose Of Hatha Yoga | Sadhguru",
+      "description": "Sadhguru speaks about how Classical Hatha Yoga can prepare the body in such a way that it no longer stands in the way of a ...",
+      "url": "https://www.youtube.com/watch?v=ya_WcZjl1l0",
+      "thumbnail": "https://i.ytimg.com/vi/ya_WcZjl1l0/hqdefault.jpg",
+      "date": "2026-05-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "22 Seconds In The Sky – Sadhguru’s First Hang Glider | Sadhguru",
       "description": "Sadhguru recalls his first hang glider experience to remind us that body and mind must be held the right way to explore higher ...",
@@ -9264,5 +9301,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-18T05:01:02.155355"
+  "last_updated": "2026-05-19T04:53:15.128055"
 }
