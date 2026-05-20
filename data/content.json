@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2423,6 +2434,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Belief Is Psychological Alcohol | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=JVqN4gAjPxQ",
+      "thumbnail": "https://i.ytimg.com/vi/JVqN4gAjPxQ/hqdefault.jpg",
+      "date": "2026-05-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Biggest Barrier to Your Growth | Sadhguru",
+      "description": "In a satsang in Mumbai in 2004, Sadhguru answered seekers' profound questions on topics ranging from likes and dislikes, ego, ...",
+      "url": "https://www.youtube.com/watch?v=ssl2FOGbJac",
+      "thumbnail": "https://i.ytimg.com/vi/ssl2FOGbJac/hqdefault.jpg",
+      "date": "2026-05-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "What You LIKE Can Also Hold You Back | Sadhguru",
+      "description": "In a satsang in Mumbai in 2004, Sadhguru answered seekers' profound questions on topics ranging from likes and dislikes, ego, ...",
+      "url": "https://www.youtube.com/watch?v=qgpvtyMb4Hw",
+      "thumbnail": "https://i.ytimg.com/vi/qgpvtyMb4Hw/hqdefault.jpg",
+      "date": "2026-05-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "There is no giving, taking, or making love. You can only Be Love | Sadhguru",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=jmgJbZlkqeg",
+      "thumbnail": "https://i.ytimg.com/vi/jmgJbZlkqeg/hqdefault.jpg",
+      "date": "2026-05-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Rise and Shine | Sadhguru",
       "description": "",
@@ -9301,5 +9364,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-19T04:53:15.128055"
+  "last_updated": "2026-05-20T04:57:21.423594"
 }
