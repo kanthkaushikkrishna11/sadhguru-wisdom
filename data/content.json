@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2434,6 +2445,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Simplest Constipation Remedy | Sadhguru",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=k8yWB1Zk06M",
+      "thumbnail": "https://i.ytimg.com/vi/k8yWB1Zk06M/hqdefault.jpg",
+      "date": "2026-05-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Belief Is Psychological Alcohol | Sadhguru",
       "description": "",
@@ -9364,5 +9388,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-20T04:57:21.423594"
+  "last_updated": "2026-05-21T05:03:05.417878"
 }
