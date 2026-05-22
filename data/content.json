@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2445,6 +2456,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "This Human Machine Can Soar | Sadhguru",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=I1zE5SFe7Y4",
+      "thumbnail": "https://i.ytimg.com/vi/I1zE5SFe7Y4/hqdefault.jpg",
+      "date": "2026-05-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Simplest Constipation Remedy | Sadhguru",
       "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
@@ -9388,5 +9412,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-21T05:03:05.417878"
+  "last_updated": "2026-05-22T04:54:29.002544"
 }
