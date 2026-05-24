@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2467,6 +2478,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Put Your Rubbish Aside | Sadhguru",
+      "description": "Devotion is not about fear of god. It means an absence of your rubbish. When you understand the limitations of the intellect, that it ...",
+      "url": "https://www.youtube.com/watch?v=gQ4IYJSy3f8",
+      "thumbnail": "https://i.ytimg.com/vi/gQ4IYJSy3f8/hqdefault.jpg",
+      "date": "2026-05-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Some fun father-daughter adventures | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=XpUNSxgyVBw",
+      "thumbnail": "https://i.ytimg.com/vi/XpUNSxgyVBw/hqdefault.jpg",
+      "date": "2026-05-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Does Sadhguru Do For A Living? | Sadhguru",
       "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
@@ -9436,5 +9473,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-23T04:32:18.296125"
+  "last_updated": "2026-05-24T04:57:08.445001"
 }
