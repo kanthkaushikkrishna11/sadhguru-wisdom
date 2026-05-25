@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2478,6 +2489,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Most Beautiful Planet We Know | Sadhguru",
+      "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
+      "url": "https://www.youtube.com/watch?v=Uv4n_bMuAFU",
+      "thumbnail": "https://i.ytimg.com/vi/Uv4n_bMuAFU/hqdefault.jpg",
+      "date": "2026-05-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Put Your Rubbish Aside | Sadhguru",
       "description": "Devotion is not about fear of god. It means an absence of your rubbish. When you understand the limitations of the intellect, that it ...",
@@ -9473,5 +9497,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-24T04:57:08.445001"
+  "last_updated": "2026-05-25T05:14:17.068648"
 }
