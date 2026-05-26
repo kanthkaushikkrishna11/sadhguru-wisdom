@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2489,6 +2500,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "When Radhe Wanted to Marry a Musician | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=RssLFlYzoVU",
+      "thumbnail": "https://i.ytimg.com/vi/RssLFlYzoVU/hqdefault.jpg",
+      "date": "2026-05-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Leaning Tree of Isha | Sadhguru",
+      "description": "Sadhguru explains why transformation is a daily process that requires an atmosphere of nurture. He illustrates this with the story of ...",
+      "url": "https://www.youtube.com/watch?v=F9bMiGte_m0",
+      "thumbnail": "https://i.ytimg.com/vi/F9bMiGte_m0/hqdefault.jpg",
+      "date": "2026-05-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Most Beautiful Planet We Know | Sadhguru",
       "description": "Miracle of Mind A free meditation app by Sadhguru Own your day in just 7 minutes! In English, Hindi, Tamil, Telugu, Spanish ...",
@@ -9497,5 +9534,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-25T05:14:17.068648"
+  "last_updated": "2026-05-26T04:56:30.403086"
 }
