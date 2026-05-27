@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2500,6 +2511,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Life is NOT a Problem | Alia Bhatt &amp; Sadhguru",
+      "description": "You got into a fight and won, but that does not mean anything. Intelligence is in not getting into a fight. If your navigation is good, ...",
+      "url": "https://www.youtube.com/watch?v=RYGq7BhX9J0",
+      "thumbnail": "https://i.ytimg.com/vi/RYGq7BhX9J0/hqdefault.jpg",
+      "date": "2026-05-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "When Radhe Wanted to Marry a Musician | Sadhguru",
       "description": "",
@@ -9534,5 +9558,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-26T04:56:30.403086"
+  "last_updated": "2026-05-27T05:09:06.665749"
 }
