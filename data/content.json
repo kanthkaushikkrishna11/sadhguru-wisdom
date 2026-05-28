@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-28",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-28",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-27",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2511,6 +2522,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "You’re Misunderstanding Karma Completely | Sadhguru",
+      "description": "It can bring you wisdom or bind you and poison your life. The problem is not karma. The problem is how you carry it. -Sg Miracle of ...",
+      "url": "https://www.youtube.com/watch?v=8xl1cANaov0",
+      "thumbnail": "https://i.ytimg.com/vi/8xl1cANaov0/hqdefault.jpg",
+      "date": "2026-05-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Who Is Shankaran Pillai?",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=L24ZYnVXrP8",
+      "thumbnail": "https://i.ytimg.com/vi/L24ZYnVXrP8/hqdefault.jpg",
+      "date": "2026-05-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Everything You Thought About Tantra is Wrong | Sadhguru",
+      "description": "In a satsang with meditators at the Isha Institute of Inner-sciences in 2006, Sadhguru delved into the world of tantra and Yoga.",
+      "url": "https://www.youtube.com/watch?v=cmXK8VscjBY",
+      "thumbnail": "https://i.ytimg.com/vi/cmXK8VscjBY/hqdefault.jpg",
+      "date": "2026-05-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Life is NOT a Problem | Alia Bhatt &amp; Sadhguru",
       "description": "You got into a fight and won, but that does not mean anything. Intelligence is in not getting into a fight. If your navigation is good, ...",
@@ -9558,5 +9608,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-27T05:09:06.665749"
+  "last_updated": "2026-05-28T05:03:04.055892"
 }
