@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-29",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-29",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-28",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2522,6 +2533,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Tantra Secrets Nobody Talks About | Sadhguru",
+      "description": "Sadhguru delves into the world of tantra and Yoga. He shares little‑known stories, including Poosalar's inner temple and ...",
+      "url": "https://www.youtube.com/watch?v=ka_Yx6YjhCA",
+      "thumbnail": "https://i.ytimg.com/vi/ka_Yx6YjhCA/hqdefault.jpg",
+      "date": "2026-05-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Become a Living Example for Your Child | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=85ji9V3SaQk",
+      "thumbnail": "https://i.ytimg.com/vi/85ji9V3SaQk/hqdefault.jpg",
+      "date": "2026-05-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "You’re Misunderstanding Karma Completely | Sadhguru",
       "description": "It can bring you wisdom or bind you and poison your life. The problem is not karma. The problem is how you carry it. -Sg Miracle of ...",
@@ -9608,5 +9645,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-28T05:03:04.055892"
+  "last_updated": "2026-05-29T05:05:15.682811"
 }
