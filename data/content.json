@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-30",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-30",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-29",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2533,6 +2544,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Secret Behind Arjuna’s Success | Sadhguru",
+      "description": "A Mahabharata story that reminds us how essential grace is in life. Sadhguru says the very process of giving can create a space ...",
+      "url": "https://www.youtube.com/watch?v=Ca5ifcl0dBk",
+      "thumbnail": "https://i.ytimg.com/vi/Ca5ifcl0dBk/hqdefault.jpg",
+      "date": "2026-05-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Ranveer Singh Asks Sadhguru: What Is The Purpose Of Life?",
+      "description": "People who are bursting with life do not need a purpose to live. Life is a purpose unto itself. It is too enormous, intricate, and ...",
+      "url": "https://www.youtube.com/watch?v=iFKkqbK9cRE",
+      "thumbnail": "https://i.ytimg.com/vi/iFKkqbK9cRE/hqdefault.jpg",
+      "date": "2026-05-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Tantra Secrets Nobody Talks About | Sadhguru",
       "description": "Sadhguru delves into the world of tantra and Yoga. He shares little‑known stories, including Poosalar's inner temple and ...",
@@ -9645,5 +9682,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-29T05:05:15.682811"
+  "last_updated": "2026-05-30T04:44:01.727598"
 }
