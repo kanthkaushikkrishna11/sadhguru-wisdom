@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-05-31",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-05-31",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-05-30",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2544,6 +2555,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Explore Kalabhairava with Sadhguru on Ep 2 of Sadhguru 360",
+      "description": "Watch the second episode of Sadhguru 360, in which Sadhguru speaks about the various aspects of Kalabhairava, on Adhika ...",
+      "url": "https://www.youtube.com/watch?v=6DNKyrjYY7Q",
+      "thumbnail": "https://i.ytimg.com/vi/6DNKyrjYY7Q/hqdefault.jpg",
+      "date": "2026-05-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru 360 - Ep #2: Kalabhairava &amp; A Yogic Perspective of the Big Bang | 4K UHD",
+      "description": "On the sacred day of Adhika Jyeshta Masa Purnima, Sadhguru explores Kalabhairava, a fierce form of Shiva and the master of the ...",
+      "url": "https://www.youtube.com/watch?v=FH5O8gkrjOU",
+      "thumbnail": "https://i.ytimg.com/vi/FH5O8gkrjOU/hqdefault.jpg",
+      "date": "2026-05-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Secrets of Kalabhairava | Sadhguru",
+      "description": "On the sacred day of Adhika Jyeshta Masa Purnima, Sadhguru explores Kalabhairava, a fierce form of Shiva and the master of the ...",
+      "url": "https://www.youtube.com/watch?v=aCVDUwVyZ_A",
+      "thumbnail": "https://i.ytimg.com/vi/aCVDUwVyZ_A/hqdefault.jpg",
+      "date": "2026-05-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Very few people are Living their lives. The rest are just making a living",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=sRfTRKpBD7c",
+      "thumbnail": "https://i.ytimg.com/vi/sRfTRKpBD7c/hqdefault.jpg",
+      "date": "2026-05-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Secret Behind Arjuna’s Success | Sadhguru",
       "description": "A Mahabharata story that reminds us how essential grace is in life. Sadhguru says the very process of giving can create a space ...",
@@ -9682,5 +9745,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-05-30T04:44:01.727598"
+  "last_updated": "2026-05-31T05:12:32.498188"
 }
