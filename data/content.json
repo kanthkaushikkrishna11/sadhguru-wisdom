@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-02",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-02",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-01",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2566,6 +2577,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Before Einstein, Yogic Culture Knew This",
+      "description": "A Yogic perspective on time and space, and the source of creation. Watch the second episode of Sadhguru 360, in which ...",
+      "url": "https://www.youtube.com/watch?v=eHBZC9qkFPc",
+      "thumbnail": "https://i.ytimg.com/vi/eHBZC9qkFPc/hqdefault.jpg",
+      "date": "2026-06-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "In Your Life, You Must Never Be the Problem | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=G1A7xkMwulE",
+      "thumbnail": "https://i.ytimg.com/vi/G1A7xkMwulE/hqdefault.jpg",
+      "date": "2026-06-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Master of Life &amp; Death | Sadhguru",
       "description": "Sadhguru speaks about Kalabhairava, a fierce manifestation of Shiva, as the master of time, the destroyer of ignorance, and the ...",
@@ -9782,5 +9819,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-01T05:52:50.898293"
+  "last_updated": "2026-06-02T05:22:40.820325"
 }
