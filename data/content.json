@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2588,6 +2599,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "You Can Experience Mahakala | Sadhguru",
+      "description": "Mahakala – the ultimate stillness in whose lap all creation has manifested – and the significance of being human: the ability to ...",
+      "url": "https://www.youtube.com/watch?v=1T6imqXI_HQ",
+      "thumbnail": "https://i.ytimg.com/vi/1T6imqXI_HQ/hqdefault.jpg",
+      "date": "2026-06-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "90s Trend? Ok, let’s do it! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=tKVmAQ8kKL8",
+      "thumbnail": "https://i.ytimg.com/vi/tKVmAQ8kKL8/hqdefault.jpg",
+      "date": "2026-06-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Farm vs Supermarket: Ian Somerhalder &amp; Sadhguru Guess",
+      "description": "Sadhguru and Ian Somerhalder take on a fun challenge to see if they can tell the difference between farm‑fresh fruit and ...",
+      "url": "https://www.youtube.com/watch?v=jEwxkPqLZe8",
+      "thumbnail": "https://i.ytimg.com/vi/jEwxkPqLZe8/hqdefault.jpg",
+      "date": "2026-06-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Path of Kriya – Watch only on Sadhguru Exclusive",
       "description": "",
@@ -9843,5 +9893,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-03T05:55:39.208474"
+  "last_updated": "2026-06-04T05:49:45.727710"
 }
