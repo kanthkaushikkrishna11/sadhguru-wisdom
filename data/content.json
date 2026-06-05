@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-05",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-05",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-04",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2599,6 +2610,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Make This High-Energy Superfood Your Staple Diet | Sadhguru",
+      "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
+      "url": "https://www.youtube.com/watch?v=-J4sLHm1uoA",
+      "thumbnail": "https://i.ytimg.com/vi/-J4sLHm1uoA/hqdefault.jpg",
+      "date": "2026-06-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Soil Conversation We Need | Sadhguru",
+      "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
+      "url": "https://www.youtube.com/watch?v=ou79tDu2_SI",
+      "thumbnail": "https://i.ytimg.com/vi/ou79tDu2_SI/hqdefault.jpg",
+      "date": "2026-06-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "You Can Experience Mahakala | Sadhguru",
       "description": "Mahakala – the ultimate stillness in whose lap all creation has manifested – and the significance of being human: the ability to ...",
@@ -9893,5 +9930,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-04T05:49:45.727710"
+  "last_updated": "2026-06-05T05:09:22.838333"
 }
