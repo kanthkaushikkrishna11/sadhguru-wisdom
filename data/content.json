@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-06",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-06",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-05",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2610,6 +2621,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "This Is When Your Child Needs Attention | Sadhguru",
+      "description": "Right from childhood, if you are miserable, you get attention. If you are joyful, you get scolded. This must change. Joy should get ...",
+      "url": "https://www.youtube.com/watch?v=wYKoUbQ4rZY",
+      "thumbnail": "https://i.ytimg.com/vi/wYKoUbQ4rZY/hqdefault.jpg",
+      "date": "2026-06-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Most Urgent Need of the Hour | Ian Somerhalder &amp; Sadhguru | 4K UHD",
+      "description": "In a captivating conversation with Sadhguru, actor, environmentalist, and entrepreneur Ian Somerhalder delves into the critical ...",
+      "url": "https://www.youtube.com/watch?v=vPyT6mNgAN8",
+      "thumbnail": "https://i.ytimg.com/vi/vPyT6mNgAN8/hqdefault.jpg",
+      "date": "2026-06-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Make This High-Energy Superfood Your Staple Diet | Sadhguru",
       "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
@@ -9930,5 +9967,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-05T05:09:22.838333"
+  "last_updated": "2026-06-06T04:45:52.517592"
 }
