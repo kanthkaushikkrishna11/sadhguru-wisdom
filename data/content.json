@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-07",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-07",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-06",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2621,6 +2632,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Ian Somerhalder in Conversation with Sadhguru",
+      "description": "In a captivating conversation with Sadhguru, actor, environmentalist, and entrepreneur Ian Somerhalder delves into the critical ...",
+      "url": "https://www.youtube.com/watch?v=QL-MwesDk8k",
+      "thumbnail": "https://i.ytimg.com/vi/QL-MwesDk8k/hqdefault.jpg",
+      "date": "2026-06-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "This Is When Your Child Needs Attention | Sadhguru",
       "description": "Right from childhood, if you are miserable, you get attention. If you are joyful, you get scolded. This must change. Joy should get ...",
@@ -9967,5 +9991,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-06T04:45:52.517592"
+  "last_updated": "2026-06-07T05:15:40.699536"
 }
