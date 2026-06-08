@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-08",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-08",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-07",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2632,6 +2643,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Ian Somerhalder Features Sadhguru In A Blind Food Test",
+      "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
+      "url": "https://www.youtube.com/watch?v=UcaWlVb8FGA",
+      "thumbnail": "https://i.ytimg.com/vi/UcaWlVb8FGA/hqdefault.jpg",
+      "date": "2026-06-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Ian Somerhalder in Conversation with Sadhguru",
       "description": "In a captivating conversation with Sadhguru, actor, environmentalist, and entrepreneur Ian Somerhalder delves into the critical ...",
@@ -9991,5 +10015,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-07T05:15:40.699536"
+  "last_updated": "2026-06-08T05:22:44.158517"
 }
