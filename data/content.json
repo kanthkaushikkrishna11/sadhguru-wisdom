@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-09",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-09",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-08",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2643,6 +2654,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Should You Care For Your Parents? | Sadhguru",
+      "description": "If you lose your gratitude, you are forsaking your humanity. Gratitude keeps you sensitive to the contributions that make your life ...",
+      "url": "https://www.youtube.com/watch?v=eDePWvr45Fo",
+      "thumbnail": "https://i.ytimg.com/vi/eDePWvr45Fo/hqdefault.jpg",
+      "date": "2026-06-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Ian Somerhalder Features Sadhguru In A Blind Food Test",
       "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
@@ -10015,5 +10039,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-08T05:22:44.158517"
+  "last_updated": "2026-06-09T04:57:56.936754"
 }
