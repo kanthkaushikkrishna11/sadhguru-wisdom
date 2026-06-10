@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2654,6 +2665,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Avoid This Food For Better Focus &amp; Alertness | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=YReSvx8SG9E",
+      "thumbnail": "https://i.ytimg.com/vi/YReSvx8SG9E/hqdefault.jpg",
+      "date": "2026-06-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Tale of 2 Extraordinary Devotees | Sadhguru",
+      "description": "Discover the transformative power of devotion as Sadhguru shares two heartwarming stories: Shabari, who waited decades for ...",
+      "url": "https://www.youtube.com/watch?v=wSMpQTiDQJE",
+      "thumbnail": "https://i.ytimg.com/vi/wSMpQTiDQJE/hqdefault.jpg",
+      "date": "2026-06-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Devotee Who Waited 70 Years for Rama | Sadhguru",
+      "description": "Sadhguru shares two heartwarming stories: Shabari, who waited decades for Rama, and an 80‑year‑old Yogi who climbed the ...",
+      "url": "https://www.youtube.com/watch?v=r0l3UMoZiaA",
+      "thumbnail": "https://i.ytimg.com/vi/r0l3UMoZiaA/hqdefault.jpg",
+      "date": "2026-06-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Should You Care For Your Parents? | Sadhguru",
       "description": "If you lose your gratitude, you are forsaking your humanity. Gratitude keeps you sensitive to the contributions that make your life ...",
@@ -10039,5 +10089,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-09T04:57:56.936754"
+  "last_updated": "2026-06-10T05:09:31.723958"
 }
