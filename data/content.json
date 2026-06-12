@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-12",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-12",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-11",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2676,6 +2687,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru in Malaysia - Soak in Ecstasy of Enlightenment | 11 Oct 2026",
+      "description": "On 11 October 2026, Sadhguru will conduct an advanced experiential program in Malaysia – a rare opportunity to spend an entire ...",
+      "url": "https://www.youtube.com/watch?v=DBjsuaiD0sk",
+      "thumbnail": "https://i.ytimg.com/vi/DBjsuaiD0sk/hqdefault.jpg",
+      "date": "2026-06-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Akbar Carried Ganga Jal | Sadhguru",
       "description": "",
@@ -10126,5 +10150,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-11T05:20:53.419580"
+  "last_updated": "2026-06-12T05:25:07.953115"
 }
