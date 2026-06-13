@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-13",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-13",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-12",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2687,6 +2698,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Dance of Destiny – Now Live on Sadhguru Exclusive",
+      "description": "In the twelfth series of the Mahabharat “super-series” on Sadhguru Exclusive, Sadhguru explores destiny, the past lives of various ...",
+      "url": "https://www.youtube.com/watch?v=MAAmVTF5ZGw",
+      "thumbnail": "https://i.ytimg.com/vi/MAAmVTF5ZGw/hqdefault.jpg",
+      "date": "2026-06-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Live in the Lap of Grace | Sadhguru",
+      "description": "Ishanga 7% is a profound partnership with Sadhguru and an opportunity to make grace a constant companion in your life.",
+      "url": "https://www.youtube.com/watch?v=JuxMbvfcfdw",
+      "thumbnail": "https://i.ytimg.com/vi/JuxMbvfcfdw/hqdefault.jpg",
+      "date": "2026-06-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru in Malaysia - Soak in Ecstasy of Enlightenment | 11 Oct 2026",
       "description": "On 11 October 2026, Sadhguru will conduct an advanced experiential program in Malaysia – a rare opportunity to spend an entire ...",
@@ -10150,5 +10187,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-12T05:25:07.953115"
+  "last_updated": "2026-06-13T05:14:23.367869"
 }
