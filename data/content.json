@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2698,6 +2709,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "If what&#39;s happening within you is determined by you, you are liberated | Sadhguru",
+      "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
+      "url": "https://www.youtube.com/watch?v=lrv_OiQCQFg",
+      "thumbnail": "https://i.ytimg.com/vi/lrv_OiQCQFg/hqdefault.jpg",
+      "date": "2026-06-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Dance of Destiny – Now Live on Sadhguru Exclusive",
       "description": "In the twelfth series of the Mahabharat “super-series” on Sadhguru Exclusive, Sadhguru explores destiny, the past lives of various ...",
@@ -10187,5 +10211,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-13T05:14:23.367869"
+  "last_updated": "2026-06-14T05:23:43.567139"
 }
