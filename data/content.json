@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2709,6 +2720,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Stop Being a Bloody Fool! | Sadhguru",
+      "description": "Excerpted from Sadhguru's satsang with the trainees of the 2025 batch of the Hatha Yoga Teacher Training Program at the Isha ...",
+      "url": "https://www.youtube.com/watch?v=qzuIv9lApDs",
+      "thumbnail": "https://i.ytimg.com/vi/qzuIv9lApDs/hqdefault.jpg",
+      "date": "2026-06-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "If what&#39;s happening within you is determined by you, you are liberated | Sadhguru",
       "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
@@ -10211,5 +10235,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-14T05:23:43.567139"
+  "last_updated": "2026-06-15T06:13:42.757038"
 }
