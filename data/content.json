@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2720,6 +2731,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "A Machine That Never Sleeps | Sadhguru",
+      "description": "Sadhguru speaks about the nature of the Bhairavi Yantra – a non-physical machine which can bring immense wellbeing to one's ...",
+      "url": "https://www.youtube.com/watch?v=8uAnvqaIIaw",
+      "thumbnail": "https://i.ytimg.com/vi/8uAnvqaIIaw/hqdefault.jpg",
+      "date": "2026-06-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "You Shouldn’t Ignore Your Gut Health | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=2S-1I6uRLjk",
+      "thumbnail": "https://i.ytimg.com/vi/2S-1I6uRLjk/hqdefault.jpg",
+      "date": "2026-06-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Mangoes!.......Mangoes..Mangoes..Mangoes",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=37oyv7iOm9Q",
+      "thumbnail": "https://i.ytimg.com/vi/37oyv7iOm9Q/hqdefault.jpg",
+      "date": "2026-06-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Stop Being a Bloody Fool! | Sadhguru",
       "description": "Excerpted from Sadhguru's satsang with the trainees of the 2025 batch of the Hatha Yoga Teacher Training Program at the Isha ...",
@@ -10235,5 +10285,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-15T06:13:42.757038"
+  "last_updated": "2026-06-16T06:24:25.157181"
 }
