@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-18",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-18",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-17",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2742,6 +2753,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Better to Walk Alone Than With a Fool | Sadhguru",
+      "description": "Sadhguru explores the importance of nurturing environments, the pitfalls of so-called new-age spirituality, and the path to living a ...",
+      "url": "https://www.youtube.com/watch?v=z_wInyulJaQ",
+      "thumbnail": "https://i.ytimg.com/vi/z_wInyulJaQ/hqdefault.jpg",
+      "date": "2026-06-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Ghosts, Miracles &amp; Mukti – Unreleased Talk from 2003 | Sadhguru",
+      "description": "In an intimate satsang with meditators in Atlanta in 2003, Sadhguru demystified miracles, ghosts, enlightenment, grace, god, ...",
+      "url": "https://www.youtube.com/watch?v=GJk6QqIyUeI",
+      "thumbnail": "https://i.ytimg.com/vi/GJk6QqIyUeI/hqdefault.jpg",
+      "date": "2026-06-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru sings Dr. Rajkumar&#39;s &quot;Shivappa Kaayo Thande&quot; - a classic Kannada devotional song.",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0aTkyNwtZ88",
+      "thumbnail": "https://i.ytimg.com/vi/0aTkyNwtZ88/hqdefault.jpg",
+      "date": "2026-06-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "A Machine That Never Sleeps | Sadhguru",
       "description": "Sadhguru speaks about the nature of the Bhairavi Yantra – a non-physical machine which can bring immense wellbeing to one's ...",
@@ -10296,5 +10346,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-17T06:00:05.305247"
+  "last_updated": "2026-06-18T05:27:46.489143"
 }
