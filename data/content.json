@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2764,6 +2775,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Mike Tyson &amp; Sadhguru: Candid Banter",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ikb3Nc_e-UU",
+      "thumbnail": "https://i.ytimg.com/vi/ikb3Nc_e-UU/hqdefault.jpg",
+      "date": "2026-06-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Better to Walk Alone Than With a Fool | Sadhguru",
       "description": "Sadhguru explores the importance of nurturing environments, the pitfalls of so-called new-age spirituality, and the path to living a ...",
@@ -10357,5 +10381,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-19T06:08:10.806269"
+  "last_updated": "2026-06-20T05:02:46.123014"
 }
