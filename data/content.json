@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2775,6 +2786,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "You Need A 24-Hour Break. Here&#39;s Why! | Sadhguru",
+      "description": "If you sit alone for 24 hours without any activity, and simply watch the nature of your mind, you will know how compulsive your ...",
+      "url": "https://www.youtube.com/watch?v=VQhuicdjuqo",
+      "thumbnail": "https://i.ytimg.com/vi/VQhuicdjuqo/hqdefault.jpg",
+      "date": "2026-06-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Great Day in Just 20 Seconds | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=AHLuYstARD8",
+      "thumbnail": "https://i.ytimg.com/vi/AHLuYstARD8/hqdefault.jpg",
+      "date": "2026-06-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Mike Tyson &amp; Sadhguru: Candid Banter",
       "description": "",
@@ -10381,5 +10418,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-20T05:02:46.123014"
+  "last_updated": "2026-06-21T05:52:29.215181"
 }
