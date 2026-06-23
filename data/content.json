@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-23",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-23",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-22",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2797,6 +2808,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Doubt Is Good | Sadhguru",
+      "description": "Everybody says, “Believe in yourself.” I would say, first learn to doubt yourself. If something goes wrong, look within and see, ...",
+      "url": "https://www.youtube.com/watch?v=pRf5yu1gmi4",
+      "thumbnail": "https://i.ytimg.com/vi/pRf5yu1gmi4/hqdefault.jpg",
+      "date": "2026-06-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Stop Fighting Your Sweet Cravings | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=aTzqfgN2Ozc",
+      "thumbnail": "https://i.ytimg.com/vi/aTzqfgN2Ozc/hqdefault.jpg",
+      "date": "2026-06-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "We are all striving for the same thing – fulfillment | Sadhguru",
       "description": "",
@@ -10442,5 +10479,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-22T06:21:46.772901"
+  "last_updated": "2026-06-23T04:53:34.723382"
 }
