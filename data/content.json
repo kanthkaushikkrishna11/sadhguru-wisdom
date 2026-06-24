@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2808,6 +2819,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Is Sadhguru a Practicing Hindu? | Sadhguru",
+      "description": "There is no such thing as a \"practicing Hindu\" because there is no single practice. You can worship Shiva, a cow, a snake, or a ...",
+      "url": "https://www.youtube.com/watch?v=DnN9rtMRRYk",
+      "thumbnail": "https://i.ytimg.com/vi/DnN9rtMRRYk/hqdefault.jpg",
+      "date": "2026-06-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Doubt Is Good | Sadhguru",
       "description": "Everybody says, “Believe in yourself.” I would say, first learn to doubt yourself. If something goes wrong, look within and see, ...",
@@ -10479,5 +10503,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-23T04:53:34.723382"
+  "last_updated": "2026-06-24T04:57:13.164137"
 }
