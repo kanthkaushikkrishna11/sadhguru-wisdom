@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2819,6 +2830,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "What Makes Messi An Extraordinary Footballer? | Sadhguru",
+      "description": "Sadhguru speaks about what makes Lionel Messi an exceptional footballer.",
+      "url": "https://www.youtube.com/watch?v=SDN6tdI1MJM",
+      "thumbnail": "https://i.ytimg.com/vi/SDN6tdI1MJM/hqdefault.jpg",
+      "date": "2026-06-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Dhyanalinga: A Mission of Three Lifetimes | Sadhguru",
+      "description": "A poem from Sadhguru on the immensity of what Dhyanalinga is, and what it took to consecrate this tremendous possibility.",
+      "url": "https://www.youtube.com/watch?v=LixAnpIgbZ8",
+      "thumbnail": "https://i.ytimg.com/vi/LixAnpIgbZ8/hqdefault.jpg",
+      "date": "2026-06-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Revealed: Next Episode of Sadhguru 360",
+      "description": "What are the right forms of Kalabhairava, and what is their significance? What is the nature of Kalabhairava at Isha Yoga Center, ...",
+      "url": "https://www.youtube.com/watch?v=iyKj43_abGA",
+      "thumbnail": "https://i.ytimg.com/vi/iyKj43_abGA/hqdefault.jpg",
+      "date": "2026-06-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Is Sadhguru a Practicing Hindu? | Sadhguru",
       "description": "There is no such thing as a \"practicing Hindu\" because there is no single practice. You can worship Shiva, a cow, a snake, or a ...",
@@ -10503,5 +10553,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-24T04:57:13.164137"
+  "last_updated": "2026-06-25T04:56:34.395789"
 }
