@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2830,6 +2841,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "No One Succeeds Without This One Thing | Sadhguru",
+      "description": "In any arena of life, no one has done anything truly worthwhile without being devoted to what they are doing. Only when you are ...",
+      "url": "https://www.youtube.com/watch?v=oFkUQ739cEc",
+      "thumbnail": "https://i.ytimg.com/vi/oFkUQ739cEc/hqdefault.jpg",
+      "date": "2026-06-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Joe Rogan &amp; Sadhguru’s Meme Chat | Sadhguru",
+      "description": "You can become truly aware and enjoy every bit of life only if you are constantly aware that you are mortal. Sadhguru 360 A ...",
+      "url": "https://www.youtube.com/watch?v=158GivLpvlU",
+      "thumbnail": "https://i.ytimg.com/vi/158GivLpvlU/hqdefault.jpg",
+      "date": "2026-06-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Makes Messi An Extraordinary Footballer? | Sadhguru",
       "description": "Sadhguru speaks about what makes Lionel Messi an exceptional footballer.",
@@ -10553,5 +10590,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-25T04:56:34.395789"
+  "last_updated": "2026-06-26T05:02:43.669700"
 }
