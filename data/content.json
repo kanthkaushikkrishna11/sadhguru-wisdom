@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-28",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-28",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-27",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2852,6 +2863,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "If The World Is Like Winter, The Guru Is Like Spring | Sadhguru",
+      "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
+      "url": "https://www.youtube.com/watch?v=72PhNBLhuXU",
+      "thumbnail": "https://i.ytimg.com/vi/72PhNBLhuXU/hqdefault.jpg",
+      "date": "2026-06-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Most Love Affairs Fail | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=G7spL6V8rDQ",
+      "thumbnail": "https://i.ytimg.com/vi/G7spL6V8rDQ/hqdefault.jpg",
+      "date": "2026-06-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Freedom Within Yourself | Sadhguru",
       "description": "",
@@ -10627,5 +10664,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-27T04:43:48.658822"
+  "last_updated": "2026-06-28T05:10:54.157945"
 }
