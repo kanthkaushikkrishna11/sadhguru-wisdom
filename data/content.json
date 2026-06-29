@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-29",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-29",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-28",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2863,6 +2874,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru at Takhat Sri Harimandir Ji Patna Sahib",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xVpZvYsZjic",
+      "thumbnail": "https://i.ytimg.com/vi/xVpZvYsZjic/hqdefault.jpg",
+      "date": "2026-06-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru 360 - Ep #2: What Happens at the Moment of Death? Kalabhairava &amp; Bhairavi Yatana | 4K UHD",
+      "description": "On the auspicious day of Jyeshtha Purnima, Sadhguru explores the profound significance of Kalabhairava – Shiva's fierce ...",
+      "url": "https://www.youtube.com/watch?v=q3wD_x8CfQU",
+      "thumbnail": "https://i.ytimg.com/vi/q3wD_x8CfQU/hqdefault_live.jpg",
+      "date": "2026-06-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "If The World Is Like Winter, The Guru Is Like Spring | Sadhguru",
       "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
@@ -10664,5 +10701,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-28T05:10:54.157945"
+  "last_updated": "2026-06-29T05:22:12.889327"
 }
