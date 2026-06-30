@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-06-30",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-06-30",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-29",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2874,6 +2885,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Do Ghosts Really Exist? | Sadhguru",
+      "description": "Do ghosts exist? Are paranormal activities real or imagined? Sadhguru answers various questions about the realm of the ...",
+      "url": "https://www.youtube.com/watch?v=G6RqwmVsB4o",
+      "thumbnail": "https://i.ytimg.com/vi/G6RqwmVsB4o/hqdefault.jpg",
+      "date": "2026-06-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "An Evening with Sadhguru in Patna: Glimpses",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=32Qgq9SZcoM",
+      "thumbnail": "https://i.ytimg.com/vi/32Qgq9SZcoM/hqdefault.jpg",
+      "date": "2026-06-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Kalabhairava &amp; Kashi: The Doorway to Ultimate Liberation | Sadhguru 360",
+      "description": "On the auspicious day of Jyeshtha Purnima, Sadhguru explores the profound significance of Kalabhairava – Shiva's fierce ...",
+      "url": "https://www.youtube.com/watch?v=__3zkVkRoxU",
+      "thumbnail": "https://i.ytimg.com/vi/__3zkVkRoxU/hqdefault.jpg",
+      "date": "2026-06-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru at Takhat Sri Harimandir Ji Patna Sahib",
       "description": "",
@@ -10701,5 +10751,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-29T05:22:12.889327"
+  "last_updated": "2026-06-30T04:56:53.098541"
 }
