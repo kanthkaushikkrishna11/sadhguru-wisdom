@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-01",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-01",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-06-30",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2885,6 +2896,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "40 Seconds Before Death | Sadhguru",
+      "description": "In the presence of Kalabhairava, one can experience Bhairavi Yatana – an intense process where many lifetimes of karma play ...",
+      "url": "https://www.youtube.com/watch?v=dHVk57pps8o",
+      "thumbnail": "https://i.ytimg.com/vi/dHVk57pps8o/hqdefault.jpg",
+      "date": "2026-06-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "At Bodh Gaya’s Mahabodhi Mahavihara where Gautama Buddha Attained Enlightenment | Sadhguru",
+      "description": "Gautama the Buddha is not a teaching, a philosophy, an ideology, or a new religion. He is a method, a way – not something that ...",
+      "url": "https://www.youtube.com/watch?v=entTYwHvU8M",
+      "thumbnail": "https://i.ytimg.com/vi/entTYwHvU8M/hqdefault.jpg",
+      "date": "2026-06-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Patna or Pataliputra: The Power of a Name | Sadhguru",
+      "description": "This is a civilization where we profoundly understood the impact sounds and reverberations can create. If you create the right kind ...",
+      "url": "https://www.youtube.com/watch?v=cpGmxYHJhf4",
+      "thumbnail": "https://i.ytimg.com/vi/cpGmxYHJhf4/hqdefault.jpg",
+      "date": "2026-06-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Do Ghosts Really Exist? | Sadhguru",
       "description": "Do ghosts exist? Are paranormal activities real or imagined? Sadhguru answers various questions about the realm of the ...",
@@ -10751,5 +10801,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-06-30T04:56:53.098541"
+  "last_updated": "2026-07-01T05:14:58.541776"
 }
