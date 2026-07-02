@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-02",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-02",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-01",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2896,6 +2907,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Ready For The Kriya Path? | Sadhguru",
+      "description": "The path of Kriya is the process of transforming a human being by transforming their energy. You can come to an experiential ...",
+      "url": "https://www.youtube.com/watch?v=LFivG6_gGCw",
+      "thumbnail": "https://i.ytimg.com/vi/LFivG6_gGCw/hqdefault.jpg",
+      "date": "2026-07-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Dogs Can Sense Death | Sadhguru",
+      "description": "Why is a black dog Kalabhairava's constant companion? Can dogs sense death, as depicted in cultures around the world?",
+      "url": "https://www.youtube.com/watch?v=Bcyv07x-WI0",
+      "thumbnail": "https://i.ytimg.com/vi/Bcyv07x-WI0/hqdefault.jpg",
+      "date": "2026-07-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "40 Seconds Before Death | Sadhguru",
       "description": "In the presence of Kalabhairava, one can experience Bhairavi Yatana – an intense process where many lifetimes of karma play ...",
@@ -10801,5 +10838,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-01T05:14:58.541776"
+  "last_updated": "2026-07-02T04:52:35.380337"
 }
