@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-03",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-03",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-02",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2907,6 +2918,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "64 Bhairavas &amp; Yoginis | Sadhguru",
+      "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
+      "url": "https://www.youtube.com/watch?v=BJdcj1OibGc",
+      "thumbnail": "https://i.ytimg.com/vi/BJdcj1OibGc/hqdefault.jpg",
+      "date": "2026-07-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Ready For The Kriya Path? | Sadhguru",
       "description": "The path of Kriya is the process of transforming a human being by transforming their energy. You can come to an experiential ...",
@@ -10838,5 +10862,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-02T04:52:35.380337"
+  "last_updated": "2026-07-03T04:35:33.190161"
 }
