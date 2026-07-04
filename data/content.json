@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2918,6 +2929,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Speaks on India’s Civil Services",
+      "description": "Our civil services are the skeletal system of this nation. They are the essential structure that holds Bharat together, ensuring ...",
+      "url": "https://www.youtube.com/watch?v=EWpENHUG_jM",
+      "thumbnail": "https://i.ytimg.com/vi/EWpENHUG_jM/hqdefault.jpg",
+      "date": "2026-07-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "64 Bhairavas &amp; Yoginis | Sadhguru",
       "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
@@ -10862,5 +10886,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-03T04:35:33.190161"
+  "last_updated": "2026-07-04T04:27:19.607995"
 }
