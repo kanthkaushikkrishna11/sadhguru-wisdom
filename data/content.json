@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-05",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-05",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-04",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2929,6 +2940,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Krishna As Kalabhairava | Sadhguru",
+      "description": "Sadhguru narrates the story of Krishna's Vishwaroopa Darshan to Arjuna and of his fierce form as Kalabhairava. Sadhguru 360 A ...",
+      "url": "https://www.youtube.com/watch?v=WS85BCYzQ6g",
+      "thumbnail": "https://i.ytimg.com/vi/WS85BCYzQ6g/hqdefault.jpg",
+      "date": "2026-07-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Shri Gavisiddheshwara Matha Hosts Sadhguru",
+      "description": "On 1 July, Shri Abhinava Gavisiddheshwara Swamiji warmly welcomed Sadhguru to Shri Gavisiddheshwara Matha in Koppal, ...",
+      "url": "https://www.youtube.com/watch?v=2wKu_djiRW8",
+      "thumbnail": "https://i.ytimg.com/vi/2wKu_djiRW8/hqdefault.jpg",
+      "date": "2026-07-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Speaks on India’s Civil Services",
       "description": "Our civil services are the skeletal system of this nation. They are the essential structure that holds Bharat together, ensuring ...",
@@ -10886,5 +10923,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-04T04:27:19.607995"
+  "last_updated": "2026-07-05T04:49:23.905111"
 }
