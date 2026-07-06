@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-06",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-06",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-05",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2940,6 +2951,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru at Mahakaleshwar, Ujjain",
+      "description": "If you want to be propelled towards mukti, or ultimate liberation, and you are not faint-hearted, then Mahakaleshwar is a ...",
+      "url": "https://www.youtube.com/watch?v=q-GCzHn5lXA",
+      "thumbnail": "https://i.ytimg.com/vi/q-GCzHn5lXA/hqdefault.jpg",
+      "date": "2026-07-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Krishna As Kalabhairava | Sadhguru",
       "description": "Sadhguru narrates the story of Krishna's Vishwaroopa Darshan to Arjuna and of his fierce form as Kalabhairava. Sadhguru 360 A ...",
@@ -10923,5 +10947,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-05T04:49:23.905111"
+  "last_updated": "2026-07-06T05:02:33.111531"
 }
