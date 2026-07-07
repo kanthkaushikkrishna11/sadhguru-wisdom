@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-07",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-07",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-06",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2951,6 +2962,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Foundation of Pleasant Emotions | Sadhguru",
+      "description": "Sadhguru looks at the difference between emotions and thoughts, and what forms the foundation of pleasant emotions.",
+      "url": "https://www.youtube.com/watch?v=rq3Hh14p3fY",
+      "thumbnail": "https://i.ytimg.com/vi/rq3Hh14p3fY/hqdefault.jpg",
+      "date": "2026-07-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru at Mahakaleshwar, Ujjain",
       "description": "If you want to be propelled towards mukti, or ultimate liberation, and you are not faint-hearted, then Mahakaleshwar is a ...",
@@ -10947,5 +10971,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-06T05:02:33.111531"
+  "last_updated": "2026-07-07T04:41:55.700796"
 }
