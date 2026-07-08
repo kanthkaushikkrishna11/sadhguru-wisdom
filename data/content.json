@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-08",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-08",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-07",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2962,6 +2973,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "When the Cosmic Game is Over | Sadhguru",
+      "description": "In video games, the screen flashes “Game Over.” In the cosmic game, that role belongs to Kalabhairava. If you are conscious, you ...",
+      "url": "https://www.youtube.com/watch?v=-uqfPVCxfDU",
+      "thumbnail": "https://i.ytimg.com/vi/-uqfPVCxfDU/hqdefault.jpg",
+      "date": "2026-07-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Spin free from the past.. | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=pX4Pww3bgJs",
+      "thumbnail": "https://i.ytimg.com/vi/pX4Pww3bgJs/hqdefault.jpg",
+      "date": "2026-07-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Foundation of Pleasant Emotions | Sadhguru",
       "description": "Sadhguru looks at the difference between emotions and thoughts, and what forms the foundation of pleasant emotions.",
@@ -10971,5 +11008,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-07T04:41:55.700796"
+  "last_updated": "2026-07-08T04:08:48.383705"
 }
