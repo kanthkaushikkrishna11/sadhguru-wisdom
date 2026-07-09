@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-09",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-09",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-08",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2973,6 +2984,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Guru Purnima Live with Sadhguru | 29 July 7 PM IST | 9:30 PM SGT | 3:30 PM CEST",
+      "description": "Celebrate Guru Purnima with Sadhguru. Offer Guru Pooja, experience a powerful meditation to connect with Sadhguru's grace, ...",
+      "url": "https://www.youtube.com/watch?v=UqSQ7xe6FZE",
+      "thumbnail": "https://i.ytimg.com/vi/UqSQ7xe6FZE/hqdefault_live.jpg",
+      "date": "2026-07-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Caption this…",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=2TgoVd3nLqY",
+      "thumbnail": "https://i.ytimg.com/vi/2TgoVd3nLqY/hqdefault.jpg",
+      "date": "2026-07-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Do What You Want, Just Do It Well | Sadhguru",
+      "description": "Whatever you do, just do it well. And don't do anything that you will be ashamed of tomorrow. The whole world may say you are ...",
+      "url": "https://www.youtube.com/watch?v=sB41cFRXSgA",
+      "thumbnail": "https://i.ytimg.com/vi/sB41cFRXSgA/hqdefault.jpg",
+      "date": "2026-07-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "When the Cosmic Game is Over | Sadhguru",
       "description": "In video games, the screen flashes “Game Over.” In the cosmic game, that role belongs to Kalabhairava. If you are conscious, you ...",
@@ -11008,5 +11058,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-08T04:08:48.383705"
+  "last_updated": "2026-07-09T04:41:24.974727"
 }
