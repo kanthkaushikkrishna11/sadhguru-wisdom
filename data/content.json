@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2984,6 +2995,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Ranveer Singh &amp; Sadhguru Discuss Competition",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Su8X5xY0TA8",
+      "thumbnail": "https://i.ytimg.com/vi/Su8X5xY0TA8/hqdefault.jpg",
+      "date": "2026-07-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Eat This Before Your Meal | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=nCpSVBC49GA",
+      "thumbnail": "https://i.ytimg.com/vi/nCpSVBC49GA/hqdefault.jpg",
+      "date": "2026-07-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Guru Purnima Live with Sadhguru | 29 July 7 PM IST | 9:30 PM SGT | 3:30 PM CEST",
       "description": "Celebrate Guru Purnima with Sadhguru. Offer Guru Pooja, experience a powerful meditation to connect with Sadhguru's grace, ...",
@@ -11058,5 +11095,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-09T04:41:24.974727"
+  "last_updated": "2026-07-10T04:42:59.037501"
 }
