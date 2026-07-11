@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-11",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-11",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-10",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -2995,6 +3006,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Most Indians Know Very Little of India 🇮🇳 | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=7IOzSowSIWs",
+      "thumbnail": "https://i.ytimg.com/vi/7IOzSowSIWs/hqdefault.jpg",
+      "date": "2026-07-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Do People’s Opinions Hurt You? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CGgGioTXEjk",
+      "thumbnail": "https://i.ytimg.com/vi/CGgGioTXEjk/hqdefault.jpg",
+      "date": "2026-07-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Buddhist Monks Ask Their Deepest Questions to Sadhguru at Bodh Gaya | Sadhguru",
+      "description": "On the auspicious occasion of Jyeshtha Purnima, Mahabodhi Mahavihara hosted Sadhguru in Bodh Gaya – the very place where ...",
+      "url": "https://www.youtube.com/watch?v=pJObWu3cbus",
+      "thumbnail": "https://i.ytimg.com/vi/pJObWu3cbus/hqdefault.jpg",
+      "date": "2026-07-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Ranveer Singh &amp; Sadhguru Discuss Competition",
       "description": "",
@@ -11095,5 +11145,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-10T04:42:59.037501"
+  "last_updated": "2026-07-11T03:59:11.157647"
 }
