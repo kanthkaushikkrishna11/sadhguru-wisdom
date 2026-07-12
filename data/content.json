@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-12",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-12",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-11",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3006,6 +3017,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru at Bodh Gaya | Sadhguru",
+      "description": "On the auspicious occasion of Jyeshtha Purnima, Mahabodhi Mahavihara hosted Sadhguru in Bodh Gaya – the very place where ...",
+      "url": "https://www.youtube.com/watch?v=jvJ8N8c_zhM",
+      "thumbnail": "https://i.ytimg.com/vi/jvJ8N8c_zhM/hqdefault.jpg",
+      "date": "2026-07-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why FIFA Losses Hurt | Sadhguru",
+      "description": "The FIFA World Cup is not about winning or losing. It is a festival of human striving to go beyond the limitations of one's physical ...",
+      "url": "https://www.youtube.com/watch?v=jZBmqByZzCc",
+      "thumbnail": "https://i.ytimg.com/vi/jZBmqByZzCc/hqdefault.jpg",
+      "date": "2026-07-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Most Indians Know Very Little of India 🇮🇳 | Sadhguru",
       "description": "",
@@ -11145,5 +11182,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-11T03:59:11.157647"
+  "last_updated": "2026-07-12T04:20:10.518079"
 }
