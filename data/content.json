@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3028,6 +3039,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How You Are Poisoning Yourself #Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=TQNS9r1kekM",
+      "thumbnail": "https://i.ytimg.com/vi/TQNS9r1kekM/hqdefault.jpg",
+      "date": "2026-07-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Isha Home School student&#39;s heartfelt offering to Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=5GsHUZuSyG4",
+      "thumbnail": "https://i.ytimg.com/vi/5GsHUZuSyG4/hqdefault.jpg",
+      "date": "2026-07-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru at Bodh Gaya | Sadhguru",
       "description": "On the auspicious occasion of Jyeshtha Purnima, Mahabodhi Mahavihara hosted Sadhguru in Bodh Gaya – the very place where ...",
@@ -11193,5 +11230,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-13T04:23:47.948519"
+  "last_updated": "2026-07-14T03:50:49.587107"
 }
