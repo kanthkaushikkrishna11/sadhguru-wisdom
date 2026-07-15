@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3039,6 +3050,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Most People Are Miserable | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=mEZZIBDZ2y4",
+      "thumbnail": "https://i.ytimg.com/vi/mEZZIBDZ2y4/hqdefault.jpg",
+      "date": "2026-07-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "32 Years Since the 90-Day Wholeness Program | Sadhguru",
+      "description": "Get a glimpse into the extraordinary journey of Isha Yoga Center, from a thatched shed in 1994, to a global destination for ...",
+      "url": "https://www.youtube.com/watch?v=H97zcniZUTQ",
+      "thumbnail": "https://i.ytimg.com/vi/H97zcniZUTQ/hqdefault.jpg",
+      "date": "2026-07-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "You Unknowingly Want Your Guru to Leave | Sadhguru",
+      "description": "In a satsang with meditators in Detroit, Sadhguru speaks about the significance and deceptive nature of the Guru's blessing, what ...",
+      "url": "https://www.youtube.com/watch?v=UhaMHMG8JsY",
+      "thumbnail": "https://i.ytimg.com/vi/UhaMHMG8JsY/hqdefault.jpg",
+      "date": "2026-07-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "How You Are Poisoning Yourself #Sadhguru",
       "description": "",
@@ -11230,5 +11280,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-14T03:50:49.587107"
+  "last_updated": "2026-07-15T03:51:58.580858"
 }
