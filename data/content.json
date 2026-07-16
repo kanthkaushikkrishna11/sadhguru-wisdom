@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3050,6 +3061,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Fall of Dwarka &amp; Janamejaya’s Revenge | Sadhguru",
+      "description": "In “Vanaprastha” – the thirteenth series of the Mahabharat super-series on Sadhguru Exclusive – Sadhguru narrates the fall of ...",
+      "url": "https://www.youtube.com/watch?v=0fNKSdrFEvA",
+      "thumbnail": "https://i.ytimg.com/vi/0fNKSdrFEvA/hqdefault.jpg",
+      "date": "2026-07-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "After Sadhguru Leaves... | Sadhguru",
+      "description": "Sadhguru speaks about the significance and deceptive nature of the Guru's blessing, what happens after a realized being exits ...",
+      "url": "https://www.youtube.com/watch?v=z42S_7SAl5g",
+      "thumbnail": "https://i.ytimg.com/vi/z42S_7SAl5g/hqdefault.jpg",
+      "date": "2026-07-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Most People Are Miserable | Sadhguru",
       "description": "",
@@ -11280,5 +11317,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-15T03:51:58.580858"
+  "last_updated": "2026-07-16T03:54:58.202911"
 }
