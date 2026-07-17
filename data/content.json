@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-17",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-17",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-16",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3061,6 +3072,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Be Absolutely Selfish! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=bsZWsg-26x4",
+      "thumbnail": "https://i.ytimg.com/vi/bsZWsg-26x4/hqdefault.jpg",
+      "date": "2026-07-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Fall of Dwarka &amp; Janamejaya’s Revenge | Sadhguru",
       "description": "In “Vanaprastha” – the thirteenth series of the Mahabharat super-series on Sadhguru Exclusive – Sadhguru narrates the fall of ...",
@@ -11317,5 +11341,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-16T03:54:58.202911"
+  "last_updated": "2026-07-17T03:54:32.276836"
 }
