@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-18",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-18",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-17",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3072,6 +3083,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Is Isha Managing Crematoriums? | Sadhguru",
+      "description": "There is a whole science in Sanatana Dharma as to how to handle life, from pre-conception to death and beyond. Kayantha ...",
+      "url": "https://www.youtube.com/watch?v=3Hy39OYdSR8",
+      "thumbnail": "https://i.ytimg.com/vi/3Hy39OYdSR8/hqdefault.jpg",
+      "date": "2026-07-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Be Absolutely Selfish! | Sadhguru",
       "description": "",
@@ -11341,5 +11365,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-17T03:54:32.276836"
+  "last_updated": "2026-07-18T03:48:20.594281"
 }
