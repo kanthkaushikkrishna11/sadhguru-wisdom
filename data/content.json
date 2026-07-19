@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-19",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-19",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-18",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3083,6 +3094,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Sadhguru Drives His Own Car",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=FmPXkrY1ROY",
+      "thumbnail": "https://i.ytimg.com/vi/FmPXkrY1ROY/hqdefault.jpg",
+      "date": "2026-07-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Samadhi: Going Beyond the Intellect | Sadhguru",
+      "description": "Sadhguru delves into the nature of the human mind, intellect, and love, and demystifies one of the most misunderstood aspects in ...",
+      "url": "https://www.youtube.com/watch?v=Qmvcf5qsFp4",
+      "thumbnail": "https://i.ytimg.com/vi/Qmvcf5qsFp4/hqdefault.jpg",
+      "date": "2026-07-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Is Isha Managing Crematoriums? | Sadhguru",
       "description": "There is a whole science in Sanatana Dharma as to how to handle life, from pre-conception to death and beyond. Kayantha ...",
@@ -11365,5 +11402,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-18T03:48:20.594281"
+  "last_updated": "2026-07-19T04:16:36.204926"
 }
