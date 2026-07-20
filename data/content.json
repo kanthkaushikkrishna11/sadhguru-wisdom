@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3094,6 +3105,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Are You Exaggerating People In Your Mind? | Sadhguru",
+      "description": "If you like someone, you exaggerate them. If you dislike someone, you exaggerate them. Exaggeration means you are unable to ...",
+      "url": "https://www.youtube.com/watch?v=TwlHDP14fvU",
+      "thumbnail": "https://i.ytimg.com/vi/TwlHDP14fvU/hqdefault.jpg",
+      "date": "2026-07-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Sadhguru Drives His Own Car",
       "description": "",
@@ -11402,5 +11426,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-19T04:16:36.204926"
+  "last_updated": "2026-07-20T04:30:06.136657"
 }
