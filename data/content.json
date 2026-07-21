@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3105,6 +3116,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Celebrate Guru Purnima Live with Sadhguru | 29 July 2026 | 7:00 PM IST | 9:30 PM SGT | 3:30 PM CEST",
+      "description": "Celebrate Guru Purnima with Sadhguru on 29 July. Join the celebrations live on Sadhguru YouTube and experience powerful ...",
+      "url": "https://www.youtube.com/watch?v=05YUsquTiKE",
+      "thumbnail": "https://i.ytimg.com/vi/05YUsquTiKE/hqdefault.jpg",
+      "date": "2026-07-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Celebrate Guru Purnima Live with Sadhguru | 29 July 2026 | 7:00 PM IST | 9:30 PM SGT | 3:30 PM CEST",
+      "description": "Celebrate Guru Purnima with Sadhguru. Offer Guru Pooja, experience a powerful meditation to connect with Sadhguru's grace, ...",
+      "url": "https://www.youtube.com/watch?v=31zRZy5QAhg",
+      "thumbnail": "https://i.ytimg.com/vi/31zRZy5QAhg/hqdefault.jpg",
+      "date": "2026-07-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Do You Hate Your Job? | Sadhguru",
+      "description": "During a recent Darshan at Isha Yoga Center, Sadhguru spoke about why most people are concerned only with earning a living, ...",
+      "url": "https://www.youtube.com/watch?v=OtpVjX1j4kg",
+      "thumbnail": "https://i.ytimg.com/vi/OtpVjX1j4kg/hqdefault.jpg",
+      "date": "2026-07-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Are You Exaggerating People In Your Mind? | Sadhguru",
       "description": "If you like someone, you exaggerate them. If you dislike someone, you exaggerate them. Exaggeration means you are unable to ...",
@@ -11426,5 +11476,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-20T04:30:06.136657"
+  "last_updated": "2026-07-21T04:09:37.626970"
 }
