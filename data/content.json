@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3116,6 +3127,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "This is Why You&#39;re Fearful | Sadhguru",
+      "description": "Access more curated insights exclusively on the Miracle of Mind app.",
+      "url": "https://www.youtube.com/watch?v=Hb5xO3RAbmk",
+      "thumbnail": "https://i.ytimg.com/vi/Hb5xO3RAbmk/hqdefault.jpg",
+      "date": "2026-07-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "When a Genuine Seeker Met a Fake Guru | Sadhguru",
+      "description": "In a satsang with meditators in April 2007, through stories and illustrations, Sadhguru delved into the world of realized beings, ...",
+      "url": "https://www.youtube.com/watch?v=jsLrZrmZTW0",
+      "thumbnail": "https://i.ytimg.com/vi/jsLrZrmZTW0/hqdefault.jpg",
+      "date": "2026-07-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "What Makes You Who You Are | Sadhguru",
+      "description": "Human beings become who they are because of what they do, not because of what they avoid.",
+      "url": "https://www.youtube.com/watch?v=KsSWI7SiZYA",
+      "thumbnail": "https://i.ytimg.com/vi/KsSWI7SiZYA/hqdefault.jpg",
+      "date": "2026-07-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Celebrate Guru Purnima Live with Sadhguru | 29 July 2026 | 7:00 PM IST | 9:30 PM SGT | 3:30 PM CEST",
       "description": "Celebrate Guru Purnima with Sadhguru on 29 July. Join the celebrations live on Sadhguru YouTube and experience powerful ...",
@@ -11476,5 +11526,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-21T04:09:37.626970"
+  "last_updated": "2026-07-22T04:10:48.481820"
 }
