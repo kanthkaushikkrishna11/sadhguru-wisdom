@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3138,6 +3149,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Confusion Is Better Than Conclusion | Sadhguru",
+      "description": "Confusion is a better state than living with stupid conclusions. Your conclusions offer comfort and a false sense of security, but ...",
+      "url": "https://www.youtube.com/watch?v=-qeBX5cSQoM",
+      "thumbnail": "https://i.ytimg.com/vi/-qeBX5cSQoM/hqdefault.jpg",
+      "date": "2026-07-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Want to Be No. 1? You’re Sick! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Ml5OHkHUDMY",
+      "thumbnail": "https://i.ytimg.com/vi/Ml5OHkHUDMY/hqdefault.jpg",
+      "date": "2026-07-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Dealing with Heartbreak | Sadhguru",
       "description": "I did not wait for someone to break my heart. I broke it into a million pieces and threw them around the world. -Sg.",
@@ -11563,5 +11600,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-23T04:08:43.921316"
+  "last_updated": "2026-07-24T04:07:13.532616"
 }
