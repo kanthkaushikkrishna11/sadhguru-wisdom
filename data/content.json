@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3149,6 +3160,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Should I Continue as Sadhguru?",
+      "description": "Do not do something just because you decided a long time ago and feel you have no choice. You must reconsider your life every ...",
+      "url": "https://www.youtube.com/watch?v=V_omDpkkims",
+      "thumbnail": "https://i.ytimg.com/vi/V_omDpkkims/hqdefault.jpg",
+      "date": "2026-07-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Confusion Is Better Than Conclusion | Sadhguru",
       "description": "Confusion is a better state than living with stupid conclusions. Your conclusions offer comfort and a false sense of security, but ...",
@@ -11600,5 +11624,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-24T04:07:13.532616"
+  "last_updated": "2026-07-25T03:56:42.484370"
 }
