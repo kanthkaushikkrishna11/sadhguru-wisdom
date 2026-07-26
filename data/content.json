@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3160,6 +3171,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "One Look Broke His Mind | Sadhguru",
+      "description": "Sadhguru delves into the world of realized beings, explained what \"enlightenment\" really means, why spirituality seems like a ...",
+      "url": "https://www.youtube.com/watch?v=Lwb8JmgZOe0",
+      "thumbnail": "https://i.ytimg.com/vi/Lwb8JmgZOe0/hqdefault.jpg",
+      "date": "2026-07-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Should I Continue as Sadhguru?",
       "description": "Do not do something just because you decided a long time ago and feel you have no choice. You must reconsider your life every ...",
@@ -11624,5 +11648,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-25T03:56:42.484370"
+  "last_updated": "2026-07-26T04:21:37.449506"
 }
