@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3171,6 +3182,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Open Your Door to Grace | Sadhguru",
+      "description": "Sadhguru speaks about the significance of staying receptive to grace. Become an Ishanga 7% partner to open your doors to make ...",
+      "url": "https://www.youtube.com/watch?v=QlsmlLGKdck",
+      "thumbnail": "https://i.ytimg.com/vi/QlsmlLGKdck/hqdefault.jpg",
+      "date": "2026-07-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Do Gurus Have Beards | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=nXu35x4lBdE",
+      "thumbnail": "https://i.ytimg.com/vi/nXu35x4lBdE/hqdefault.jpg",
+      "date": "2026-07-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "One Look Broke His Mind | Sadhguru",
       "description": "Sadhguru delves into the world of realized beings, explained what \"enlightenment\" really means, why spirituality seems like a ...",
@@ -11648,5 +11685,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-26T04:21:37.449506"
+  "last_updated": "2026-07-27T04:30:08.658521"
 }
