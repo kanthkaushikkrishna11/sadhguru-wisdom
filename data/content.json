@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-28",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-28",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-27",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3182,6 +3193,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Express Your Gratitude to the Guru | Sadhguru",
+      "description": "Celebrate Guru Purnima in an ambience of devotion and grace on 29 July 2026, in Sadhguru's presence. Join the celebrations ...",
+      "url": "https://www.youtube.com/watch?v=ova1OSy9KbM",
+      "thumbnail": "https://i.ytimg.com/vi/ova1OSy9KbM/hqdefault.jpg",
+      "date": "2026-07-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "When Everyone Thought Sadhguru Was a Failure",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=0UfWg4Mayfk",
+      "thumbnail": "https://i.ytimg.com/vi/0UfWg4Mayfk/hqdefault.jpg",
+      "date": "2026-07-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Open Your Door to Grace | Sadhguru",
       "description": "Sadhguru speaks about the significance of staying receptive to grace. Become an Ishanga 7% partner to open your doors to make ...",
@@ -11685,5 +11722,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-27T04:30:08.658521"
+  "last_updated": "2026-07-28T03:54:05.531273"
 }
