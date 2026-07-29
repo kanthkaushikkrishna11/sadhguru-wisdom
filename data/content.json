@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-29",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-29",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-28",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3193,6 +3204,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Contribute Towards Annadanam on Guru Purnima | Sadhguru",
+      "description": "In our tradition, serving spiritual seekers and monks has always been of utmost importance. This can be a path in itself. The most ...",
+      "url": "https://www.youtube.com/watch?v=BIPtJiTmVg0",
+      "thumbnail": "https://i.ytimg.com/vi/BIPtJiTmVg0/hqdefault.jpg",
+      "date": "2026-07-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Students Of Sadhguru Gurukulam Samskriti And Isha Home School Run Into Sadhguru!",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=BLzcRPsuy9Q",
+      "thumbnail": "https://i.ytimg.com/vi/BLzcRPsuy9Q/hqdefault.jpg",
+      "date": "2026-07-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Real Purpose of the Guru | Sadhguru",
+      "description": "In the fourth episode of Sadhguru 360 on Guru Purnima, in the month of Ashadha, Sadhguru speaks about the role of a guru in a ...",
+      "url": "https://www.youtube.com/watch?v=_acumQd7xzY",
+      "thumbnail": "https://i.ytimg.com/vi/_acumQd7xzY/hqdefault.jpg",
+      "date": "2026-07-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru 360 - Ep #4: The Full Moon That Can Transform Your Life | 4K UHD",
+      "description": "In the fourth episode of Sadhguru 360 on Guru Purnima, in the month of Ashadha, Sadhguru speaks about the role of a Guru in a ...",
+      "url": "https://www.youtube.com/watch?v=W8e0A0bHWsg",
+      "thumbnail": "https://i.ytimg.com/vi/W8e0A0bHWsg/hqdefault.jpg",
+      "date": "2026-07-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Express Your Gratitude to the Guru | Sadhguru",
       "description": "Celebrate Guru Purnima in an ambience of devotion and grace on 29 July 2026, in Sadhguru's presence. Join the celebrations ...",
@@ -11722,5 +11785,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-28T03:54:05.531273"
+  "last_updated": "2026-07-29T03:57:56.226209"
 }
