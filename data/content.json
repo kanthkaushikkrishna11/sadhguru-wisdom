@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-30",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-30",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-29",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3204,6 +3215,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Guru: Rare Expression from Sadhguru about His Guru",
+      "description": "Sadhguru: The most dominant factor of my life has been my Guru, and nothing else. Even today, in my mind, or rather literally in ...",
+      "url": "https://www.youtube.com/watch?v=rIj-otBUetE",
+      "thumbnail": "https://i.ytimg.com/vi/rIj-otBUetE/hqdefault.jpg",
+      "date": "2026-07-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Once You Genuinely Sit with Sadhguru…",
+      "description": "What does true openness to a Guru mean for your life? How deeply can Sadhguru influence a disciple's life? In episode 4 of ...",
+      "url": "https://www.youtube.com/watch?v=uST4cX84Tqc",
+      "thumbnail": "https://i.ytimg.com/vi/uST4cX84Tqc/hqdefault.jpg",
+      "date": "2026-07-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Contribute Towards Annadanam on Guru Purnima | Sadhguru",
       "description": "In our tradition, serving spiritual seekers and monks has always been of utmost importance. This can be a path in itself. The most ...",
@@ -11785,5 +11822,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-29T03:57:56.226209"
+  "last_updated": "2026-07-30T03:49:57.328394"
 }
