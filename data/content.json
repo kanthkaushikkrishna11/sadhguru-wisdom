@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-07-31",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-07-31",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-30",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3215,6 +3226,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "An Offering of Pada Pooja to Sadhguru | Guru Purnima 2026",
+      "description": "A traditional Pada Pooja was offered to Sadhguru as an expression of devotion and gratitude during the Guru Purnima ...",
+      "url": "https://www.youtube.com/watch?v=edjk4T_VFgY",
+      "thumbnail": "https://i.ytimg.com/vi/edjk4T_VFgY/hqdefault.jpg",
+      "date": "2026-07-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Gurukulam Samskriti Students Play Frisbee With Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=4ujNdOeC7n4",
+      "thumbnail": "https://i.ytimg.com/vi/4ujNdOeC7n4/hqdefault.jpg",
+      "date": "2026-07-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Guru: Rare Expression from Sadhguru about His Guru",
       "description": "Sadhguru: The most dominant factor of my life has been my Guru, and nothing else. Even today, in my mind, or rather literally in ...",
@@ -11822,5 +11859,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-30T03:49:57.328394"
+  "last_updated": "2026-07-31T04:16:12.585077"
 }
