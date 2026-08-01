@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-01",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-01",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-07-31",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3226,6 +3237,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Amazing Power Of Your Mind | Sadhguru",
+      "description": "The “Miracle of Mind” is such that if you harness it with the necessary training, you can manifest things in a phenomenal way. -Sg.",
+      "url": "https://www.youtube.com/watch?v=Vwww6UAxTEU",
+      "thumbnail": "https://i.ytimg.com/vi/Vwww6UAxTEU/hqdefault.jpg",
+      "date": "2026-07-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Life is NOT a Problem | Sadhguru",
+      "description": "Life is not a problem to be solved. It is the greatest and only gift that you have. –Sg.",
+      "url": "https://www.youtube.com/watch?v=ybOdWutdSvA",
+      "thumbnail": "https://i.ytimg.com/vi/ybOdWutdSvA/hqdefault.jpg",
+      "date": "2026-07-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "An Offering of Pada Pooja to Sadhguru | Guru Purnima 2026",
       "description": "A traditional Pada Pooja was offered to Sadhguru as an expression of devotion and gratitude during the Guru Purnima ...",
@@ -11859,5 +11896,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-07-31T04:16:12.585077"
+  "last_updated": "2026-08-01T04:15:18.329865"
 }
