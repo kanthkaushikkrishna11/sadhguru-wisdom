@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-02",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-02",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-01",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3237,6 +3248,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru&#39;s Special Recipe for Radhe",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=PkgXrIzC1sQ",
+      "thumbnail": "https://i.ytimg.com/vi/PkgXrIzC1sQ/hqdefault.jpg",
+      "date": "2026-08-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Using Filth to Grow &amp; Blossom | Mike Tyson &amp; Sadhguru #Throwback",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=JRV4HKIHse0",
+      "thumbnail": "https://i.ytimg.com/vi/JRV4HKIHse0/hqdefault.jpg",
+      "date": "2026-08-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Amazing Power Of Your Mind | Sadhguru",
       "description": "The “Miracle of Mind” is such that if you harness it with the necessary training, you can manifest things in a phenomenal way. -Sg.",
@@ -11896,5 +11933,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-01T04:15:18.329865"
+  "last_updated": "2026-08-02T04:18:17.889494"
 }
