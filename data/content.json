@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-03",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-03",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-02",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3248,6 +3259,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Dwarka&#39;s Fall: What Krishna Silently Witnessed | Sadhguru",
+      "description": "In \"Vanaprastha\" – the twelfth series of the Mahabharat super-series on Sadhguru Exclusive – Sadhguru narrates the fall of ...",
+      "url": "https://www.youtube.com/watch?v=h-MQ_EDI20Y",
+      "thumbnail": "https://i.ytimg.com/vi/h-MQ_EDI20Y/hqdefault.jpg",
+      "date": "2026-08-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Test of True Friendship | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=OteX2Dbx7Dk",
+      "thumbnail": "https://i.ytimg.com/vi/OteX2Dbx7Dk/hqdefault.jpg",
+      "date": "2026-08-02",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru&#39;s Special Recipe for Radhe",
       "description": "",
@@ -11933,5 +11970,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-02T04:18:17.889494"
+  "last_updated": "2026-08-03T04:23:16.868875"
 }
