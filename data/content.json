@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3259,6 +3270,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Light up and make a miracle out of your mind | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=aZJB1AHz0AI",
+      "thumbnail": "https://i.ytimg.com/vi/aZJB1AHz0AI/hqdefault.jpg",
+      "date": "2026-08-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Dwarka&#39;s Fall: What Krishna Silently Witnessed | Sadhguru",
       "description": "In \"Vanaprastha\" – the twelfth series of the Mahabharat super-series on Sadhguru Exclusive – Sadhguru narrates the fall of ...",
@@ -11970,5 +11994,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-03T04:23:16.868875"
+  "last_updated": "2026-08-04T03:57:24.052925"
 }
