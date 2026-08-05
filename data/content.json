@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-05",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-05",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-04",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3270,6 +3281,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "In preparation for Kailash, Sadhguru climbing steeps at 7,000 ft",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=q7pS1QfpsAY",
+      "thumbnail": "https://i.ytimg.com/vi/q7pS1QfpsAY/hqdefault.jpg",
+      "date": "2026-08-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Break The Barriers Within You | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=YM-l26rRFMo",
+      "thumbnail": "https://i.ytimg.com/vi/YM-l26rRFMo/hqdefault.jpg",
+      "date": "2026-08-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "“Life is a fabulous phenomenon if you know how to ride it.” -Sadhguru",
+      "description": "video captured on 19 February at Isha Yoga Center)",
+      "url": "https://www.youtube.com/watch?v=3D2XRj7oWto",
+      "thumbnail": "https://i.ytimg.com/vi/3D2XRj7oWto/hqdefault.jpg",
+      "date": "2026-08-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Light up and make a miracle out of your mind | Sadhguru",
       "description": "",
@@ -11994,5 +12044,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-04T03:57:24.052925"
+  "last_updated": "2026-08-05T03:52:58.679080"
 }
