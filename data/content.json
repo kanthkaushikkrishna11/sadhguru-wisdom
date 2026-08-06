@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-06",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-06",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-05",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3281,6 +3292,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Secrets of the 7 Chakras | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=zfyrAhwI_1k",
+      "thumbnail": "https://i.ytimg.com/vi/zfyrAhwI_1k/hqdefault.jpg",
+      "date": "2026-08-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Bond of Spirit: Sadhanapada offered by Sadhguru Gurukulam",
+      "description": "In response to a question from a Sadhanapada participant, Sadhguru explains the meaning and significance of joining the ...",
+      "url": "https://www.youtube.com/watch?v=oRTzl0JMdTI",
+      "thumbnail": "https://i.ytimg.com/vi/oRTzl0JMdTI/hqdefault.jpg",
+      "date": "2026-08-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "In preparation for Kailash, Sadhguru climbing steeps at 7,000 ft",
       "description": "",
@@ -12044,5 +12081,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-05T03:52:58.679080"
+  "last_updated": "2026-08-06T03:57:39.189681"
 }
