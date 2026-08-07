@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-07",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-07",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-06",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3292,6 +3303,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Most Difficult Chakra | Sadhguru",
+      "description": "Sadhguru speaks about Vishuddhi – the most difficult of the seven chakras.Discover the many secrets of prana, chakras and ...",
+      "url": "https://www.youtube.com/watch?v=x3qWScOqa_8",
+      "thumbnail": "https://i.ytimg.com/vi/x3qWScOqa_8/hqdefault.jpg",
+      "date": "2026-08-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Last Few Years Of Sadhguru&#39;s Life | Sadhguru",
+      "description": "Sadhguru speaks about his vision for humanity and his debt to Adiyogi – to raise human consciousness by moving human beings ...",
+      "url": "https://www.youtube.com/watch?v=eiTCTzew3ro",
+      "thumbnail": "https://i.ytimg.com/vi/eiTCTzew3ro/hqdefault.jpg",
+      "date": "2026-08-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Secrets of the 7 Chakras | Sadhguru",
       "description": "",
@@ -12081,5 +12118,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-06T03:57:39.189681"
+  "last_updated": "2026-08-07T03:42:36.133555"
 }
