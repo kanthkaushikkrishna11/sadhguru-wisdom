@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-08",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-08",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-07",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3303,6 +3314,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Yogi’s Breakfast For An Active Day! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=2UFbV7lHUwE",
+      "thumbnail": "https://i.ytimg.com/vi/2UFbV7lHUwE/hqdefault.jpg",
+      "date": "2026-08-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Together But Uncommitted | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=My5p3R4Wf-Q",
+      "thumbnail": "https://i.ytimg.com/vi/My5p3R4Wf-Q/hqdefault.jpg",
+      "date": "2026-08-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Most Difficult Chakra | Sadhguru",
       "description": "Sadhguru speaks about Vishuddhi – the most difficult of the seven chakras.Discover the many secrets of prana, chakras and ...",
@@ -12118,5 +12155,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-07T03:42:36.133555"
+  "last_updated": "2026-08-08T02:49:39.002909"
 }
