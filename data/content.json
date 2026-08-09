@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-09",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-09",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-08",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3314,6 +3325,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Problem With Reading Spiritual Books | sadhguru",
+      "description": "Sadhguru explains why reading spiritual books could diminish the very possibilities that could transform you.",
+      "url": "https://www.youtube.com/watch?v=asUfdTVjvjc",
+      "thumbnail": "https://i.ytimg.com/vi/asUfdTVjvjc/hqdefault.jpg",
+      "date": "2026-08-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Moon&#39;s Melatonin Effect | Sadhguru",
+      "description": "Can the moon truly influence your sleep, melatonin, and mood? Beyond scientific understanding, what profound experience does ...",
+      "url": "https://www.youtube.com/watch?v=VXm0FSnrLac",
+      "thumbnail": "https://i.ytimg.com/vi/VXm0FSnrLac/hqdefault.jpg",
+      "date": "2026-08-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru’s Powerful Message At Untold Festival",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=uOTjlZMKLGs",
+      "thumbnail": "https://i.ytimg.com/vi/uOTjlZMKLGs/hqdefault.jpg",
+      "date": "2026-08-08",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Yogi’s Breakfast For An Active Day! | Sadhguru",
       "description": "",
@@ -12155,5 +12205,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-08T02:49:39.002909"
+  "last_updated": "2026-08-09T02:57:32.739442"
 }
