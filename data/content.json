@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3325,6 +3336,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Avoid This Mistake In Life | Sadhguru",
+      "description": "Sadhguru: You get to do more only when you enhance your capabilities. How organized your body, mind, emotions and energy ...",
+      "url": "https://www.youtube.com/watch?v=Ec-BSU6717M",
+      "thumbnail": "https://i.ytimg.com/vi/Ec-BSU6717M/hqdefault.jpg",
+      "date": "2026-08-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru meets participants of the Inner Engineering Retreat program at the Isha Yoga Center",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=PzWsUrTKEWg",
+      "thumbnail": "https://i.ytimg.com/vi/PzWsUrTKEWg/hqdefault.jpg",
+      "date": "2026-08-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Problem With Reading Spiritual Books | sadhguru",
       "description": "Sadhguru explains why reading spiritual books could diminish the very possibilities that could transform you.",
@@ -12205,5 +12242,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-09T02:57:32.739442"
+  "last_updated": "2026-08-10T03:06:22.498077"
 }
