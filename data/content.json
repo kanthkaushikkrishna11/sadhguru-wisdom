@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-11",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-11",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-10",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3336,6 +3347,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Kailash with Sadhguru - An Experience of a Lifetime #throwback",
+      "description": "Throwback to 2024, when Sadhguru initiated participants into a powerful process in the overwhelming presence of Kailash.",
+      "url": "https://www.youtube.com/watch?v=KBhqntCWOwo",
+      "thumbnail": "https://i.ytimg.com/vi/KBhqntCWOwo/hqdefault.jpg",
+      "date": "2026-08-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Avoid This Mistake In Life | Sadhguru",
       "description": "Sadhguru: You get to do more only when you enhance your capabilities. How organized your body, mind, emotions and energy ...",
@@ -12242,5 +12266,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-10T03:06:22.498077"
+  "last_updated": "2026-08-11T02:59:27.636996"
 }
