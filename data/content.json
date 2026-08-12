@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-12",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-12",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-11",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3347,6 +3358,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru’s Latest Book, “Disappearing Faces”",
+      "description": "For over five decades, Sadhguru has photographed the “Disappearing Faces” of the Himalayas, not merely as subjects, but as ...",
+      "url": "https://www.youtube.com/watch?v=xrKLCPmvt8U",
+      "thumbnail": "https://i.ytimg.com/vi/xrKLCPmvt8U/hqdefault.jpg",
+      "date": "2026-08-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Delhi CM Smt. Rekha Gupta Receives “Disappearing Faces,” Sadhguru’s Latest Book",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=MPBclQatD2A",
+      "thumbnail": "https://i.ytimg.com/vi/MPBclQatD2A/hqdefault.jpg",
+      "date": "2026-08-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Kailash with Sadhguru - An Experience of a Lifetime #throwback",
       "description": "Throwback to 2024, when Sadhguru initiated participants into a powerful process in the overwhelming presence of Kailash.",
@@ -12266,5 +12303,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-11T02:59:27.636996"
+  "last_updated": "2026-08-12T03:17:22.561945"
 }
