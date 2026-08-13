@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-13",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-13",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-12",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3358,6 +3369,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Consequences of Meddling with Life Energies | Sadhguru",
+      "description": "Sadhguru shares a personal story of how his entire farm burned down and how the “bliss party” was born, to elucidate the ...",
+      "url": "https://www.youtube.com/watch?v=KCxspJWpOKs",
+      "thumbnail": "https://i.ytimg.com/vi/KCxspJWpOKs/hqdefault.jpg",
+      "date": "2026-08-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Little Boy Helps Sadhguru Out at &quot;Disappearing Faces&quot; Book Launch",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Y_okyoXz1vI",
+      "thumbnail": "https://i.ytimg.com/vi/Y_okyoXz1vI/hqdefault.jpg",
+      "date": "2026-08-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Chants “Kaalo Na Jaanaati” at Untold Festival, Romania",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=WDIwaC_-J_M",
+      "thumbnail": "https://i.ytimg.com/vi/WDIwaC_-J_M/hqdefault.jpg",
+      "date": "2026-08-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "In the Lap of the Master | 5-7 Sep 2026 | Sadhguru",
+      "description": "Sadhguru on why the Guru's lap is not of comfort, but of awakening and dissolution. \"In the Lap of the Master\" is a three-day ...",
+      "url": "https://www.youtube.com/watch?v=D85-ec08E2E",
+      "thumbnail": "https://i.ytimg.com/vi/D85-ec08E2E/hqdefault.jpg",
+      "date": "2026-08-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru’s Latest Book, “Disappearing Faces”",
       "description": "For over five decades, Sadhguru has photographed the “Disappearing Faces” of the Himalayas, not merely as subjects, but as ...",
@@ -12303,5 +12366,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-12T03:17:22.561945"
+  "last_updated": "2026-08-13T03:21:40.383745"
 }
