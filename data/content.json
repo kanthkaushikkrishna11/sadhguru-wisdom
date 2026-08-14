@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3369,6 +3380,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Nepal Welcomes Sadhguru As He Lands At Kathmandu Airport",
+      "description": "Sadhguru arrived at Kathmandu Airport in Nepal on 12 August, where he will begin his journey on two wheels to sacred Mount ...",
+      "url": "https://www.youtube.com/watch?v=Q1awvl0-5Fg",
+      "thumbnail": "https://i.ytimg.com/vi/Q1awvl0-5Fg/hqdefault.jpg",
+      "date": "2026-08-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Loving Welcome In Kathmandu | Sadhguru #KailashWithSadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=gJhRGahnpbs",
+      "thumbnail": "https://i.ytimg.com/vi/gJhRGahnpbs/hqdefault.jpg",
+      "date": "2026-08-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Grace Is Life’s Favorable Wind | Sadhguru",
+      "description": "Sadhguru explains grace as the “favorable wind” – an unseen yet powerful force that quietly supports and nurtures every aspect of ...",
+      "url": "https://www.youtube.com/watch?v=npTR86MK7Cc",
+      "thumbnail": "https://i.ytimg.com/vi/npTR86MK7Cc/hqdefault.jpg",
+      "date": "2026-08-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Consequences of Meddling with Life Energies | Sadhguru",
       "description": "Sadhguru shares a personal story of how his entire farm burned down and how the “bliss party” was born, to elucidate the ...",
@@ -12366,5 +12416,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-13T03:21:40.383745"
+  "last_updated": "2026-08-14T03:19:36.970529"
 }
