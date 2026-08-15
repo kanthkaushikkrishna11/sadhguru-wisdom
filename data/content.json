@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3380,6 +3391,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Joe Rogan &amp; Sadhguru Explore Adiyogi",
+      "description": "In March 2022, Joe Rogan hosted Sadhguru on his podcast – The Joe Rogan Experience – where they explored a range of ...",
+      "url": "https://www.youtube.com/watch?v=fsnBhvUw5NQ",
+      "thumbnail": "https://i.ytimg.com/vi/fsnBhvUw5NQ/hqdefault.jpg",
+      "date": "2026-08-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Preparing For The Ride To Kailash | Sadhguru",
+      "description": "Sadhguru gets ready for his ride to Kailash on two wheels, and the terrains and challenges that lie ahead.",
+      "url": "https://www.youtube.com/watch?v=rKf8Y_cg8Xc",
+      "thumbnail": "https://i.ytimg.com/vi/rKf8Y_cg8Xc/hqdefault.jpg",
+      "date": "2026-08-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Adiyogi in Tricolor #IndependenceDay | Sadhguru",
+      "description": "Adiyogi is illuminated in the tricolor to mark Bharat's 80th Independence Day.",
+      "url": "https://www.youtube.com/watch?v=vwXyzaudhgs",
+      "thumbnail": "https://i.ytimg.com/vi/vwXyzaudhgs/hqdefault.jpg",
+      "date": "2026-08-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Nepal Welcomes Sadhguru As He Lands At Kathmandu Airport",
       "description": "Sadhguru arrived at Kathmandu Airport in Nepal on 12 August, where he will begin his journey on two wheels to sacred Mount ...",
@@ -12416,5 +12466,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-14T03:19:36.970529"
+  "last_updated": "2026-08-15T02:07:46.321180"
 }
