@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3391,6 +3402,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Painting the Spirit of Bharat | Special Tribute On Bharat’s 80th Independence Day | Sadhguru",
+      "description": "On the eve of Bharat's 80th Independence Day, Sadhguru brings the spirit of Bharat to the canvas.",
+      "url": "https://www.youtube.com/watch?v=k9yVDtJvRM8",
+      "thumbnail": "https://i.ytimg.com/vi/k9yVDtJvRM8/hqdefault.jpg",
+      "date": "2026-08-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru’s Tribute To Nirmal Purja",
+      "description": "Being in Kathmandu, one cannot help remembering Nirmal Purja – an adventurous man and a wild spirit who wanted to climb the ...",
+      "url": "https://www.youtube.com/watch?v=Lb38_gRGmK8",
+      "thumbnail": "https://i.ytimg.com/vi/Lb38_gRGmK8/hqdefault.jpg",
+      "date": "2026-08-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Roj Man Maharjan of &quot;Kuma Sagar &amp; The Khwopa&quot; Fusion Band Sings For Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=TEAOn_Wkfi8",
+      "thumbnail": "https://i.ytimg.com/vi/TEAOn_Wkfi8/hqdefault.jpg",
+      "date": "2026-08-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Returns To Chess After 25 Years",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=1d-WsoLjank",
+      "thumbnail": "https://i.ytimg.com/vi/1d-WsoLjank/hqdefault.jpg",
+      "date": "2026-08-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Joe Rogan &amp; Sadhguru Explore Adiyogi",
       "description": "In March 2022, Joe Rogan hosted Sadhguru on his podcast – The Joe Rogan Experience – where they explored a range of ...",
@@ -12466,5 +12529,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-15T02:07:46.321180"
+  "last_updated": "2026-08-16T02:15:05.385686"
 }
