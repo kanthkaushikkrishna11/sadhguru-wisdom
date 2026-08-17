@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-17",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-17",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-16",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3402,6 +3413,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Relishes Fresh Guava In Nepal",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xQTZ41cxYzw",
+      "thumbnail": "https://i.ytimg.com/vi/xQTZ41cxYzw/hqdefault.jpg",
+      "date": "2026-08-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Don&#39;t miss this rare opportunity | Sadhguru",
+      "description": "Don't miss this rare opportunity to meet Sadhguru in Nepal and experience wisdom, meditation and bliss. Come, see how life ...",
+      "url": "https://www.youtube.com/watch?v=TM5a9UgvFGI",
+      "thumbnail": "https://i.ytimg.com/vi/TM5a9UgvFGI/hqdefault.jpg",
+      "date": "2026-08-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Science, Spirituality &amp; the Limits of Human Intellect – Dr. Anand Ranganathan &amp; Sadhguru",
+      "description": "In a captivating conversation, scientist and author Dr. Anand Ranganathan explores the deepest questions of human existence ...",
+      "url": "https://www.youtube.com/watch?v=dPT1MWGgdMk",
+      "thumbnail": "https://i.ytimg.com/vi/dPT1MWGgdMk/hqdefault.jpg",
+      "date": "2026-08-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Meets “Ronaldo” In Nepal",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CH1pyCocma4",
+      "thumbnail": "https://i.ytimg.com/vi/CH1pyCocma4/hqdefault.jpg",
+      "date": "2026-08-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Painting the Spirit of Bharat | Special Tribute On Bharat’s 80th Independence Day | Sadhguru",
       "description": "On the eve of Bharat's 80th Independence Day, Sadhguru brings the spirit of Bharat to the canvas.",
@@ -12529,5 +12592,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-16T02:15:05.385686"
+  "last_updated": "2026-08-17T02:13:25.765264"
 }
