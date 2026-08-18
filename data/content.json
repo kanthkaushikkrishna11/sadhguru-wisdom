@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-18",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-18",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-17",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3413,6 +3424,71 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Dr. Anand Ranganathan &amp; Sadhguru: Unfiltered | Sadhguru",
+      "description": "Scientist and author Dr. Anand Ranganathan explores the deepest questions of human existence with Sadhguru. From the ...",
+      "url": "https://www.youtube.com/watch?v=qDNNvKvf3fg",
+      "thumbnail": "https://i.ytimg.com/vi/qDNNvKvf3fg/hqdefault.jpg",
+      "date": "2026-08-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Sings “Maati Kahe Kumhar Se” En Route To A Village Of Potters",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=W1yBs-2VQK0",
+      "thumbnail": "https://i.ytimg.com/vi/W1yBs-2VQK0/hqdefault.jpg",
+      "date": "2026-08-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Do Cobras Drink Milk? | Sadhguru",
+      "description": "On the sacred day of Naga Panchami, Sadhguru speaks about the age-old tradition of offering milk to the sacred serpent, ...",
+      "url": "https://www.youtube.com/watch?v=YSVJQEeMSss",
+      "thumbnail": "https://i.ytimg.com/vi/YSVJQEeMSss/hqdefault.jpg",
+      "date": "2026-08-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "You Can Experience Kailash Anywhere | Sadhguru",
+      "description": "Kailash is not limited to a physical place. If you create the necessary longing and remove the blocks of perception that you have ...",
+      "url": "https://www.youtube.com/watch?v=gGCYMatqyDs",
+      "thumbnail": "https://i.ytimg.com/vi/gGCYMatqyDs/hqdefault.jpg",
+      "date": "2026-08-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "In search of tigers at Chitwan National Park, Nepal | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=jZNWciTHmCQ",
+      "thumbnail": "https://i.ytimg.com/vi/jZNWciTHmCQ/hqdefault.jpg",
+      "date": "2026-08-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Relishes Fresh Guava In Nepal",
       "description": "",
@@ -12592,5 +12668,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-17T02:13:25.765264"
+  "last_updated": "2026-08-18T02:09:11.962202"
 }
