@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-19",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-19",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-18",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3424,6 +3435,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Enjoys “Special Ordinary Chai” In Nepal",
+      "description": "ISadhguru enjoys “Special Ordinary Chai” by the Rapti River in Nepal. Can you recall the last time Sadhguru had a “Special ...",
+      "url": "https://www.youtube.com/watch?v=The6yKjllu8",
+      "thumbnail": "https://i.ytimg.com/vi/The6yKjllu8/hqdefault.jpg",
+      "date": "2026-08-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "All Set for the Ride to Kailash on Two Wheels | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=58M0ceIXpWA",
+      "thumbnail": "https://i.ytimg.com/vi/58M0ceIXpWA/hqdefault.jpg",
+      "date": "2026-08-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Dr. Anand Ranganathan &amp; Sadhguru: Unfiltered | Sadhguru",
       "description": "Scientist and author Dr. Anand Ranganathan explores the deepest questions of human existence with Sadhguru. From the ...",
@@ -12668,5 +12705,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-18T02:09:11.962202"
+  "last_updated": "2026-08-19T02:11:31.148697"
 }
