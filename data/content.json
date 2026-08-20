@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3435,6 +3446,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Greatest Mystical Library | Sadhguru",
+      "description": "Sadhguru speaks about the incredible power and mystical nature of Mount Kailash and why it holds immense spiritual ...",
+      "url": "https://www.youtube.com/watch?v=7EOVQzbbG8Q",
+      "thumbnail": "https://i.ytimg.com/vi/7EOVQzbbG8Q/hqdefault.jpg",
+      "date": "2026-08-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "En Route To Kailash | Sadhguru",
+      "description": "Through winding mountain roads and breathtaking landscapes, Sadhguru stops briefly to meet pilgrims en route to Kailash.",
+      "url": "https://www.youtube.com/watch?v=YOvm_hRYEaQ",
+      "thumbnail": "https://i.ytimg.com/vi/YOvm_hRYEaQ/hqdefault.jpg",
+      "date": "2026-08-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Arrives In Gyirong",
+      "description": "A lighthearted moment upon arriving in Gyirong. #KailashWithSadhguru2026.",
+      "url": "https://www.youtube.com/watch?v=q3j5pCHuKDg",
+      "thumbnail": "https://i.ytimg.com/vi/q3j5pCHuKDg/hqdefault.jpg",
+      "date": "2026-08-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Enjoys “Special Ordinary Chai” In Nepal",
       "description": "ISadhguru enjoys “Special Ordinary Chai” by the Rapti River in Nepal. Can you recall the last time Sadhguru had a “Special ...",
@@ -12705,5 +12755,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-19T02:11:31.148697"
+  "last_updated": "2026-08-20T02:10:54.420191"
 }
