@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3446,6 +3457,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Takes A Frisbee Break On The Way To Kailash",
+      "description": "A brief stop on the journey to Kailash, as Sadhguru takes a moment to play frisbee. #KailashWithSadhguru2026.",
+      "url": "https://www.youtube.com/watch?v=8-rehw21EQQ",
+      "thumbnail": "https://i.ytimg.com/vi/8-rehw21EQQ/hqdefault.jpg",
+      "date": "2026-08-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Surprises Kailash Pilgrims",
+      "description": "KailashWithSadhguru2026.",
+      "url": "https://www.youtube.com/watch?v=lggLVqZPCec",
+      "thumbnail": "https://i.ytimg.com/vi/lggLVqZPCec/hqdefault.jpg",
+      "date": "2026-08-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Greatest Mystical Library | Sadhguru",
       "description": "Sadhguru speaks about the incredible power and mystical nature of Mount Kailash and why it holds immense spiritual ...",
@@ -12755,5 +12792,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-20T02:10:54.420191"
+  "last_updated": "2026-08-21T02:17:16.415127"
 }
