@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3457,6 +3468,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Without a deep sense of intrigue and wonder, your aliveness will come down.",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=OASax2skFEY",
+      "thumbnail": "https://i.ytimg.com/vi/OASax2skFEY/hqdefault.jpg",
+      "date": "2026-08-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Takes A Frisbee Break On The Way To Kailash",
       "description": "A brief stop on the journey to Kailash, as Sadhguru takes a moment to play frisbee. #KailashWithSadhguru2026.",
@@ -12792,5 +12816,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-21T02:17:16.415127"
+  "last_updated": "2026-08-22T02:08:29.046593"
 }
