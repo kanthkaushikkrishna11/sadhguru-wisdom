@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-23",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-23",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-22",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3468,6 +3479,71 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Who Is Riding With Sadhguru To Kailash?",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=m_pw1StPIms",
+      "thumbnail": "https://i.ytimg.com/vi/m_pw1StPIms/hqdefault.jpg",
+      "date": "2026-08-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "From Saga To Manasarovar Via New Dongma | Sadhguru",
+      "description": "Sadhguru's incredible journey to Mount Kailash continues from Saga to New Dongma and onward to Manasarovar.",
+      "url": "https://www.youtube.com/watch?v=QBgj-ZolSYg",
+      "thumbnail": "https://i.ytimg.com/vi/QBgj-ZolSYg/hqdefault.jpg",
+      "date": "2026-08-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Touch Kailash? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=IiBC2JBYej8",
+      "thumbnail": "https://i.ytimg.com/vi/IiBC2JBYej8/hqdefault.jpg",
+      "date": "2026-08-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Tamil Nadu&#39;s Hanuman Connection | Pandit Dhirendra Shastri with Sadhguru",
+      "description": "Bageshwar Dham's Peethadhishwar Pandit Dhirendra Shastri spent time in the consecrated spaces of Isha Yoga Center ...",
+      "url": "https://www.youtube.com/watch?v=zqooPTxZzzE",
+      "thumbnail": "https://i.ytimg.com/vi/zqooPTxZzzE/hqdefault.jpg",
+      "date": "2026-08-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A touching moment on the way to Manasarovar, as Chinese volunteers warmly greet Sadhguru.",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=wWtLNxe7_f0",
+      "thumbnail": "https://i.ytimg.com/vi/wWtLNxe7_f0/hqdefault.jpg",
+      "date": "2026-08-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Without a deep sense of intrigue and wonder, your aliveness will come down.",
       "description": "",
@@ -12816,5 +12892,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-22T02:08:29.046593"
+  "last_updated": "2026-08-23T02:18:04.592623"
 }
