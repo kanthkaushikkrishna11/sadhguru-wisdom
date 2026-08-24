@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3479,6 +3490,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Enters Shiva Territory – Toward Manasarovar",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=dwnDbq6xvoY",
+      "thumbnail": "https://i.ytimg.com/vi/dwnDbq6xvoY/hqdefault.jpg",
+      "date": "2026-08-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru At Rakshasthal",
+      "description": "Sadhguru explores the story behind Rakshasthal and its connection to Ravana and Mandodari.",
+      "url": "https://www.youtube.com/watch?v=ddVGYosmDlw",
+      "thumbnail": "https://i.ytimg.com/vi/ddVGYosmDlw/hqdefault.jpg",
+      "date": "2026-08-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Two Chinese devotees offer their “hearts” to Sadhguru.",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=MYPi3qww7XY",
+      "thumbnail": "https://i.ytimg.com/vi/MYPi3qww7XY/hqdefault.jpg",
+      "date": "2026-08-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Mystical Dimensions Of Kailash | Sadhguru",
+      "description": "Sadhguru looks at the most profound mystical library on the planet – Mount Kailash, the immensity of knowing stored in it and ...",
+      "url": "https://www.youtube.com/watch?v=R3Zu3X5I83E",
+      "thumbnail": "https://i.ytimg.com/vi/R3Zu3X5I83E/hqdefault.jpg",
+      "date": "2026-08-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Who Is Riding With Sadhguru To Kailash?",
       "description": "",
@@ -12892,5 +12955,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-23T02:18:04.592623"
+  "last_updated": "2026-08-24T02:16:31.052893"
 }
