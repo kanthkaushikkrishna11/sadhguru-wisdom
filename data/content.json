@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3490,6 +3501,58 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "What Makes Kailash Water Powerful? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=vL47E3JK9lU",
+      "thumbnail": "https://i.ytimg.com/vi/vL47E3JK9lU/hqdefault.jpg",
+      "date": "2026-08-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "If you do not make petty things big in your head, everything is a miracle | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=60G3le0NWwI",
+      "thumbnail": "https://i.ytimg.com/vi/60G3le0NWwI/hqdefault.jpg",
+      "date": "2026-08-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "In The Footsteps Of The Master | Sadhguru",
+      "description": "In the footsteps of the Master, toward the timeless presence of Kailash.",
+      "url": "https://www.youtube.com/watch?v=EkDDtpTgI3o",
+      "thumbnail": "https://i.ytimg.com/vi/EkDDtpTgI3o/hqdefault.jpg",
+      "date": "2026-08-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Drawing Closer to Shiva’s Abode #KailashWithSadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=tO08qYKMZmw",
+      "thumbnail": "https://i.ytimg.com/vi/tO08qYKMZmw/hqdefault.jpg",
+      "date": "2026-08-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Enters Shiva Territory – Toward Manasarovar",
       "description": "",
@@ -12955,5 +13018,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-24T02:16:31.052893"
+  "last_updated": "2026-08-25T02:12:14.015384"
 }
