@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3501,6 +3512,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Returns To Kailash – The Abode Of Shiva",
+      "description": "For the 21st time, Sadhguru returns to Kailash – the abode of Shiva, the Adiyogi.",
+      "url": "https://www.youtube.com/watch?v=FkLNIhcJc5g",
+      "thumbnail": "https://i.ytimg.com/vi/FkLNIhcJc5g/hqdefault.jpg",
+      "date": "2026-08-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru and the participants of the Kailash Sojourn soak in the powerful presence of Kailash",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=ZNDbN0-lZL8",
+      "thumbnail": "https://i.ytimg.com/vi/ZNDbN0-lZL8/hqdefault.jpg",
+      "date": "2026-08-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Makes Kailash Water Powerful? | Sadhguru",
       "description": "",
@@ -13018,5 +13055,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-25T02:12:14.015384"
+  "last_updated": "2026-08-26T02:18:40.385067"
 }
