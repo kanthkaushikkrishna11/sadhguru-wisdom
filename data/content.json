@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-28",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-28",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-27",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3523,6 +3534,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru 360 - Ep #5: Sadhguru’s Astonishing Experiences at Kailash &amp; Manasarovar | 4K UHD",
+      "description": "In the fifth episode of Sadhguru 360, Sadhguru explains the mystical nature of Mount Kailash and Lake Manasarovar, delving into ...",
+      "url": "https://www.youtube.com/watch?v=Ji9o5inyIPg",
+      "thumbnail": "https://i.ytimg.com/vi/Ji9o5inyIPg/hqdefault.jpg",
+      "date": "2026-08-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Update on Tragic Flash Flood on China-Nepal Border",
       "description": "A terrible and tragic flash flood has taken place at Gyirong in Tibet - China, and one of our Kailash groups was caught in it.",
@@ -13092,5 +13116,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-27T10:45:14.429770"
+  "last_updated": "2026-08-28T12:22:38.980209"
 }
