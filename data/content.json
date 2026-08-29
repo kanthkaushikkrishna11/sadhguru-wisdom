@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-29",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-29",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-28",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -13116,5 +13127,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-28T12:22:38.980209"
+  "last_updated": "2026-08-29T07:32:11.979143"
 }
