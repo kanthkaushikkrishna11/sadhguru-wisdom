@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-08-31",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-08-31",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-08-30",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3556,6 +3567,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Join Sadhguru &quot;In Solidarity with Nepal&quot; | Live at 4:45 PM IST | Kathmandu",
+      "description": "A devastating flood struck the Nepal-Tibet border on 26 August, causing extensive damage and loss of life. Join Sadhguru for \"In ...",
+      "url": "https://www.youtube.com/watch?v=dzi4pSSy7mw",
+      "thumbnail": "https://i.ytimg.com/vi/dzi4pSSy7mw/hqdefault.jpg",
+      "date": "2026-08-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru 360 - Ep #5: Sadhguru’s Astonishing Experiences at Kailash &amp; Manasarovar | 4K UHD",
       "description": "In the fifth episode of Sadhguru 360, Sadhguru explains the mystical nature of Mount Kailash and Lake Manasarovar, delving into ...",
@@ -13138,5 +13162,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-08-30T06:04:47.562464"
+  "last_updated": "2026-08-31T06:24:19.944659"
 }
