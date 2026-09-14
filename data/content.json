@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-09-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-09-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-09-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3710,6 +3721,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Students of Sadhguru Gurukulam Samskriti Check In On Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=tO8IL9e6-ZY",
+      "thumbnail": "https://i.ytimg.com/vi/tO8IL9e6-ZY/hqdefault.jpg",
+      "date": "2026-09-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Join Sadhguru &quot;In Solidarity with Nepal&quot; | Live at 4:45 PM IST | Kathmandu",
       "description": "A devastating flood struck the Nepal-Tibet border on 26 August, causing extensive damage and loss of life. Join Sadhguru for \"In ...",
@@ -13305,5 +13329,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-09-13T05:29:46.040329"
+  "last_updated": "2026-09-14T05:33:47.872973"
 }
