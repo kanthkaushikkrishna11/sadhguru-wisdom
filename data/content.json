@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-09-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-09-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-09-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3721,6 +3732,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "You Need A 24-Hour Break. Here&#39;s Why! | Sadhguru",
+      "description": "If you sit alone for 24 hours without any activity, and simply watch the nature of your mind, you will know how compulsive your ...",
+      "url": "https://www.youtube.com/watch?v=aepPIs5xRSU",
+      "thumbnail": "https://i.ytimg.com/vi/aepPIs5xRSU/hqdefault.jpg",
+      "date": "2026-09-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Students of Sadhguru Gurukulam Samskriti Check In On Sadhguru",
       "description": "",
@@ -13329,5 +13353,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-09-14T05:33:47.872973"
+  "last_updated": "2026-09-15T05:34:58.606760"
 }
