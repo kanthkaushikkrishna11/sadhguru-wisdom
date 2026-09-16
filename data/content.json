@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-09-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-09-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-09-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3732,6 +3743,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Fulfillment comes out of absolute involvement with the simplest things",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=SmdXja-WtSU",
+      "thumbnail": "https://i.ytimg.com/vi/SmdXja-WtSU/hqdefault.jpg",
+      "date": "2026-09-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "You Need A 24-Hour Break. Here&#39;s Why! | Sadhguru",
       "description": "If you sit alone for 24 hours without any activity, and simply watch the nature of your mind, you will know how compulsive your ...",
@@ -13353,5 +13377,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-09-15T05:34:58.606760"
+  "last_updated": "2026-09-16T05:28:39.589438"
 }
