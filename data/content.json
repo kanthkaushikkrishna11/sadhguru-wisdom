@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-09-19",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-09-19",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-09-18",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3765,6 +3776,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Are you a Lover or a Fixer? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=_QHpavySmvw",
+      "thumbnail": "https://i.ytimg.com/vi/_QHpavySmvw/hqdefault.jpg",
+      "date": "2026-09-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Darshan Part 1 - Shiva’s Lesson for Kubera",
+      "description": "Sadhguru unravels the deeper significance of Ganesha Chaturthi beyond the celebrations and feasting. Through the story of ...",
+      "url": "https://www.youtube.com/watch?v=_zD8lEHeVP8",
+      "thumbnail": "https://i.ytimg.com/vi/_zD8lEHeVP8/hqdefault.jpg",
+      "date": "2026-09-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Does Ganesha Remove All Obstacles? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=xYMI28xbAas",
+      "thumbnail": "https://i.ytimg.com/vi/xYMI28xbAas/hqdefault.jpg",
+      "date": "2026-09-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "What Happens at 3:30 AM? | Sadhguru",
       "description": "Sadhguru looks at the reason behind the peak secretions of the pineal gland during the last quarter of the night and how one can ...",
@@ -13412,5 +13462,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-09-18T05:23:40.554369"
+  "last_updated": "2026-09-19T05:17:12.520027"
 }
