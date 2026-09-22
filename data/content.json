@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-09-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-09-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-09-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3798,6 +3809,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Darshan Part 2 - The Science of Navratri",
+      "description": "Sadhguru looks at the significance of Navratri – the nine nights of Devi, or the Divine Feminine – beyond celebration and tradition.",
+      "url": "https://www.youtube.com/watch?v=ac4264G0gk4",
+      "thumbnail": "https://i.ytimg.com/vi/ac4264G0gk4/hqdefault.jpg",
+      "date": "2026-09-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Are you a Lover or a Fixer? | Sadhguru",
       "description": "",
@@ -13484,5 +13508,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-09-21T05:39:29.384917"
+  "last_updated": "2026-09-22T05:36:41.219576"
 }
