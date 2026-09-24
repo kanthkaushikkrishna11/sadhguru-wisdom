@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-09-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-09-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-09-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3820,6 +3831,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Simplest Way To Enlightenment | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=OaMuWKyPWpY",
+      "thumbnail": "https://i.ytimg.com/vi/OaMuWKyPWpY/hqdefault.jpg",
+      "date": "2026-09-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Significance of Navratri &amp; Vijayadashami | Sadhguru",
       "description": "Navratri is dedicated to the three forms of Devi – Durga, Saraswati and Lakshmi – who represent three fundamental qualities ...",
@@ -13532,5 +13556,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-09-23T05:22:28.708073"
+  "last_updated": "2026-09-24T05:38:24.103055"
 }
