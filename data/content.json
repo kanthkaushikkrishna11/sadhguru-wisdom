@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-09-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-09-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-09-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3831,6 +3842,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Darshan Part 3 – Sadhguru Responds To A Seeker Who Lost His Brother",
+      "description": "Responding to a seeker's question about losing his brother, Sadhguru speaks about the reality of death, the nature of grief, and ...",
+      "url": "https://www.youtube.com/watch?v=ydT1WdeJ_38",
+      "thumbnail": "https://i.ytimg.com/vi/ydT1WdeJ_38/hqdefault.jpg",
+      "date": "2026-09-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Responds To A Seeker Who Lost His Brother",
+      "description": "When someone dear to us passes, it is an opportunity for us to realize the mortal nature of our existence. -Sg Sadhguru 360 A ...",
+      "url": "https://www.youtube.com/watch?v=xX8yFhqJuO4",
+      "thumbnail": "https://i.ytimg.com/vi/xX8yFhqJuO4/hqdefault.jpg",
+      "date": "2026-09-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Simplest Way To Enlightenment | Sadhguru",
       "description": "",
@@ -13556,5 +13593,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-09-24T05:38:24.103055"
+  "last_updated": "2026-09-25T05:36:07.278998"
 }
