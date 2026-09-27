@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-09-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-09-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-09-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3853,6 +3864,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru 360 - Ep #6: Sardar Patel: The Man Who United Bharat | 4K UHD",
+      "description": "In this episode of Sadhguru 360 on Bhadrapada Purnima, Sadhguru delves into the remarkable, often untold story of how modern ...",
+      "url": "https://www.youtube.com/watch?v=P_P5LY_Cdwc",
+      "thumbnail": "https://i.ytimg.com/vi/P_P5LY_Cdwc/hqdefault.jpg",
+      "date": "2026-09-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Story of Sardar Patel – The Architect of Modern Bharat | Sadhguru",
+      "description": "In the sixth episode of Sadhguru 360 on on Bhadrapada Purnima, Sadhguru explores the grit, astuteness, and absolute ...",
+      "url": "https://www.youtube.com/watch?v=siNC_bLNPTs",
+      "thumbnail": "https://i.ytimg.com/vi/siNC_bLNPTs/hqdefault.jpg",
+      "date": "2026-09-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Darshan Part 3 – Sadhguru Responds To A Seeker Who Lost His Brother",
       "description": "Responding to a seeker's question about losing his brother, Sadhguru speaks about the reality of death, the nature of grief, and ...",
@@ -13604,5 +13641,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-09-26T05:41:45.182108"
+  "last_updated": "2026-09-27T05:59:26.802131"
 }
