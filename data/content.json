@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-09-28",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-09-28",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-09-27",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3864,6 +3875,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How Sardar Patel Unified Kashmir With Bharat | Sadhguru",
+      "description": "In the sixth episode of Sadhguru 360 on on Bhadrapada Purnima, Sadhguru explores the grit, astuteness, and absolute ...",
+      "url": "https://www.youtube.com/watch?v=Jhq8Jgg_bRw",
+      "thumbnail": "https://i.ytimg.com/vi/Jhq8Jgg_bRw/hqdefault.jpg",
+      "date": "2026-09-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru 360 - Ep #6: Sardar Patel: The Man Who United Bharat | 4K UHD",
       "description": "In this episode of Sadhguru 360 on Bhadrapada Purnima, Sadhguru delves into the remarkable, often untold story of how modern ...",
@@ -13641,5 +13665,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-09-27T05:59:26.802131"
+  "last_updated": "2026-09-28T06:06:05.464422"
 }
