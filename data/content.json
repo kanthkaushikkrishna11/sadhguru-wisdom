@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-09-30",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-09-30",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-09-29",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3886,6 +3897,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Sardar Patel Ordered Somnath’s Reconstruction | Sadhguru",
+      "description": "The nation will always remember one of Sardar Patel's greatest contributions to Bharat: his decision to reconstruct the Somnath ...",
+      "url": "https://www.youtube.com/watch?v=mAqiWHUrTHk",
+      "thumbnail": "https://i.ytimg.com/vi/mAqiWHUrTHk/hqdefault.jpg",
+      "date": "2026-09-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "How Sardar Patel Unified Kashmir With Bharat | Sadhguru",
       "description": "In the sixth episode of Sadhguru 360 on on Bhadrapada Purnima, Sadhguru explores the grit, astuteness, and absolute ...",
@@ -13676,5 +13700,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-09-29T06:24:07.196320"
+  "last_updated": "2026-09-30T06:09:44.082100"
 }
