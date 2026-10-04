@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3930,6 +3941,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How to Make Your Child Listen to You | Sadhguru",
+      "description": "Do not ask your children to listen to you. Make yourself in such a way that they look at you and think, “Wow! I want to be like that.",
+      "url": "https://www.youtube.com/watch?v=3mVsk4luPGk",
+      "thumbnail": "https://i.ytimg.com/vi/3mVsk4luPGk/hqdefault.jpg",
+      "date": "2026-10-03",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Sardar Patel Ordered Somnath’s Reconstruction | Sadhguru",
       "description": "The nation will always remember one of Sardar Patel's greatest contributions to Bharat: his decision to reconstruct the Somnath ...",
@@ -13733,5 +13757,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-03T05:53:55.013442"
+  "last_updated": "2026-10-04T06:31:11.439631"
 }
