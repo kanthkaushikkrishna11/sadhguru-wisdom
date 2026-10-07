@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-07",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-07",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-06",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3963,6 +3974,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Are You Suppressing Your Emotions? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=3vsfkUXvvhs",
+      "thumbnail": "https://i.ytimg.com/vi/3vsfkUXvvhs/hqdefault.jpg",
+      "date": "2026-10-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "How to Make Your Child Listen to You | Sadhguru",
       "description": "Do not ask your children to listen to you. Make yourself in such a way that they look at you and think, “Wow! I want to be like that.",
@@ -13779,5 +13803,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-06T07:00:36.414361"
+  "last_updated": "2026-10-07T06:41:27.134868"
 }
