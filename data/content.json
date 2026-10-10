@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -3996,6 +4007,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Will AI Destroy Humanity? An Evening with Sadhguru | Singapore, 6 Oct 2026",
+      "description": "Artificial Intelligence is the next evolution of machines, not of human beings. It will bring more comfort and convenience, but it will ...",
+      "url": "https://www.youtube.com/watch?v=GrTj-u3Az70",
+      "thumbnail": "https://i.ytimg.com/vi/GrTj-u3Az70/hqdefault.jpg",
+      "date": "2026-10-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Soil",
       "description": "As the Air rids itselfof extended summer feversAs chill begins to set inThe green valley full of green leafPreparing to turn intoa gay ...",
@@ -13838,5 +13862,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-09T06:58:01.164154"
+  "last_updated": "2026-10-10T06:32:14.629907"
 }
