@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-11",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-11",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-10",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4007,6 +4018,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Stop Being Your Own Enemy | Sadhguru",
+      "description": "Sadhguru explains how stress and misery are often self-created, and why true wellbeing begins when we stop turning against ...",
+      "url": "https://www.youtube.com/watch?v=aM43NrPXkEo",
+      "thumbnail": "https://i.ytimg.com/vi/aM43NrPXkEo/hqdefault.jpg",
+      "date": "2026-10-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Mahasatsangam with Sadhguru at Batu Caves, Malaysia | Highlights",
+      "description": "Relive powerful moments from the Mahasatsangam with Sadhguru at Batu Caves, Kuala Lumpur on 8 October. From the ...",
+      "url": "https://www.youtube.com/watch?v=KrN3ZfyziWU",
+      "thumbnail": "https://i.ytimg.com/vi/KrN3ZfyziWU/hqdefault.jpg",
+      "date": "2026-10-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Will AI Destroy Humanity? An Evening with Sadhguru | Singapore, 6 Oct 2026",
       "description": "Artificial Intelligence is the next evolution of machines, not of human beings. It will bring more comfort and convenience, but it will ...",
@@ -13862,5 +13899,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-10T06:32:14.629907"
+  "last_updated": "2026-10-11T06:37:40.308826"
 }
