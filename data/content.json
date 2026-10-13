@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-13",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-13",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-12",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4029,6 +4040,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "When Your Heart is Full of Love… | Sadhguru",
+      "description": "Sadhguru explains why giving is not an act of charity, but a consequence of an all-inclusive experience of life. Offer Annadanam ...",
+      "url": "https://www.youtube.com/watch?v=1p9fnX2750I",
+      "thumbnail": "https://i.ytimg.com/vi/1p9fnX2750I/hqdefault.jpg",
+      "date": "2026-10-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Navratri Worship During Menstruation? | Sadhguru",
+      "description": "Sadhguru explores how the traditional belief that women need not worship during their menstrual cycles came about, and whether ...",
+      "url": "https://www.youtube.com/watch?v=yJbYcgup8LY",
+      "thumbnail": "https://i.ytimg.com/vi/yJbYcgup8LY/hqdefault.jpg",
+      "date": "2026-10-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Stop Being Your Own Enemy | Sadhguru",
       "description": "Sadhguru explains how stress and misery are often self-created, and why true wellbeing begins when we stop turning against ...",
@@ -13910,5 +13947,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-12T06:45:55.310938"
+  "last_updated": "2026-10-13T07:12:53.548093"
 }
