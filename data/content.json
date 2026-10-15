@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4051,6 +4062,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How To Become Ecstatic | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Y-b_AOWNVgo",
+      "thumbnail": "https://i.ytimg.com/vi/Y-b_AOWNVgo/hqdefault.jpg",
+      "date": "2026-10-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Malaysia Swept Away In Ecstasy of Enlightenment! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=BXBi9uJ6h_c",
+      "thumbnail": "https://i.ytimg.com/vi/BXBi9uJ6h_c/hqdefault.jpg",
+      "date": "2026-10-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "When Your Heart is Full of Love… | Sadhguru",
       "description": "Sadhguru explains why giving is not an act of charity, but a consequence of an all-inclusive experience of life. Offer Annadanam ...",
@@ -13958,5 +13995,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-14T05:37:13.611102"
+  "last_updated": "2026-10-15T05:24:05.866269"
 }
