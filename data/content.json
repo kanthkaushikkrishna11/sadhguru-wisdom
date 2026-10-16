@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4062,6 +4073,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why People Lie | Sadhguru",
+      "description": "Soak in Ecstasy of Enlightenment | Malaysia, 11 Oct 2026.",
+      "url": "https://www.youtube.com/watch?v=agxhcVnbInI",
+      "thumbnail": "https://i.ytimg.com/vi/agxhcVnbInI/hqdefault.jpg",
+      "date": "2026-10-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Life Is Like The Stock Market | Sadhguru",
+      "description": "Crafting a Conscious Planet with Sadhguru | Malaysia, 7 Oct 2026.",
+      "url": "https://www.youtube.com/watch?v=u4r9PamxI8U",
+      "thumbnail": "https://i.ytimg.com/vi/u4r9PamxI8U/hqdefault.jpg",
+      "date": "2026-10-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "How To Become Ecstatic | Sadhguru",
       "description": "",
@@ -13995,5 +14032,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-15T05:24:05.866269"
+  "last_updated": "2026-10-16T05:16:35.286516"
 }
