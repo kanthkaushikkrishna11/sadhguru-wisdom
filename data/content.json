@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-19",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-19",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-18",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4095,6 +4106,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru brings Linga Bhairavi to life on canvas.",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=6cvylo22xl4",
+      "thumbnail": "https://i.ytimg.com/vi/6cvylo22xl4/hqdefault.jpg",
+      "date": "2026-10-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru&#39;s Week in Malaysia &amp; Singapore",
       "description": "Across Malaysia and Singapore, Sadhguru engaged with thousands through powerful gatherings and thought-provoking ...",
@@ -14093,5 +14117,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-18T05:15:59.356356"
+  "last_updated": "2026-10-19T05:28:55.494761"
 }
