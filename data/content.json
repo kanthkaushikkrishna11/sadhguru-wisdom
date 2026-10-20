@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4106,6 +4117,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "This Guru Placed His Feet on a Shivalinga | Sadhguru",
+      "description": "Sadhguru narrates the story of a great devotee and celebrated saint from Maharashtra, Namdev, and a strange encounter through ...",
+      "url": "https://www.youtube.com/watch?v=om2kDQxF04Q",
+      "thumbnail": "https://i.ytimg.com/vi/om2kDQxF04Q/hqdefault.jpg",
+      "date": "2026-10-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru brings Linga Bhairavi to life on canvas.",
       "description": "",
@@ -14117,5 +14141,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-19T05:28:55.494761"
+  "last_updated": "2026-10-20T05:32:22.304296"
 }
