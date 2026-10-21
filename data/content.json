@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4117,6 +4128,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Rama Regretted Killing Ravana | Sadhguru",
+      "description": "Sadhguru reveals a surprising and little-known aspect of Rama's victory over Ravana, and how it applies to our everyday lives.",
+      "url": "https://www.youtube.com/watch?v=FZ1CFs-xx_8",
+      "thumbnail": "https://i.ytimg.com/vi/FZ1CFs-xx_8/hqdefault.jpg",
+      "date": "2026-10-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Stoned Without Substances | Sadhguru",
+      "description": "Sadhguru explains how practicing Shambhavi Mahamudra regularly can transform one's chemistry and create a natural state of ...",
+      "url": "https://www.youtube.com/watch?v=0WgmB2vU_sI",
+      "thumbnail": "https://i.ytimg.com/vi/0WgmB2vU_sI/hqdefault.jpg",
+      "date": "2026-10-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "This Guru Placed His Feet on a Shivalinga | Sadhguru",
       "description": "Sadhguru narrates the story of a great devotee and celebrated saint from Maharashtra, Namdev, and a strange encounter through ...",
@@ -14141,5 +14178,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-20T05:32:22.304296"
+  "last_updated": "2026-10-21T05:32:21.474336"
 }
