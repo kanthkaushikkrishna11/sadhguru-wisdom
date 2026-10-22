@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4128,6 +4139,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Heaven &amp; Hell Explained! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=apu0YmLPCeQ",
+      "thumbnail": "https://i.ytimg.com/vi/apu0YmLPCeQ/hqdefault.jpg",
+      "date": "2026-10-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Rama Regretted Killing Ravana | Sadhguru",
       "description": "Sadhguru reveals a surprising and little-known aspect of Rama's victory over Ravana, and how it applies to our everyday lives.",
@@ -14178,5 +14202,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-21T05:32:21.474336"
+  "last_updated": "2026-10-22T05:35:51.533523"
 }
