@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4150,6 +4161,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Moving the Agna Chakra | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=C0_vBy2TkXM",
+      "thumbnail": "https://i.ytimg.com/vi/C0_vBy2TkXM/hqdefault.jpg",
+      "date": "2026-10-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "1 Mistake That Ruins Marriages | Sadhguru",
       "description": "Human beings have needs – physical, psychological, emotional, social and economic. To fulfill these needs, you find one person ...",
@@ -14226,5 +14250,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-23T05:34:03.890449"
+  "last_updated": "2026-10-24T05:12:18.730368"
 }
