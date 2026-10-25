@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4161,6 +4172,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "If you are meditator, is it fine to have sex?",
+      "description": "Sadhguru tackles a taboo question on sex and meditation, and the subtle shifts that happen when awareness grows.",
+      "url": "https://www.youtube.com/watch?v=6Zc1gZ03cbg",
+      "thumbnail": "https://i.ytimg.com/vi/6Zc1gZ03cbg/hqdefault.jpg",
+      "date": "2026-10-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Moving the Agna Chakra | Sadhguru",
       "description": "",
@@ -14250,5 +14274,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-24T05:12:18.730368"
+  "last_updated": "2026-10-25T05:30:05.322554"
 }
