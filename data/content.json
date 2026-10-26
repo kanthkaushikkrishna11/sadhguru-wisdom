@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4172,6 +4183,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Life Is Brief | Sadhguru",
+      "description": "Whatever you have – your skills, your love, your joy, your ingenuity, your ability to do things – please show it now. Do not try to ...",
+      "url": "https://www.youtube.com/watch?v=22e2G-rhLrE",
+      "thumbnail": "https://i.ytimg.com/vi/22e2G-rhLrE/hqdefault.jpg",
+      "date": "2026-10-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru 360 - Ep #7: The Forgotten Power of the Divine Feminine | 4K UHD",
+      "description": "Sadhguru 360 A unique, direct-to-audience solo podcast where Sadhguru speaks straight to you, diving deep into topics ranging ...",
+      "url": "https://www.youtube.com/watch?v=BWfS-KmA3mM",
+      "thumbnail": "https://i.ytimg.com/vi/BWfS-KmA3mM/hqdefault.jpg",
+      "date": "2026-10-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "If you are meditator, is it fine to have sex?",
       "description": "Sadhguru tackles a taboo question on sex and meditation, and the subtle shifts that happen when awareness grows.",
@@ -14274,5 +14311,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-25T05:30:05.322554"
+  "last_updated": "2026-10-26T05:35:25.881810"
 }
