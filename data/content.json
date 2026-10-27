@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4183,6 +4194,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Bharat Never Abandoned Devi Worship | Sadhguru",
+      "description": "On the occasion of Ashwina Purnima, Sadhguru explores the profound significance of Devi –the Divine Feminine – in Yogic ...",
+      "url": "https://www.youtube.com/watch?v=_7dwohp5_sk",
+      "thumbnail": "https://i.ytimg.com/vi/_7dwohp5_sk/hqdefault.jpg",
+      "date": "2026-10-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Wild Goddesses | Sadhguru",
+      "description": "In the Sanatana tradition, some of the most formidable manifestations of feminine power were elevated to the highest objects of ...",
+      "url": "https://www.youtube.com/watch?v=EPVGCnWUHts",
+      "thumbnail": "https://i.ytimg.com/vi/EPVGCnWUHts/hqdefault.jpg",
+      "date": "2026-10-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Life Is Brief | Sadhguru",
       "description": "Whatever you have – your skills, your love, your joy, your ingenuity, your ability to do things – please show it now. Do not try to ...",
@@ -14311,5 +14348,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-26T05:35:25.881810"
+  "last_updated": "2026-10-27T05:48:21.747786"
 }
