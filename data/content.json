@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-29",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-29",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-28",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4205,6 +4216,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Remembers His Mother | Sadhguru",
+      "description": "The feminine is not merely about cooking, cleaning, or taking care of practical necessities. It is about bringing beauty, warmth, ...",
+      "url": "https://www.youtube.com/watch?v=wyV6cQ3HeEY",
+      "thumbnail": "https://i.ytimg.com/vi/wyV6cQ3HeEY/hqdefault.jpg",
+      "date": "2026-10-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Kali Became Chamunda | Sadhguru",
+      "description": "Of the three fundamental qualities of Devi, Saraswati or Sharada is the embodiment of knowledge, wisdom, and the aspiration to ...",
+      "url": "https://www.youtube.com/watch?v=GY_PM7A9exc",
+      "thumbnail": "https://i.ytimg.com/vi/GY_PM7A9exc/hqdefault.jpg",
+      "date": "2026-10-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Are You in Bad Company? | Sadhguru",
+      "description": "If you are alone and you are getting bored, obviously you are in bad company.",
+      "url": "https://www.youtube.com/watch?v=D_c9QDHNg4U",
+      "thumbnail": "https://i.ytimg.com/vi/D_c9QDHNg4U/hqdefault.jpg",
+      "date": "2026-10-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Bharat Never Abandoned Devi Worship | Sadhguru",
       "description": "On the occasion of Ashwina Purnima, Sadhguru explores the profound significance of Devi –the Divine Feminine – in Yogic ...",
@@ -14359,5 +14409,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-28T06:26:28.811919"
+  "last_updated": "2026-10-29T06:37:34.912793"
 }
