@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-30",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-30",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-29",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4216,6 +4227,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Lakshmi Is More Than Wealth | Sadhguru",
+      "description": "Devi Lakshmi represents not simply material wealth, but the richness of life itself. –Sg Sadhguru 360 A unique, direct-to-audience ...",
+      "url": "https://www.youtube.com/watch?v=vhUX5kyu9Rw",
+      "thumbnail": "https://i.ytimg.com/vi/vhUX5kyu9Rw/hqdefault.jpg",
+      "date": "2026-10-29",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Introvert vs. Extrovert: Which Is Better? | Sadhguru",
+      "description": "Don't label people as extroverts or introverts. Every human being has the right to be the way they want. –Sg.",
+      "url": "https://www.youtube.com/watch?v=4JaXnYd2jow",
+      "thumbnail": "https://i.ytimg.com/vi/4JaXnYd2jow/hqdefault.jpg",
+      "date": "2026-10-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Remembers His Mother | Sadhguru",
       "description": "The feminine is not merely about cooking, cleaning, or taking care of practical necessities. It is about bringing beauty, warmth, ...",
@@ -14409,5 +14446,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-29T06:37:34.912793"
+  "last_updated": "2026-10-30T06:37:38.328103"
 }
