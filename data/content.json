@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-10-31",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-10-31",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-30",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4227,6 +4238,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Will Inner Engineering Work for Me - @TheDeverakonda Asks Sadhguru",
+      "description": "Actor Vijay Deverakonda asks Sadhguru whether he is capable of Inner Engineering. Watch Sadhguru's response. Transform ...",
+      "url": "https://www.youtube.com/watch?v=2IOqjyNfsF4",
+      "thumbnail": "https://i.ytimg.com/vi/2IOqjyNfsF4/hqdefault.jpg",
+      "date": "2026-10-30",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Lakshmi Is More Than Wealth | Sadhguru",
       "description": "Devi Lakshmi represents not simply material wealth, but the richness of life itself. –Sg Sadhguru 360 A unique, direct-to-audience ...",
@@ -14446,5 +14470,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-30T06:37:38.328103"
+  "last_updated": "2026-10-31T06:27:14.076314"
 }
