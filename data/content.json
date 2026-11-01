@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-01",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-01",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-10-31",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4238,6 +4249,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Ancient Teachings Have Lost Their Power | Sadhguru",
+      "description": "During a satsang, Sadhguru looks at the beauty, greatness, and tragedy of the divine, and why most people miss it despite its ...",
+      "url": "https://www.youtube.com/watch?v=20RYtitoEh8",
+      "thumbnail": "https://i.ytimg.com/vi/20RYtitoEh8/hqdefault.jpg",
+      "date": "2026-10-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Worship Ganesha First? | Sadhguru 360",
+      "description": "In the Yogic system, Ganesha is associated with Muladhara, the root chakra or the very foundation of the human energy system.",
+      "url": "https://www.youtube.com/watch?v=ansCyuXbSuo",
+      "thumbnail": "https://i.ytimg.com/vi/ansCyuXbSuo/hqdefault.jpg",
+      "date": "2026-10-31",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Eat Only 24 Morsels | Sadhguru",
+      "description": "The way you eat not only decides your physical health, but the very way you think, feel, and experience life. -Sg.",
+      "url": "https://www.youtube.com/watch?v=aRj9fWytEkc",
+      "thumbnail": "https://i.ytimg.com/vi/aRj9fWytEkc/hqdefault.jpg",
+      "date": "2026-11-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Will Inner Engineering Work for Me - @TheDeverakonda Asks Sadhguru",
       "description": "Actor Vijay Deverakonda asks Sadhguru whether he is capable of Inner Engineering. Watch Sadhguru's response. Transform ...",
@@ -14470,5 +14520,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-10-31T06:27:14.076314"
+  "last_updated": "2026-11-01T06:59:35.115138"
 }
