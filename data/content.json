@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-02",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-02",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-01",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4249,6 +4260,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Biggest Parenting Myth – Busted! | Sadhguru",
+      "description": "Parenting is not about spending more time. It is about what kind of a person you make yourself into. You must enhance who you ...",
+      "url": "https://www.youtube.com/watch?v=-cs3uyxhKRs",
+      "thumbnail": "https://i.ytimg.com/vi/-cs3uyxhKRs/hqdefault.jpg",
+      "date": "2026-11-01",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Ancient Teachings Have Lost Their Power | Sadhguru",
       "description": "During a satsang, Sadhguru looks at the beauty, greatness, and tragedy of the divine, and why most people miss it despite its ...",
@@ -14520,5 +14544,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-01T06:59:35.115138"
+  "last_updated": "2026-11-02T06:58:38.344524"
 }
