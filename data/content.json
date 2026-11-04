@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-04",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-04",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-03",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4271,6 +4282,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Eating Almonds The Wrong Way? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=PElTC-k6lqg",
+      "thumbnail": "https://i.ytimg.com/vi/PElTC-k6lqg/hqdefault.jpg",
+      "date": "2026-11-04",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Will This Matter On Your Deathbed? | Sadhguru",
       "description": "Before you invest your life into something, you must look at it closely. If it would mean nothing on your deathbed, it is not ...",
@@ -14581,5 +14605,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-03T07:22:57.760889"
+  "last_updated": "2026-11-04T07:04:57.183720"
 }
