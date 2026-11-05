@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-05",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-05",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-04",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4282,6 +4293,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Best Thing You Can Do | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=VWNXLpBT_6o",
+      "thumbnail": "https://i.ytimg.com/vi/VWNXLpBT_6o/hqdefault.jpg",
+      "date": "2026-11-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Eating Almonds The Wrong Way? | Sadhguru",
       "description": "",
@@ -14605,5 +14629,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-04T07:04:57.183720"
+  "last_updated": "2026-11-05T07:32:49.522912"
 }
