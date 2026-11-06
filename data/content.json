@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-06",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-06",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-05",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4293,6 +4304,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Shiva | Poem by Sadhguru",
+      "description": "In lands far and near The footprint of the Unseen One Who is not, is not Absent But absence of Vision for the obvious That makes ...",
+      "url": "https://www.youtube.com/watch?v=dtMOuBoAJPc",
+      "thumbnail": "https://i.ytimg.com/vi/dtMOuBoAJPc/hqdefault.jpg",
+      "date": "2026-11-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Feeling Exhausted? Watch This | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=CowNrOu5iz0",
+      "thumbnail": "https://i.ytimg.com/vi/CowNrOu5iz0/hqdefault.jpg",
+      "date": "2026-11-05",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Best Thing You Can Do | Sadhguru",
       "description": "",
@@ -14629,5 +14666,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-05T07:32:49.522912"
+  "last_updated": "2026-11-06T07:29:44.759964"
 }
