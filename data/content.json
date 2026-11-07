@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-07",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-07",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-06",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4304,6 +4315,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Stop Watching Videos At 1.5x | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=5gYNvN9XOew",
+      "thumbnail": "https://i.ytimg.com/vi/5gYNvN9XOew/hqdefault.jpg",
+      "date": "2026-11-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Dhanteras Festival is Not About Wealth | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=t8rtG5VStME",
+      "thumbnail": "https://i.ytimg.com/vi/t8rtG5VStME/hqdefault.jpg",
+      "date": "2026-11-06",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Shiva | Poem by Sadhguru",
       "description": "In lands far and near The footprint of the Unseen One Who is not, is not Absent But absence of Vision for the obvious That makes ...",
@@ -14666,5 +14703,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-06T07:29:44.759964"
+  "last_updated": "2026-11-07T06:42:31.091407"
 }
