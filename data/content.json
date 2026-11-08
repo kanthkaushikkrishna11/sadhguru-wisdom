@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-08",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-08",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-07",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4315,6 +4326,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Throwback to When Sadhguru Saw the First Look of the Ramayana Movie",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=YO2rVlMHTSs",
+      "thumbnail": "https://i.ytimg.com/vi/YO2rVlMHTSs/hqdefault.jpg",
+      "date": "2026-11-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Mysterious Fire Yogi Sadhguru &amp; Vijji Met Before Dhyanalinga Consecration | Sadhguru",
+      "description": "Sadhguru recounts a mystical encounter in Mysore with a man who appeared briefly and vanished in front of him and his wife Vijji, ...",
+      "url": "https://www.youtube.com/watch?v=IoLgveA035s",
+      "thumbnail": "https://i.ytimg.com/vi/IoLgveA035s/hqdefault.jpg",
+      "date": "2026-11-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Ravana Could Not Defeat Rama | Sadhguru",
+      "description": "Ravana was an accomplished king, an able administrator, a great scholar and devotee. But all his capabilities turned against him ...",
+      "url": "https://www.youtube.com/watch?v=4Mhdx0Bf8TU",
+      "thumbnail": "https://i.ytimg.com/vi/4Mhdx0Bf8TU/hqdefault.jpg",
+      "date": "2026-11-07",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Stop Watching Videos At 1.5x | Sadhguru",
       "description": "",
@@ -14703,5 +14753,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-07T06:42:31.091407"
+  "last_updated": "2026-11-08T06:48:57.078852"
 }
