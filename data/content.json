@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-10",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-10",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-09",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4337,6 +4348,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Should Rama Have Sent Sita Away? | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=S8N5IuYeNhc",
+      "thumbnail": "https://i.ytimg.com/vi/S8N5IuYeNhc/hqdefault.jpg",
+      "date": "2026-11-09",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Diwali Is Not A Religious Festival | Sadhguru",
       "description": "During the Winter, there is a slowdown of life. The celebration of Diwali with light, music and various aspects is to ensure we stay ...",
@@ -14790,5 +14814,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-09T07:26:05.963822"
+  "last_updated": "2026-11-10T07:53:37.773846"
 }
