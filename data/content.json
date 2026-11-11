@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-11",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-11",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-10",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4348,6 +4359,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Create an ambience of Joy within | Sadhguru",
+      "description": "A fundamental ambience of pleasantness within you is a must if you want to do something worthwhile.",
+      "url": "https://www.youtube.com/watch?v=xpjE4cD8icc",
+      "thumbnail": "https://i.ytimg.com/vi/xpjE4cD8icc/hqdefault.jpg",
+      "date": "2026-11-10",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Should Rama Have Sent Sita Away? | Sadhguru",
       "description": "",
@@ -14814,5 +14838,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-10T07:53:37.773846"
+  "last_updated": "2026-11-11T07:21:11.715055"
 }
