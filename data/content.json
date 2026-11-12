@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-12",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-12",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-11",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4359,6 +4370,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Hidden Consequences of a Meat Diet | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=7rfJMGpGGpg",
+      "thumbnail": "https://i.ytimg.com/vi/7rfJMGpGGpg/hqdefault.jpg",
+      "date": "2026-11-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Getting Drunk on Moonbeams: Ancient Yogic Secrets | Sadhguru",
+      "description": "Responding to questions on whether spirituality is a choice and whether one can choose the womb to be born from, Sadhguru ...",
+      "url": "https://www.youtube.com/watch?v=jEu_CGP0qZ0",
+      "thumbnail": "https://i.ytimg.com/vi/jEu_CGP0qZ0/hqdefault.jpg",
+      "date": "2026-11-11",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "An Evening with Sadhguru in Basel, Switzerland | Sadhguru",
+      "description": "Moments from “Technologies of Wellbeing”—a glimpse of an evening exploring wellbeing with Sadhguru in Basel, Switzerland, ...",
+      "url": "https://www.youtube.com/watch?v=Ejn7gPbe330",
+      "thumbnail": "https://i.ytimg.com/vi/Ejn7gPbe330/hqdefault.jpg",
+      "date": "2026-11-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Create an ambience of Joy within | Sadhguru",
       "description": "A fundamental ambience of pleasantness within you is a must if you want to do something worthwhile.",
@@ -14838,5 +14888,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-11T07:21:11.715055"
+  "last_updated": "2026-11-12T07:51:22.366545"
 }
