@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-13",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-13",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-12",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4370,6 +4381,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Never Meditated Before? | Sadhguru",
+      "description": "Access more curated insights exclusively on the Miracle of Mind app.",
+      "url": "https://www.youtube.com/watch?v=mDK5VVh0vRU",
+      "thumbnail": "https://i.ytimg.com/vi/mDK5VVh0vRU/hqdefault.jpg",
+      "date": "2026-11-12",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Ever wondered about the role of karma in your life? | Sadhguru",
+      "description": "Sadhguru explains the true nature of karma and how you can consciously distance yourself from its influence. #Sadhguru ...",
+      "url": "https://www.youtube.com/watch?v=xW0IM-2otIA",
+      "thumbnail": "https://i.ytimg.com/vi/xW0IM-2otIA/hqdefault.jpg",
+      "date": "2026-11-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Forces of the Beyond | Sadhguru",
+      "description": "In the “Occult Safeguards” episode on Sadhguru Exclusive, Sadhguru speaks about powerful forces and forms created in the most ...",
+      "url": "https://www.youtube.com/watch?v=S_HElJa9odY",
+      "thumbnail": "https://i.ytimg.com/vi/S_HElJa9odY/hqdefault.jpg",
+      "date": "2026-11-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Hidden Consequences of a Meat Diet | Sadhguru",
       "description": "",
@@ -14888,5 +14938,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-12T07:51:22.366545"
+  "last_updated": "2026-11-13T07:28:19.171167"
 }
