@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-14",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-14",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-13",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4381,6 +4392,19 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "An Astronaut&#39;s Experience Meets Yogic Wisdom | Sunita Williams &amp; Sadhguru",
+      "description": "Your body carries the entire evolutionary memory of this planet. If you look deep enough, the whole creation is right here within ...",
+      "url": "https://www.youtube.com/watch?v=SO62fog3ig4",
+      "thumbnail": "https://i.ytimg.com/vi/SO62fog3ig4/hqdefault.jpg",
+      "date": "2026-11-13",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Never Meditated Before? | Sadhguru",
       "description": "Access more curated insights exclusively on the Miracle of Mind app.",
@@ -14938,5 +14962,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-13T07:28:19.171167"
+  "last_updated": "2026-11-14T07:10:59.523983"
 }
