@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-15",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-15",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-14",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4392,6 +4403,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Best Time To Make Decisions | Sadhguru",
+      "description": "When you are joyful, you are not compulsive and you see things clearly. Once you see what is sensible in that clarity, just do that ...",
+      "url": "https://www.youtube.com/watch?v=s6DYmvo8x6c",
+      "thumbnail": "https://i.ytimg.com/vi/s6DYmvo8x6c/hqdefault.jpg",
+      "date": "2026-11-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Afraid Of Being Judged? | Sadhguru",
+      "description": "I have not given the privilege to anyone to make me happy, unhappy, angry, or miserable. This is one thing you should do: your ...",
+      "url": "https://www.youtube.com/watch?v=1orlDsCEuk0",
+      "thumbnail": "https://i.ytimg.com/vi/1orlDsCEuk0/hqdefault.jpg",
+      "date": "2026-11-14",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A True Revolution | Sadhguru",
+      "description": "A true and most profound revolution: the inner transformation of individual human beings. Be part of a silent revolution of inner ...",
+      "url": "https://www.youtube.com/watch?v=MxqvrqU3FFM",
+      "thumbnail": "https://i.ytimg.com/vi/MxqvrqU3FFM/hqdefault.jpg",
+      "date": "2026-11-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "An Astronaut&#39;s Experience Meets Yogic Wisdom | Sunita Williams &amp; Sadhguru",
       "description": "Your body carries the entire evolutionary memory of this planet. If you look deep enough, the whole creation is right here within ...",
@@ -14962,5 +15012,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-14T07:10:59.523983"
+  "last_updated": "2026-11-15T07:20:52.062515"
 }
