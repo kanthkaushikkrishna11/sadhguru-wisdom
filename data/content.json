@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-16",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-16",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-15",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4403,6 +4414,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Stop Looking For The Perfect Person | Sadhguru",
+      "description": "Do not aspire to meet a wonderful person. Aspire to become the wonderful person that you expect others to be. -Sg.",
+      "url": "https://www.youtube.com/watch?v=s9O5zUopHgI",
+      "thumbnail": "https://i.ytimg.com/vi/s9O5zUopHgI/hqdefault.jpg",
+      "date": "2026-11-15",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Comfort Zones Are Death Zones | Sadhguru",
+      "description": "If you have no life within you, you will only choose comfort. But if you are full of life, you will naturally choose something difficult ...",
+      "url": "https://www.youtube.com/watch?v=TJMfnoYztF4",
+      "thumbnail": "https://i.ytimg.com/vi/TJMfnoYztF4/hqdefault.jpg",
+      "date": "2026-11-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Best Time To Make Decisions | Sadhguru",
       "description": "When you are joyful, you are not compulsive and you see things clearly. Once you see what is sensible in that clarity, just do that ...",
@@ -15012,5 +15049,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-15T07:20:52.062515"
+  "last_updated": "2026-11-16T07:27:49.977681"
 }
