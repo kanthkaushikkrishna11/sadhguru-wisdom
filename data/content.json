@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-17",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-17",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-16",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4414,6 +4425,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "How Should Gen Z Use Social Media? | Sadhguru",
+      "description": "If you do not want to be abused by anyone, you must understand that no one else wants to be abused either.",
+      "url": "https://www.youtube.com/watch?v=mvNJKxXOb44",
+      "thumbnail": "https://i.ytimg.com/vi/mvNJKxXOb44/hqdefault.jpg",
+      "date": "2026-11-16",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Child Asks Sadhguru, “Is There Heaven?” | Sadhguru",
+      "description": "Do you have any proof that you are not already in heaven and messing it up. -Sg #Sadhguru.",
+      "url": "https://www.youtube.com/watch?v=i7wNCdYjNJ4",
+      "thumbnail": "https://i.ytimg.com/vi/i7wNCdYjNJ4/hqdefault.jpg",
+      "date": "2026-11-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Stop Looking For The Perfect Person | Sadhguru",
       "description": "Do not aspire to meet a wonderful person. Aspire to become the wonderful person that you expect others to be. -Sg.",
@@ -15049,5 +15086,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-16T07:27:49.977681"
+  "last_updated": "2026-11-17T08:40:31.279255"
 }
