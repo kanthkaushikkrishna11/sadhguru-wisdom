@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-18",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-18",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-17",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4425,6 +4436,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Castor Oil Can Keep The Colon Clean | Sadhguru",
+      "description": "Sadhguru explains how a small dose of castor oil every night keeps your colon clean, and boosts your alertness and energy.",
+      "url": "https://www.youtube.com/watch?v=5-jjqI9YnZw",
+      "thumbnail": "https://i.ytimg.com/vi/5-jjqI9YnZw/hqdefault.jpg",
+      "date": "2026-11-17",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Relationships Need Daily Management | Sadhguru",
+      "description": "A relationship is never an absolute thing; it is always a variable. It needs daily management. -Sg.",
+      "url": "https://www.youtube.com/watch?v=mkyIEJxVp5I",
+      "thumbnail": "https://i.ytimg.com/vi/mkyIEJxVp5I/hqdefault.jpg",
+      "date": "2026-11-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "How Should Gen Z Use Social Media? | Sadhguru",
       "description": "If you do not want to be abused by anyone, you must understand that no one else wants to be abused either.",
@@ -15086,5 +15123,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-17T08:40:31.279255"
+  "last_updated": "2026-11-18T08:03:16.969619"
 }
