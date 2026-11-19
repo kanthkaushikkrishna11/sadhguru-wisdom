@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-19",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-19",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-18",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4436,6 +4447,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Why Logic Cannot Explain Life | Sadhguru",
+      "description": "Sadhguru dives into the role of logic in human life — how logic is useful in navigating material realities, but becomes limiting when ...",
+      "url": "https://www.youtube.com/watch?v=tFHqz2W8jQ8",
+      "thumbnail": "https://i.ytimg.com/vi/tFHqz2W8jQ8/hqdefault.jpg",
+      "date": "2026-11-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Mike Tyson &amp; Sadhguru On Overcoming Fear",
+      "description": "Download the “Miracle of Mind App” for free to access a variety of tools to establish mental wellbeing, including a powerful ...",
+      "url": "https://www.youtube.com/watch?v=JHkwhJ7XF-8",
+      "thumbnail": "https://i.ytimg.com/vi/JHkwhJ7XF-8/hqdefault.jpg",
+      "date": "2026-11-18",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Castor Oil Can Keep The Colon Clean | Sadhguru",
       "description": "Sadhguru explains how a small dose of castor oil every night keeps your colon clean, and boosts your alertness and energy.",
@@ -15123,5 +15160,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-18T08:03:16.969619"
+  "last_updated": "2026-11-19T08:09:25.851950"
 }
