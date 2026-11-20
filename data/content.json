@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-20",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-20",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-19",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4447,6 +4458,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Know the Magic of Life | Sadhguru",
+      "description": "Sadhguru speaks about Linga Bhairavi as a possibility to explore the magic of life. Bring Bhairavi home and invigorate your life ...",
+      "url": "https://www.youtube.com/watch?v=m6_1PyUSpcI",
+      "thumbnail": "https://i.ytimg.com/vi/m6_1PyUSpcI/hqdefault.jpg",
+      "date": "2026-11-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Ecstasy Beyond Any Pill | Sadhguru",
+      "description": "Sadhguru explains the difference between a temporary high and a lasting state of inner ecstasy, and how human experience can ...",
+      "url": "https://www.youtube.com/watch?v=rXA61IhVAuw",
+      "thumbnail": "https://i.ytimg.com/vi/rXA61IhVAuw/hqdefault.jpg",
+      "date": "2026-11-19",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru’s Only Achievement",
+      "description": "What does it mean to live in ecstasy? Sadhguru speaks about experiencing life so deeply that just seeing a flower, a child, or the ...",
+      "url": "https://www.youtube.com/watch?v=wlnEA5DFL0c",
+      "thumbnail": "https://i.ytimg.com/vi/wlnEA5DFL0c/hqdefault.jpg",
+      "date": "2026-11-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Why Logic Cannot Explain Life | Sadhguru",
       "description": "Sadhguru dives into the role of logic in human life — how logic is useful in navigating material realities, but becomes limiting when ...",
@@ -15160,5 +15210,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-19T08:09:25.851950"
+  "last_updated": "2026-11-20T07:53:23.756354"
 }
