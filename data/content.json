@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-21",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-21",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-20",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4458,6 +4469,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "The Myth About Work-Life Balance | Sadhguru",
+      "description": "There is no such thing as work–life balance – it is all Life. The Balance has to be within You. -Sg.",
+      "url": "https://www.youtube.com/watch?v=ei0IYGclnyg",
+      "thumbnail": "https://i.ytimg.com/vi/ei0IYGclnyg/hqdefault.jpg",
+      "date": "2026-11-20",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Secret To Lasting Relationships | Sadhguru",
+      "description": "Relationships need responsibility and management, otherwise the most wonderful relationships can go bad. Sadhguru 360 A ...",
+      "url": "https://www.youtube.com/watch?v=u9i3WmdIn1g",
+      "thumbnail": "https://i.ytimg.com/vi/u9i3WmdIn1g/hqdefault.jpg",
+      "date": "2026-11-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Know the Magic of Life | Sadhguru",
       "description": "Sadhguru speaks about Linga Bhairavi as a possibility to explore the magic of life. Bring Bhairavi home and invigorate your life ...",
@@ -15210,5 +15247,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-20T07:53:23.756354"
+  "last_updated": "2026-11-21T07:51:16.211970"
 }
