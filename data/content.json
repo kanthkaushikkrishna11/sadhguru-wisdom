@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-22",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-22",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-21",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4469,6 +4480,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Russia-Ukraine War, Nuclear Weapons &amp; the Silence Around It | Sadhguru",
+      "description": "Responding to a Ukrainian woman whose father and brother are defending their country in the ongoing war, Sadhguru addresses ...",
+      "url": "https://www.youtube.com/watch?v=kkjL7BO2xFA",
+      "thumbnail": "https://i.ytimg.com/vi/kkjL7BO2xFA/hqdefault.jpg",
+      "date": "2026-11-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "How to Experience Sadhguru All the Time | Sadhguru",
+      "description": "A Guru is a presence, not a person. To make use of this energy and possibility, all you have to do is to reduce your identification ...",
+      "url": "https://www.youtube.com/watch?v=x0Pr3G3fHbk",
+      "thumbnail": "https://i.ytimg.com/vi/x0Pr3G3fHbk/hqdefault.jpg",
+      "date": "2026-11-21",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "The Myth About Work-Life Balance | Sadhguru",
       "description": "There is no such thing as work–life balance – it is all Life. The Balance has to be within You. -Sg.",
@@ -15247,5 +15284,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-21T07:51:16.211970"
+  "last_updated": "2026-11-22T07:38:01.071039"
 }
