@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-23",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-23",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-22",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4480,6 +4491,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Can Politicians Really Change? | Sadhguru",
+      "description": "Equanimity and exuberance are vital for leaders. People who have the power to determine where other people's lives are going ...",
+      "url": "https://www.youtube.com/watch?v=ro3J97gygNk",
+      "thumbnail": "https://i.ytimg.com/vi/ro3J97gygNk/hqdefault.jpg",
+      "date": "2026-11-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Chhatrapati Shivaji Maharaj, Peace &amp; Transforming Politicians | Sadhguru &amp; Shri Devendra Fadnavis",
+      "description": "On 21 November, Sadhguru was felicitated with the Global Peace Honours 2026 at the Gateway of India, Mumbai, in recognition ...",
+      "url": "https://www.youtube.com/watch?v=HuPKmiFR-F0",
+      "thumbnail": "https://i.ytimg.com/vi/HuPKmiFR-F0/hqdefault.jpg",
+      "date": "2026-11-22",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Why Sadhguru Wants To Meet Shivaji",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=s9C3MXb6lkc",
+      "thumbnail": "https://i.ytimg.com/vi/s9C3MXb6lkc/hqdefault.jpg",
+      "date": "2026-11-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Russia-Ukraine War, Nuclear Weapons &amp; the Silence Around It | Sadhguru",
       "description": "Responding to a Ukrainian woman whose father and brother are defending their country in the ongoing war, Sadhguru addresses ...",
@@ -15284,5 +15334,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-22T07:38:01.071039"
+  "last_updated": "2026-11-23T08:25:16.217476"
 }
