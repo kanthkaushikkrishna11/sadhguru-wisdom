@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-24",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-24",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-23",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4491,6 +4502,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Global Peace Honours 2026 Felicitates Sadhguru",
+      "description": "Glimpses from the Global Peace Honours 2026, held at the iconic Gateway of India, Mumbai, where Sadhguru was felicitated in ...",
+      "url": "https://www.youtube.com/watch?v=-dzPfCmRowg",
+      "thumbnail": "https://i.ytimg.com/vi/-dzPfCmRowg/hqdefault.jpg",
+      "date": "2026-11-23",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Vishal Bhardwaj &amp; Sadhguru On Disappearing Faces",
+      "description": "What does it mean when the faces and ways of life of the Himalayas begin to disappear? Vishal Bhardwaj and Sadhguru discuss ...",
+      "url": "https://www.youtube.com/watch?v=1JmSpO37mxo",
+      "thumbnail": "https://i.ytimg.com/vi/1JmSpO37mxo/hqdefault.jpg",
+      "date": "2026-11-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru 360 - Ep #8: Discipline &amp; Abandon: The Beauty of Classical Arts | 4K UHD",
+      "description": "On the auspicious occasion of Kartika Purnima, Sadhguru explores how one can move from logic to the magic of life through ...",
+      "url": "https://www.youtube.com/watch?v=nOZ-nXsePtw",
+      "thumbnail": "https://i.ytimg.com/vi/nOZ-nXsePtw/hqdefault.jpg",
+      "date": "2026-11-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Can Politicians Really Change? | Sadhguru",
       "description": "Equanimity and exuberance are vital for leaders. People who have the power to determine where other people's lives are going ...",
@@ -15334,5 +15384,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-23T08:25:16.217476"
+  "last_updated": "2026-11-24T10:33:04.067387"
 }
