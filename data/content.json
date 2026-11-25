@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-25",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-25",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-24",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4502,6 +4513,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Offers Arati At Adiyogi on Karthikai Deepam",
+      "description": "Adiyogi offered humanity technologies for wellbeing: if you are willing to strive, you can take your destiny into your hands.",
+      "url": "https://www.youtube.com/watch?v=M2AhjZgom_8",
+      "thumbnail": "https://i.ytimg.com/vi/M2AhjZgom_8/hqdefault.jpg",
+      "date": "2026-11-24",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "From Logic to Magic: Art, Music &amp; Mysticism | Sadhguru",
+      "description": "In the eight episode of Sadhguru 360, Sadhguru explores how one can move from logic to the magic of life through poetry, music, ...",
+      "url": "https://www.youtube.com/watch?v=SYQfXcuyP9E",
+      "thumbnail": "https://i.ytimg.com/vi/SYQfXcuyP9E/hqdefault.jpg",
+      "date": "2026-11-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Har Har Mahadev! | Sadhguru",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=UoK8cJW2sE4",
+      "thumbnail": "https://i.ytimg.com/vi/UoK8cJW2sE4/hqdefault.jpg",
+      "date": "2026-11-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Global Peace Honours 2026 Felicitates Sadhguru",
       "description": "Glimpses from the Global Peace Honours 2026, held at the iconic Gateway of India, Mumbai, where Sadhguru was felicitated in ...",
@@ -15384,5 +15434,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-24T10:33:04.067387"
+  "last_updated": "2026-11-25T09:22:39.817519"
 }
