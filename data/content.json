@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-26",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-26",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-25",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4513,6 +4524,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Sadhguru Participates in the Linga Bhairavi Maha Arati",
+      "description": "Sadhguru participated in the Linga Bhairavi Maha Arati on Kartika Purnima at Coimbatore. Every Purnima and during other major ...",
+      "url": "https://www.youtube.com/watch?v=LLClhiaJaGY",
+      "thumbnail": "https://i.ytimg.com/vi/LLClhiaJaGY/hqdefault.jpg",
+      "date": "2026-11-25",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "The Music That Moved Sadhguru To Tears",
+      "description": "In the eighth episode of Sadhguru 360, Sadhguru recounts hearing a musical instrument in Mysore for the first time – an ...",
+      "url": "https://www.youtube.com/watch?v=WlkcUikhDJY",
+      "thumbnail": "https://i.ytimg.com/vi/WlkcUikhDJY/hqdefault.jpg",
+      "date": "2026-11-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Offers Arati At Adiyogi on Karthikai Deepam",
       "description": "Adiyogi offered humanity technologies for wellbeing: if you are willing to strive, you can take your destiny into your hands.",
@@ -15434,5 +15471,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-25T09:22:39.817519"
+  "last_updated": "2026-11-26T09:00:27.118117"
 }
