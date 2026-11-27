@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-27",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-27",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-26",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4524,6 +4535,45 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "Devi Yantra Can Do Incredible Things | Sadhguru",
+      "description": "Yantra Ceremony with Sadhguru” offers a rare opportunity to receive the powerful Bhairavi Yantra Sadhana and a personalized ...",
+      "url": "https://www.youtube.com/watch?v=d0G-ked7LME",
+      "thumbnail": "https://i.ytimg.com/vi/d0G-ked7LME/hqdefault.jpg",
+      "date": "2026-11-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "Sadhguru Participates In Kailasha Vadyam",
+      "description": "In Sadhguru's presence, exuberant devotees dance during Kailasha Vadyam, an amalgamation of instrumental sounds that ...",
+      "url": "https://www.youtube.com/watch?v=iHEbT9ggVFo",
+      "thumbnail": "https://i.ytimg.com/vi/iHEbT9ggVFo/hqdefault.jpg",
+      "date": "2026-11-26",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "A Boy Found Adam&#39;s Underwear In The Bible | Sadhguru",
+      "description": "In the latest episode of Sadhguru 360, Sadhguru shares a humorous story about a boy who mistook a dried leaf in the Bible for ...",
+      "url": "https://www.youtube.com/watch?v=K8g8st5zMq8",
+      "thumbnail": "https://i.ytimg.com/vi/K8g8st5zMq8/hqdefault.jpg",
+      "date": "2026-11-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Sadhguru Participates in the Linga Bhairavi Maha Arati",
       "description": "Sadhguru participated in the Linga Bhairavi Maha Arati on Kartika Purnima at Coimbatore. Every Purnima and during other major ...",
@@ -15471,5 +15521,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-26T09:00:27.118117"
+  "last_updated": "2026-11-27T09:16:51.716517"
 }
