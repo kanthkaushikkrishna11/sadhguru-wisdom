@@ -1,6 +1,17 @@
 {
   "quotes": [
     {
+      "content": "Daily wisdom from Sadhguru - 2026-11-28",
+      "source": "Instagram @sadhguru",
+      "url": "https://www.instagram.com/sadhguru/",
+      "date": "2026-11-28",
+      "tags": [
+        "daily",
+        "wisdom"
+      ],
+      "type": "quote"
+    },
+    {
       "content": "Daily wisdom from Sadhguru - 2026-11-27",
       "source": "Instagram @sadhguru",
       "url": "https://www.instagram.com/sadhguru/",
@@ -4535,6 +4546,32 @@
   ],
   "articles": [],
   "videos": [
+    {
+      "title": "People need entertainment because they are not simply ecstatic by themselves. –Sg",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=2LLiNZ5BYqM",
+      "thumbnail": "https://i.ytimg.com/vi/2LLiNZ5BYqM/hqdefault.jpg",
+      "date": "2026-11-27",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
+    {
+      "title": "What Is Most Needed For The World | Sadhguru",
+      "description": "In a satsang with the trainees of the 21-week Hatha Yoga Teacher Training program at Sadhguru Gurukulam, Sadhguru speaks ...",
+      "url": "https://www.youtube.com/watch?v=f1IauHGyeww",
+      "thumbnail": "https://i.ytimg.com/vi/f1IauHGyeww/hqdefault.jpg",
+      "date": "2026-11-28",
+      "source": "YouTube Official",
+      "tags": [
+        "video",
+        "youtube"
+      ],
+      "type": "video"
+    },
     {
       "title": "Devi Yantra Can Do Incredible Things | Sadhguru",
       "description": "Yantra Ceremony with Sadhguru” offers a rare opportunity to receive the powerful Bhairavi Yantra Sadhana and a personalized ...",
@@ -15521,5 +15558,5 @@
       "type": "video"
     }
   ],
-  "last_updated": "2026-11-27T09:16:51.716517"
+  "last_updated": "2026-11-28T08:34:08.677265"
 }
